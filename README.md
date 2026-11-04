@@ -13,4 +13,4 @@ Analysis of data analyst, BI, and data science job postings in India.
 Python (pandas), SQLite, Power BI
 
 ## Status
-Step 1 complete: project setup
+In progress
