@@ -1,0 +1,4630 @@
+job_id,skill,category
+1,SQL,Database
+1,Python,Programming
+1,Excel,Spreadsheet
+1,Power BI,BI Tool
+1,Data Visualization,Analytics
+1,Statistics,Analytics
+1,Machine Learning,Data Science
+1,ETL/Pipelines,Data Engineering
+1,Communication,Soft Skill
+1,Problem Solving,Soft Skill
+2,Python,Programming
+2,R,Programming
+2,Data Visualization,Analytics
+2,Statistics,Analytics
+2,Machine Learning,Data Science
+2,Deep Learning,Data Science
+3,Python,Programming
+3,R,Programming
+3,Statistics,Analytics
+3,SAS/SPSS,Tools
+3,Communication,Soft Skill
+3,Problem Solving,Soft Skill
+4,SQL,Database
+4,Python,Programming
+4,R,Programming
+4,Excel,Spreadsheet
+4,Data Visualization,Analytics
+4,Data Warehousing/Modeling,Data Engineering
+4,Communication,Soft Skill
+4,Problem Solving,Soft Skill
+5,SQL,Database
+5,Python,Programming
+5,Excel,Spreadsheet
+5,Tableau,BI Tool
+5,Data Visualization,Analytics
+5,Machine Learning,Data Science
+5,ETL/Pipelines,Data Engineering
+5,Spark/Big Data,Data Engineering
+5,Data Warehousing/Modeling,Data Engineering
+5,Communication,Soft Skill
+6,Python,Programming
+6,Power BI,BI Tool
+6,Tableau,BI Tool
+6,Data Visualization,Analytics
+6,Statistics,Analytics
+6,Machine Learning,Data Science
+7,Python,Programming
+7,Power BI,BI Tool
+7,Tableau,BI Tool
+7,Data Visualization,Analytics
+7,Statistics,Analytics
+7,SAS/SPSS,Tools
+7,Communication,Soft Skill
+7,Problem Solving,Soft Skill
+8,SQL,Database
+8,Python,Programming
+8,Excel,Spreadsheet
+8,Tableau,BI Tool
+8,Data Visualization,Analytics
+8,Statistics,Analytics
+8,Machine Learning,Data Science
+8,Spark/Big Data,Data Engineering
+8,Data Warehousing/Modeling,Data Engineering
+8,Communication,Soft Skill
+8,Problem Solving,Soft Skill
+9,Python,Programming
+9,Data Visualization,Analytics
+9,Machine Learning,Data Science
+9,Deep Learning,Data Science
+9,NLP/GenAI,Data Science
+9,ETL/Pipelines,Data Engineering
+9,Spark/Big Data,Data Engineering
+10,Python,Programming
+10,R,Programming
+10,Data Visualization,Analytics
+10,Statistics,Analytics
+10,Machine Learning,Data Science
+10,Deep Learning,Data Science
+10,Spark/Big Data,Data Engineering
+10,Git/GitHub,Tools
+10,Communication,Soft Skill
+11,SQL,Database
+11,Python,Programming
+11,Data Visualization,Analytics
+11,Statistics,Analytics
+11,Machine Learning,Data Science
+11,ETL/Pipelines,Data Engineering
+11,Communication,Soft Skill
+12,Excel,Spreadsheet
+12,Machine Learning,Data Science
+12,Snowflake,Cloud/Platform
+13,SQL,Database
+13,Python,Programming
+13,R,Programming
+13,Pandas/NumPy,Programming
+13,Data Visualization,Analytics
+13,Statistics,Analytics
+14,SQL,Database
+14,Python,Programming
+14,Power BI,BI Tool
+14,Tableau,BI Tool
+14,Looker/Qlik,BI Tool
+14,Data Visualization,Analytics
+14,Statistics,Analytics
+14,ETL/Pipelines,Data Engineering
+14,Data Warehousing/Modeling,Data Engineering
+14,GCP/BigQuery,Cloud/Platform
+14,Communication,Soft Skill
+14,Problem Solving,Soft Skill
+16,SQL,Database
+16,Python,Programming
+16,Excel,Spreadsheet
+16,Statistics,Analytics
+16,Deep Learning,Data Science
+16,Data Warehousing/Modeling,Data Engineering
+16,SAS/SPSS,Tools
+16,Communication,Soft Skill
+17,SQL,Database
+17,ETL/Pipelines,Data Engineering
+17,Spark/Big Data,Data Engineering
+17,Data Warehousing/Modeling,Data Engineering
+17,Snowflake,Cloud/Platform
+17,AWS,Cloud/Platform
+17,Azure,Cloud/Platform
+17,GCP/BigQuery,Cloud/Platform
+17,Problem Solving,Soft Skill
+18,SQL,Database
+18,Python,Programming
+18,Pandas/NumPy,Programming
+18,Data Visualization,Analytics
+18,Statistics,Analytics
+18,Machine Learning,Data Science
+18,Data Warehousing/Modeling,Data Engineering
+18,Communication,Soft Skill
+19,Python,Programming
+19,Pandas/NumPy,Programming
+19,Data Visualization,Analytics
+19,Statistics,Analytics
+19,Machine Learning,Data Science
+19,Deep Learning,Data Science
+19,ETL/Pipelines,Data Engineering
+19,Spark/Big Data,Data Engineering
+19,Communication,Soft Skill
+20,Communication,Soft Skill
+21,SQL,Database
+21,Python,Programming
+21,Excel,Spreadsheet
+21,Statistics,Analytics
+21,Spark/Big Data,Data Engineering
+21,SAS/SPSS,Tools
+23,SQL,Database
+23,Python,Programming
+23,Data Visualization,Analytics
+24,SQL,Database
+25,Python,Programming
+25,R,Programming
+25,Machine Learning,Data Science
+25,Deep Learning,Data Science
+26,SQL,Database
+26,Python,Programming
+26,R,Programming
+26,Statistics,Analytics
+26,Machine Learning,Data Science
+26,Spark/Big Data,Data Engineering
+26,AWS,Cloud/Platform
+26,Git/GitHub,Tools
+27,SQL,Database
+27,Python,Programming
+27,R,Programming
+27,Excel,Spreadsheet
+27,Power BI,BI Tool
+27,Tableau,BI Tool
+27,Data Visualization,Analytics
+27,Statistics,Analytics
+27,Communication,Soft Skill
+27,Problem Solving,Soft Skill
+28,Python,Programming
+28,R,Programming
+28,Data Visualization,Analytics
+28,Statistics,Analytics
+28,Machine Learning,Data Science
+28,Deep Learning,Data Science
+29,SQL,Database
+29,Python,Programming
+29,R,Programming
+29,Excel,Spreadsheet
+29,Tableau,BI Tool
+29,Data Visualization,Analytics
+29,Statistics,Analytics
+29,Machine Learning,Data Science
+29,Data Warehousing/Modeling,Data Engineering
+29,Communication,Soft Skill
+29,Problem Solving,Soft Skill
+30,Excel,Spreadsheet
+30,VBA/Macros,Spreadsheet
+30,Power BI,BI Tool
+30,Tableau,BI Tool
+30,Data Visualization,Analytics
+30,Communication,Soft Skill
+31,Data Visualization,Analytics
+31,Communication,Soft Skill
+32,Python,Programming
+32,R,Programming
+32,Statistics,Analytics
+32,Machine Learning,Data Science
+32,Deep Learning,Data Science
+32,Communication,Soft Skill
+32,Problem Solving,Soft Skill
+33,SQL,Database
+33,Python,Programming
+33,R,Programming
+33,Power BI,BI Tool
+33,Tableau,BI Tool
+33,Data Visualization,Analytics
+33,ETL/Pipelines,Data Engineering
+33,Data Warehousing/Modeling,Data Engineering
+33,SAS/SPSS,Tools
+33,Communication,Soft Skill
+34,SQL,Database
+34,Python,Programming
+34,R,Programming
+34,Data Visualization,Analytics
+34,Statistics,Analytics
+34,Machine Learning,Data Science
+34,Deep Learning,Data Science
+34,Communication,Soft Skill
+34,Problem Solving,Soft Skill
+36,SQL,Database
+36,Python,Programming
+36,R,Programming
+36,Tableau,BI Tool
+36,Data Visualization,Analytics
+36,Statistics,Analytics
+36,Machine Learning,Data Science
+36,Deep Learning,Data Science
+36,NLP/GenAI,Data Science
+36,Spark/Big Data,Data Engineering
+36,AWS,Cloud/Platform
+36,Azure,Cloud/Platform
+36,GCP/BigQuery,Cloud/Platform
+36,Communication,Soft Skill
+37,SQL,Database
+37,Python,Programming
+37,R,Programming
+37,Excel,Spreadsheet
+37,Tableau,BI Tool
+37,Data Visualization,Analytics
+37,Communication,Soft Skill
+37,Problem Solving,Soft Skill
+38,Excel,Spreadsheet
+38,Data Visualization,Analytics
+39,Excel,Spreadsheet
+39,VBA/Macros,Spreadsheet
+40,SQL,Database
+40,Excel,Spreadsheet
+40,Statistics,Analytics
+40,Communication,Soft Skill
+40,Problem Solving,Soft Skill
+41,SQL,Database
+41,Excel,Spreadsheet
+41,Tableau,BI Tool
+41,Data Visualization,Analytics
+41,Statistics,Analytics
+41,ETL/Pipelines,Data Engineering
+41,Data Warehousing/Modeling,Data Engineering
+41,Communication,Soft Skill
+41,Problem Solving,Soft Skill
+42,SQL,Database
+42,ETL/Pipelines,Data Engineering
+42,Data Warehousing/Modeling,Data Engineering
+43,Excel,Spreadsheet
+44,SQL,Database
+44,Excel,Spreadsheet
+44,Power BI,BI Tool
+44,DAX/Power Query,BI Tool
+44,Data Visualization,Analytics
+44,Statistics,Analytics
+44,ETL/Pipelines,Data Engineering
+44,Snowflake,Cloud/Platform
+44,Communication,Soft Skill
+44,Problem Solving,Soft Skill
+45,SQL,Database
+45,Python,Programming
+45,Power BI,BI Tool
+45,Tableau,BI Tool
+45,Looker/Qlik,BI Tool
+45,Data Visualization,Analytics
+45,ETL/Pipelines,Data Engineering
+45,Spark/Big Data,Data Engineering
+45,Data Warehousing/Modeling,Data Engineering
+45,Communication,Soft Skill
+45,Problem Solving,Soft Skill
+46,SQL,Database
+46,Python,Programming
+46,Tableau,BI Tool
+46,Spark/Big Data,Data Engineering
+46,Communication,Soft Skill
+47,SQL,Database
+47,Python,Programming
+47,R,Programming
+47,Pandas/NumPy,Programming
+47,Statistics,Analytics
+47,Machine Learning,Data Science
+47,Deep Learning,Data Science
+47,ETL/Pipelines,Data Engineering
+47,Azure,Cloud/Platform
+47,Git/GitHub,Tools
+47,Problem Solving,Soft Skill
+49,SQL,Database
+49,Python,Programming
+49,Excel,Spreadsheet
+49,Power BI,BI Tool
+49,Tableau,BI Tool
+49,Looker/Qlik,BI Tool
+49,Data Visualization,Analytics
+49,ETL/Pipelines,Data Engineering
+49,Spark/Big Data,Data Engineering
+49,Data Warehousing/Modeling,Data Engineering
+49,Communication,Soft Skill
+49,Problem Solving,Soft Skill
+50,Communication,Soft Skill
+50,Problem Solving,Soft Skill
+51,SQL,Database
+51,Communication,Soft Skill
+51,Problem Solving,Soft Skill
+52,Excel,Spreadsheet
+52,Data Visualization,Analytics
+52,Spark/Big Data,Data Engineering
+52,Communication,Soft Skill
+54,SQL,Database
+54,Excel,Spreadsheet
+54,Power BI,BI Tool
+54,Data Visualization,Analytics
+54,Communication,Soft Skill
+54,Problem Solving,Soft Skill
+55,SQL,Database
+55,Python,Programming
+55,Power BI,BI Tool
+55,Tableau,BI Tool
+55,Communication,Soft Skill
+55,Problem Solving,Soft Skill
+56,SQL,Database
+56,Python,Programming
+56,Excel,Spreadsheet
+56,Tableau,BI Tool
+56,Data Visualization,Analytics
+56,Statistics,Analytics
+56,GCP/BigQuery,Cloud/Platform
+56,Communication,Soft Skill
+56,Problem Solving,Soft Skill
+57,SQL,Database
+57,Python,Programming
+57,Pandas/NumPy,Programming
+57,Tableau,BI Tool
+57,Data Visualization,Analytics
+57,Statistics,Analytics
+57,Machine Learning,Data Science
+57,Deep Learning,Data Science
+57,NLP/GenAI,Data Science
+57,Git/GitHub,Tools
+57,Communication,Soft Skill
+58,Communication,Soft Skill
+59,SQL,Database
+59,Excel,Spreadsheet
+59,ETL/Pipelines,Data Engineering
+59,Data Warehousing/Modeling,Data Engineering
+59,Snowflake,Cloud/Platform
+59,AWS,Cloud/Platform
+59,Communication,Soft Skill
+60,SQL,Database
+60,Excel,Spreadsheet
+60,Power BI,BI Tool
+60,ETL/Pipelines,Data Engineering
+60,Azure,Cloud/Platform
+60,Communication,Soft Skill
+60,Problem Solving,Soft Skill
+61,SQL,Database
+61,Python,Programming
+61,Excel,Spreadsheet
+61,Statistics,Analytics
+61,Communication,Soft Skill
+62,Problem Solving,Soft Skill
+63,SQL,Database
+63,Python,Programming
+63,Excel,Spreadsheet
+63,VBA/Macros,Spreadsheet
+63,Data Visualization,Analytics
+63,Data Warehousing/Modeling,Data Engineering
+63,Communication,Soft Skill
+64,SQL,Database
+64,Excel,Spreadsheet
+64,Tableau,BI Tool
+64,Looker/Qlik,BI Tool
+64,Data Visualization,Analytics
+64,ETL/Pipelines,Data Engineering
+64,Data Warehousing/Modeling,Data Engineering
+64,Communication,Soft Skill
+64,Problem Solving,Soft Skill
+65,SQL,Database
+65,Python,Programming
+65,Data Visualization,Analytics
+65,Statistics,Analytics
+65,Machine Learning,Data Science
+65,Deep Learning,Data Science
+65,Communication,Soft Skill
+65,Problem Solving,Soft Skill
+66,SQL,Database
+66,Python,Programming
+66,Data Visualization,Analytics
+66,Statistics,Analytics
+66,Machine Learning,Data Science
+66,ETL/Pipelines,Data Engineering
+66,Spark/Big Data,Data Engineering
+66,AWS,Cloud/Platform
+66,Git/GitHub,Tools
+66,Communication,Soft Skill
+66,Problem Solving,Soft Skill
+67,SQL,Database
+67,Python,Programming
+67,Machine Learning,Data Science
+67,NLP/GenAI,Data Science
+68,SQL,Database
+68,Python,Programming
+68,ETL/Pipelines,Data Engineering
+68,Data Warehousing/Modeling,Data Engineering
+68,GCP/BigQuery,Cloud/Platform
+69,SQL,Database
+69,AWS,Cloud/Platform
+69,Azure,Cloud/Platform
+69,GCP/BigQuery,Cloud/Platform
+69,Communication,Soft Skill
+69,Problem Solving,Soft Skill
+70,SQL,Database
+70,Python,Programming
+70,Power BI,BI Tool
+70,Tableau,BI Tool
+70,Data Visualization,Analytics
+70,Data Warehousing/Modeling,Data Engineering
+70,AWS,Cloud/Platform
+70,Communication,Soft Skill
+71,SQL,Database
+71,Python,Programming
+71,R,Programming
+71,Excel,Spreadsheet
+71,Power BI,BI Tool
+71,Tableau,BI Tool
+71,Data Visualization,Analytics
+71,Statistics,Analytics
+71,Machine Learning,Data Science
+71,Communication,Soft Skill
+71,Problem Solving,Soft Skill
+72,SQL,Database
+72,Python,Programming
+72,ETL/Pipelines,Data Engineering
+72,Data Warehousing/Modeling,Data Engineering
+72,Snowflake,Cloud/Platform
+72,AWS,Cloud/Platform
+72,Git/GitHub,Tools
+72,Communication,Soft Skill
+72,Problem Solving,Soft Skill
+73,Data Warehousing/Modeling,Data Engineering
+73,Communication,Soft Skill
+74,ETL/Pipelines,Data Engineering
+74,Spark/Big Data,Data Engineering
+74,Data Warehousing/Modeling,Data Engineering
+74,Communication,Soft Skill
+75,Tableau,BI Tool
+75,Communication,Soft Skill
+75,Problem Solving,Soft Skill
+76,Statistics,Analytics
+76,Communication,Soft Skill
+77,Machine Learning,Data Science
+77,Communication,Soft Skill
+77,Problem Solving,Soft Skill
+78,SQL,Database
+78,Python,Programming
+78,ETL/Pipelines,Data Engineering
+78,Data Warehousing/Modeling,Data Engineering
+78,GCP/BigQuery,Cloud/Platform
+78,Git/GitHub,Tools
+79,Communication,Soft Skill
+81,SQL,Database
+81,Python,Programming
+81,Pandas/NumPy,Programming
+81,Tableau,BI Tool
+81,Data Visualization,Analytics
+81,Communication,Soft Skill
+82,Python,Programming
+82,Power BI,BI Tool
+82,Tableau,BI Tool
+82,Data Visualization,Analytics
+82,Statistics,Analytics
+82,Machine Learning,Data Science
+83,Machine Learning,Data Science
+84,SQL,Database
+84,Python,Programming
+84,Excel,Spreadsheet
+84,Tableau,BI Tool
+84,ETL/Pipelines,Data Engineering
+84,Spark/Big Data,Data Engineering
+84,Data Warehousing/Modeling,Data Engineering
+84,Communication,Soft Skill
+85,Excel,Spreadsheet
+85,Data Warehousing/Modeling,Data Engineering
+85,Communication,Soft Skill
+86,Python,Programming
+86,Statistics,Analytics
+86,Machine Learning,Data Science
+86,Deep Learning,Data Science
+86,Spark/Big Data,Data Engineering
+87,SQL,Database
+87,Python,Programming
+87,R,Programming
+87,Excel,Spreadsheet
+87,Power BI,BI Tool
+87,Tableau,BI Tool
+87,Looker/Qlik,BI Tool
+87,Data Visualization,Analytics
+87,Statistics,Analytics
+87,Data Warehousing/Modeling,Data Engineering
+87,Snowflake,Cloud/Platform
+87,GCP/BigQuery,Cloud/Platform
+88,Excel,Spreadsheet
+88,Machine Learning,Data Science
+88,GCP/BigQuery,Cloud/Platform
+89,Python,Programming
+89,Machine Learning,Data Science
+89,Communication,Soft Skill
+90,SQL,Database
+90,Python,Programming
+90,R,Programming
+90,Excel,Spreadsheet
+90,Tableau,BI Tool
+90,Data Visualization,Analytics
+90,Statistics,Analytics
+90,SAS/SPSS,Tools
+90,Communication,Soft Skill
+90,Problem Solving,Soft Skill
+91,SQL,Database
+91,Python,Programming
+91,R,Programming
+91,Tableau,BI Tool
+91,Data Visualization,Analytics
+91,Statistics,Analytics
+91,Machine Learning,Data Science
+91,Communication,Soft Skill
+91,Problem Solving,Soft Skill
+92,SQL,Database
+92,Excel,Spreadsheet
+92,Data Visualization,Analytics
+92,Statistics,Analytics
+93,Data Visualization,Analytics
+93,Data Warehousing/Modeling,Data Engineering
+94,SQL,Database
+94,Python,Programming
+94,Data Visualization,Analytics
+94,Spark/Big Data,Data Engineering
+94,Data Warehousing/Modeling,Data Engineering
+94,AWS,Cloud/Platform
+94,Problem Solving,Soft Skill
+96,Python,Programming
+96,Machine Learning,Data Science
+96,Deep Learning,Data Science
+96,Problem Solving,Soft Skill
+97,SQL,Database
+97,Python,Programming
+97,R,Programming
+97,Statistics,Analytics
+97,Spark/Big Data,Data Engineering
+97,SAS/SPSS,Tools
+97,Problem Solving,Soft Skill
+98,Python,Programming
+98,R,Programming
+98,Statistics,Analytics
+98,Machine Learning,Data Science
+98,Communication,Soft Skill
+99,SQL,Database
+99,Python,Programming
+99,Statistics,Analytics
+99,Machine Learning,Data Science
+99,Deep Learning,Data Science
+99,NLP/GenAI,Data Science
+99,AWS,Cloud/Platform
+99,Communication,Soft Skill
+99,Problem Solving,Soft Skill
+100,SQL,Database
+100,Python,Programming
+100,Machine Learning,Data Science
+100,Deep Learning,Data Science
+100,ETL/Pipelines,Data Engineering
+100,Spark/Big Data,Data Engineering
+100,Data Warehousing/Modeling,Data Engineering
+100,AWS,Cloud/Platform
+100,Azure,Cloud/Platform
+100,GCP/BigQuery,Cloud/Platform
+100,Communication,Soft Skill
+101,SQL,Database
+101,Python,Programming
+101,ETL/Pipelines,Data Engineering
+101,Spark/Big Data,Data Engineering
+101,Data Warehousing/Modeling,Data Engineering
+101,AWS,Cloud/Platform
+101,Azure,Cloud/Platform
+101,GCP/BigQuery,Cloud/Platform
+102,SQL,Database
+102,Python,Programming
+102,Data Visualization,Analytics
+102,Statistics,Analytics
+102,Machine Learning,Data Science
+102,Deep Learning,Data Science
+102,NLP/GenAI,Data Science
+102,ETL/Pipelines,Data Engineering
+102,Spark/Big Data,Data Engineering
+102,AWS,Cloud/Platform
+102,Azure,Cloud/Platform
+102,Communication,Soft Skill
+102,Problem Solving,Soft Skill
+103,SQL,Database
+103,Data Warehousing/Modeling,Data Engineering
+103,Snowflake,Cloud/Platform
+105,Statistics,Analytics
+105,Communication,Soft Skill
+106,Python,Programming
+106,Statistics,Analytics
+106,Machine Learning,Data Science
+106,Deep Learning,Data Science
+106,Spark/Big Data,Data Engineering
+106,Data Warehousing/Modeling,Data Engineering
+106,AWS,Cloud/Platform
+106,Azure,Cloud/Platform
+106,GCP/BigQuery,Cloud/Platform
+107,Python,Programming
+107,R,Programming
+107,Statistics,Analytics
+107,SAS/SPSS,Tools
+108,SQL,Database
+108,Python,Programming
+108,Data Visualization,Analytics
+108,ETL/Pipelines,Data Engineering
+108,Spark/Big Data,Data Engineering
+108,AWS,Cloud/Platform
+108,Communication,Soft Skill
+108,Problem Solving,Soft Skill
+109,SQL,Database
+109,Excel,Spreadsheet
+109,Power BI,BI Tool
+109,DAX/Power Query,BI Tool
+109,Data Visualization,Analytics
+109,Data Warehousing/Modeling,Data Engineering
+109,Problem Solving,Soft Skill
+110,SQL,Database
+110,Python,Programming
+110,ETL/Pipelines,Data Engineering
+110,Spark/Big Data,Data Engineering
+110,Data Warehousing/Modeling,Data Engineering
+110,Snowflake,Cloud/Platform
+110,AWS,Cloud/Platform
+110,Azure,Cloud/Platform
+110,Communication,Soft Skill
+110,Problem Solving,Soft Skill
+111,SQL,Database
+111,Excel,Spreadsheet
+111,Communication,Soft Skill
+112,SQL,Database
+112,Python,Programming
+112,R,Programming
+112,Pandas/NumPy,Programming
+112,Statistics,Analytics
+112,Data Warehousing/Modeling,Data Engineering
+112,Communication,Soft Skill
+113,Communication,Soft Skill
+114,SQL,Database
+114,Spark/Big Data,Data Engineering
+114,Data Warehousing/Modeling,Data Engineering
+114,SAS/SPSS,Tools
+115,Excel,Spreadsheet
+115,Data Visualization,Analytics
+116,Excel,Spreadsheet
+116,Power BI,BI Tool
+116,Data Visualization,Analytics
+116,Communication,Soft Skill
+117,Spark/Big Data,Data Engineering
+117,AWS,Cloud/Platform
+119,SQL,Database
+119,Excel,Spreadsheet
+119,Power BI,BI Tool
+119,Data Visualization,Analytics
+119,Communication,Soft Skill
+119,Problem Solving,Soft Skill
+120,Excel,Spreadsheet
+120,Communication,Soft Skill
+121,Communication,Soft Skill
+122,SQL,Database
+122,Excel,Spreadsheet
+122,Tableau,BI Tool
+122,Data Visualization,Analytics
+122,Communication,Soft Skill
+123,Data Visualization,Analytics
+123,Statistics,Analytics
+123,Communication,Soft Skill
+123,Problem Solving,Soft Skill
+124,Python,Programming
+124,Spark/Big Data,Data Engineering
+125,Excel,Spreadsheet
+125,Tableau,BI Tool
+125,Looker/Qlik,BI Tool
+125,Communication,Soft Skill
+125,Problem Solving,Soft Skill
+126,SQL,Database
+126,Python,Programming
+126,Tableau,BI Tool
+126,Data Visualization,Analytics
+126,Statistics,Analytics
+126,Spark/Big Data,Data Engineering
+126,Communication,Soft Skill
+126,Problem Solving,Soft Skill
+127,Python,Programming
+127,R,Programming
+127,Pandas/NumPy,Programming
+127,Machine Learning,Data Science
+127,Deep Learning,Data Science
+127,Communication,Soft Skill
+127,Problem Solving,Soft Skill
+128,Statistics,Analytics
+128,Communication,Soft Skill
+129,Data Visualization,Analytics
+129,Statistics,Analytics
+129,Machine Learning,Data Science
+129,AWS,Cloud/Platform
+129,Communication,Soft Skill
+129,Problem Solving,Soft Skill
+130,Data Visualization,Analytics
+130,Communication,Soft Skill
+131,SQL,Database
+131,Python,Programming
+131,R,Programming
+131,Power BI,BI Tool
+131,Tableau,BI Tool
+131,Data Visualization,Analytics
+131,Statistics,Analytics
+131,Machine Learning,Data Science
+131,Data Warehousing/Modeling,Data Engineering
+131,Communication,Soft Skill
+131,Problem Solving,Soft Skill
+132,Excel,Spreadsheet
+132,Data Visualization,Analytics
+132,Communication,Soft Skill
+132,Problem Solving,Soft Skill
+133,Communication,Soft Skill
+133,Problem Solving,Soft Skill
+134,SQL,Database
+134,Python,Programming
+134,Azure,Cloud/Platform
+134,Communication,Soft Skill
+135,Python,Programming
+135,R,Programming
+135,Pandas/NumPy,Programming
+135,Data Visualization,Analytics
+135,Statistics,Analytics
+135,Machine Learning,Data Science
+135,Communication,Soft Skill
+135,Problem Solving,Soft Skill
+136,Excel,Spreadsheet
+136,Communication,Soft Skill
+136,Problem Solving,Soft Skill
+137,Statistics,Analytics
+137,Machine Learning,Data Science
+137,Deep Learning,Data Science
+137,NLP/GenAI,Data Science
+137,AWS,Cloud/Platform
+137,Azure,Cloud/Platform
+137,GCP/BigQuery,Cloud/Platform
+138,Statistics,Analytics
+138,Machine Learning,Data Science
+138,Communication,Soft Skill
+138,Problem Solving,Soft Skill
+139,SQL,Database
+139,Excel,Spreadsheet
+139,SAS/SPSS,Tools
+140,SQL,Database
+140,Python,Programming
+140,Data Visualization,Analytics
+140,Statistics,Analytics
+140,Machine Learning,Data Science
+140,Data Warehousing/Modeling,Data Engineering
+140,Git/GitHub,Tools
+140,Communication,Soft Skill
+140,Problem Solving,Soft Skill
+141,SQL,Database
+141,Python,Programming
+141,Excel,Spreadsheet
+141,Spark/Big Data,Data Engineering
+141,Communication,Soft Skill
+142,Python,Programming
+142,ETL/Pipelines,Data Engineering
+142,Spark/Big Data,Data Engineering
+142,Data Warehousing/Modeling,Data Engineering
+142,AWS,Cloud/Platform
+142,Azure,Cloud/Platform
+142,GCP/BigQuery,Cloud/Platform
+143,Communication,Soft Skill
+144,SQL,Database
+144,Python,Programming
+144,Power BI,BI Tool
+144,Tableau,BI Tool
+144,Data Visualization,Analytics
+144,Statistics,Analytics
+144,ETL/Pipelines,Data Engineering
+144,Data Warehousing/Modeling,Data Engineering
+144,Communication,Soft Skill
+145,SQL,Database
+145,Python,Programming
+145,Tableau,BI Tool
+145,Data Visualization,Analytics
+145,Statistics,Analytics
+145,Machine Learning,Data Science
+145,Communication,Soft Skill
+146,Python,Programming
+146,R,Programming
+146,Statistics,Analytics
+146,Machine Learning,Data Science
+146,Problem Solving,Soft Skill
+147,SQL,Database
+147,Python,Programming
+147,Excel,Spreadsheet
+147,Statistics,Analytics
+147,ETL/Pipelines,Data Engineering
+147,Communication,Soft Skill
+148,SQL,Database
+148,Python,Programming
+148,Tableau,BI Tool
+148,Machine Learning,Data Science
+148,ETL/Pipelines,Data Engineering
+148,AWS,Cloud/Platform
+148,Communication,Soft Skill
+149,SQL,Database
+149,Python,Programming
+149,ETL/Pipelines,Data Engineering
+149,Data Warehousing/Modeling,Data Engineering
+149,AWS,Cloud/Platform
+149,Communication,Soft Skill
+150,Python,Programming
+150,ETL/Pipelines,Data Engineering
+150,Snowflake,Cloud/Platform
+150,AWS,Cloud/Platform
+150,Communication,Soft Skill
+151,Python,Programming
+151,Excel,Spreadsheet
+151,Power BI,BI Tool
+151,Tableau,BI Tool
+151,Machine Learning,Data Science
+151,SAS/SPSS,Tools
+151,Communication,Soft Skill
+151,Problem Solving,Soft Skill
+152,SQL,Database
+152,Python,Programming
+152,R,Programming
+152,Power BI,BI Tool
+152,Tableau,BI Tool
+152,Data Visualization,Analytics
+152,Statistics,Analytics
+152,Machine Learning,Data Science
+152,Spark/Big Data,Data Engineering
+152,Data Warehousing/Modeling,Data Engineering
+152,Git/GitHub,Tools
+152,Communication,Soft Skill
+152,Problem Solving,Soft Skill
+153,SQL,Database
+153,Python,Programming
+153,Excel,Spreadsheet
+153,VBA/Macros,Spreadsheet
+153,Power BI,BI Tool
+153,Tableau,BI Tool
+153,Data Visualization,Analytics
+153,Statistics,Analytics
+153,Communication,Soft Skill
+153,Problem Solving,Soft Skill
+154,SQL,Database
+154,Python,Programming
+154,Tableau,BI Tool
+154,ETL/Pipelines,Data Engineering
+154,Data Warehousing/Modeling,Data Engineering
+155,SQL,Database
+155,Python,Programming
+155,Power BI,BI Tool
+155,Tableau,BI Tool
+155,Data Visualization,Analytics
+155,ETL/Pipelines,Data Engineering
+155,Snowflake,Cloud/Platform
+155,Communication,Soft Skill
+155,Problem Solving,Soft Skill
+156,Statistics,Analytics
+156,Communication,Soft Skill
+157,SQL,Database
+157,Python,Programming
+157,R,Programming
+157,Data Visualization,Analytics
+157,Statistics,Analytics
+157,Machine Learning,Data Science
+157,Communication,Soft Skill
+157,Problem Solving,Soft Skill
+158,SQL,Database
+158,Python,Programming
+158,Power BI,BI Tool
+158,Tableau,BI Tool
+158,Data Visualization,Analytics
+158,Statistics,Analytics
+158,Azure,Cloud/Platform
+158,Communication,Soft Skill
+158,Problem Solving,Soft Skill
+159,Python,Programming
+159,Communication,Soft Skill
+159,Problem Solving,Soft Skill
+160,SQL,Database
+160,Python,Programming
+160,Statistics,Analytics
+160,Machine Learning,Data Science
+160,Deep Learning,Data Science
+160,NLP/GenAI,Data Science
+160,AWS,Cloud/Platform
+160,Communication,Soft Skill
+160,Problem Solving,Soft Skill
+161,SQL,Database
+161,Excel,Spreadsheet
+161,Data Visualization,Analytics
+161,Communication,Soft Skill
+163,SQL,Database
+163,Python,Programming
+163,Pandas/NumPy,Programming
+163,Power BI,BI Tool
+163,Tableau,BI Tool
+163,Looker/Qlik,BI Tool
+163,Data Visualization,Analytics
+163,Statistics,Analytics
+163,Deep Learning,Data Science
+163,Spark/Big Data,Data Engineering
+163,Data Warehousing/Modeling,Data Engineering
+163,Azure,Cloud/Platform
+163,Git/GitHub,Tools
+163,Problem Solving,Soft Skill
+164,Communication,Soft Skill
+164,Problem Solving,Soft Skill
+165,SQL,Database
+165,Python,Programming
+165,Excel,Spreadsheet
+165,Tableau,BI Tool
+165,Data Visualization,Analytics
+165,Statistics,Analytics
+165,Machine Learning,Data Science
+165,Spark/Big Data,Data Engineering
+165,SAS/SPSS,Tools
+165,Communication,Soft Skill
+165,Problem Solving,Soft Skill
+166,SQL,Database
+167,SQL,Database
+167,Python,Programming
+167,R,Programming
+167,Excel,Spreadsheet
+167,Tableau,BI Tool
+167,Data Visualization,Analytics
+167,Machine Learning,Data Science
+167,Problem Solving,Soft Skill
+168,Power BI,BI Tool
+168,ETL/Pipelines,Data Engineering
+168,Data Warehousing/Modeling,Data Engineering
+169,SQL,Database
+169,Python,Programming
+169,Data Visualization,Analytics
+169,Statistics,Analytics
+169,Communication,Soft Skill
+169,Problem Solving,Soft Skill
+170,SQL,Database
+170,Python,Programming
+170,Power BI,BI Tool
+170,Tableau,BI Tool
+170,DAX/Power Query,BI Tool
+170,Data Visualization,Analytics
+170,Data Warehousing/Modeling,Data Engineering
+170,Communication,Soft Skill
+170,Problem Solving,Soft Skill
+171,SQL,Database
+171,Python,Programming
+171,Power BI,BI Tool
+171,Tableau,BI Tool
+171,Data Visualization,Analytics
+171,Statistics,Analytics
+171,Machine Learning,Data Science
+171,Data Warehousing/Modeling,Data Engineering
+171,AWS,Cloud/Platform
+171,Azure,Cloud/Platform
+171,GCP/BigQuery,Cloud/Platform
+171,Communication,Soft Skill
+171,Problem Solving,Soft Skill
+172,SQL,Database
+172,Python,Programming
+172,Power BI,BI Tool
+172,Tableau,BI Tool
+172,Data Visualization,Analytics
+172,Communication,Soft Skill
+173,Excel,Spreadsheet
+173,Communication,Soft Skill
+173,Problem Solving,Soft Skill
+174,SQL,Database
+174,Python,Programming
+174,Power BI,BI Tool
+174,ETL/Pipelines,Data Engineering
+174,Spark/Big Data,Data Engineering
+174,Azure,Cloud/Platform
+175,SQL,Database
+175,Python,Programming
+175,Power BI,BI Tool
+175,Tableau,BI Tool
+175,DAX/Power Query,BI Tool
+175,Data Visualization,Analytics
+175,Data Warehousing/Modeling,Data Engineering
+175,Communication,Soft Skill
+175,Problem Solving,Soft Skill
+176,Python,Programming
+176,R,Programming
+176,Data Visualization,Analytics
+176,Statistics,Analytics
+176,Machine Learning,Data Science
+176,Deep Learning,Data Science
+176,Spark/Big Data,Data Engineering
+176,Communication,Soft Skill
+176,Problem Solving,Soft Skill
+177,SQL,Database
+177,Power BI,BI Tool
+177,Looker/Qlik,BI Tool
+177,Spark/Big Data,Data Engineering
+177,Azure,Cloud/Platform
+177,Communication,Soft Skill
+177,Problem Solving,Soft Skill
+178,Communication,Soft Skill
+179,SQL,Database
+179,Python,Programming
+179,R,Programming
+179,Data Visualization,Analytics
+179,Statistics,Analytics
+179,Spark/Big Data,Data Engineering
+179,Azure,Cloud/Platform
+179,Communication,Soft Skill
+179,Problem Solving,Soft Skill
+180,SQL,Database
+180,Power BI,BI Tool
+180,Tableau,BI Tool
+180,DAX/Power Query,BI Tool
+180,Data Visualization,Analytics
+180,Data Warehousing/Modeling,Data Engineering
+180,Communication,Soft Skill
+180,Problem Solving,Soft Skill
+181,SQL,Database
+181,Python,Programming
+181,R,Programming
+181,Communication,Soft Skill
+182,Machine Learning,Data Science
+183,Excel,Spreadsheet
+183,VBA/Macros,Spreadsheet
+183,Machine Learning,Data Science
+183,Snowflake,Cloud/Platform
+184,Python,Programming
+184,Excel,Spreadsheet
+184,Statistics,Analytics
+184,Machine Learning,Data Science
+184,Spark/Big Data,Data Engineering
+185,SQL,Database
+185,Python,Programming
+185,GCP/BigQuery,Cloud/Platform
+187,SQL,Database
+187,Python,Programming
+188,SQL,Database
+188,Python,Programming
+188,R,Programming
+188,Power BI,BI Tool
+188,Tableau,BI Tool
+188,Data Visualization,Analytics
+188,Statistics,Analytics
+188,Communication,Soft Skill
+188,Problem Solving,Soft Skill
+189,VBA/Macros,Spreadsheet
+189,Communication,Soft Skill
+189,Problem Solving,Soft Skill
+190,SQL,Database
+190,Python,Programming
+190,Power BI,BI Tool
+190,ETL/Pipelines,Data Engineering
+190,Spark/Big Data,Data Engineering
+190,Data Warehousing/Modeling,Data Engineering
+190,Azure,Cloud/Platform
+190,Communication,Soft Skill
+190,Problem Solving,Soft Skill
+191,Python,Programming
+191,Machine Learning,Data Science
+191,ETL/Pipelines,Data Engineering
+191,Spark/Big Data,Data Engineering
+191,Communication,Soft Skill
+192,SQL,Database
+192,Python,Programming
+192,ETL/Pipelines,Data Engineering
+192,Spark/Big Data,Data Engineering
+192,Data Warehousing/Modeling,Data Engineering
+192,AWS,Cloud/Platform
+192,Communication,Soft Skill
+192,Problem Solving,Soft Skill
+193,SQL,Database
+193,Python,Programming
+193,R,Programming
+193,Excel,Spreadsheet
+193,Data Visualization,Analytics
+193,Statistics,Analytics
+193,Data Warehousing/Modeling,Data Engineering
+193,SAS/SPSS,Tools
+193,Communication,Soft Skill
+193,Problem Solving,Soft Skill
+194,SQL,Database
+194,Data Warehousing/Modeling,Data Engineering
+194,Communication,Soft Skill
+194,Problem Solving,Soft Skill
+195,SQL,Database
+195,Python,Programming
+195,Power BI,BI Tool
+195,Statistics,Analytics
+196,SQL,Database
+196,Python,Programming
+196,Data Visualization,Analytics
+196,Statistics,Analytics
+196,Machine Learning,Data Science
+196,Spark/Big Data,Data Engineering
+196,Communication,Soft Skill
+197,SQL,Database
+197,Excel,Spreadsheet
+197,Tableau,BI Tool
+197,Data Visualization,Analytics
+197,ETL/Pipelines,Data Engineering
+197,Communication,Soft Skill
+198,SQL,Database
+198,Power BI,BI Tool
+198,Data Visualization,Analytics
+198,ETL/Pipelines,Data Engineering
+198,Data Warehousing/Modeling,Data Engineering
+198,Communication,Soft Skill
+198,Problem Solving,Soft Skill
+199,Statistics,Analytics
+199,Machine Learning,Data Science
+199,Spark/Big Data,Data Engineering
+199,Communication,Soft Skill
+200,SQL,Database
+200,Python,Programming
+200,Tableau,BI Tool
+200,Data Visualization,Analytics
+200,Statistics,Analytics
+200,Machine Learning,Data Science
+200,NLP/GenAI,Data Science
+200,Git/GitHub,Tools
+200,Communication,Soft Skill
+201,SQL,Database
+201,Python,Programming
+201,ETL/Pipelines,Data Engineering
+201,Spark/Big Data,Data Engineering
+201,Data Warehousing/Modeling,Data Engineering
+201,AWS,Cloud/Platform
+201,Azure,Cloud/Platform
+201,Git/GitHub,Tools
+201,Problem Solving,Soft Skill
+202,Python,Programming
+202,Statistics,Analytics
+202,Machine Learning,Data Science
+202,Deep Learning,Data Science
+202,GCP/BigQuery,Cloud/Platform
+202,Communication,Soft Skill
+203,SQL,Database
+203,Excel,Spreadsheet
+203,Statistics,Analytics
+203,ETL/Pipelines,Data Engineering
+203,Data Warehousing/Modeling,Data Engineering
+203,SAS/SPSS,Tools
+203,Problem Solving,Soft Skill
+204,SQL,Database
+204,Excel,Spreadsheet
+205,Spark/Big Data,Data Engineering
+205,Communication,Soft Skill
+206,SQL,Database
+206,Python,Programming
+206,Tableau,BI Tool
+206,Data Visualization,Analytics
+206,ETL/Pipelines,Data Engineering
+206,AWS,Cloud/Platform
+206,Communication,Soft Skill
+206,Problem Solving,Soft Skill
+207,SQL,Database
+207,Python,Programming
+207,Statistics,Analytics
+207,Machine Learning,Data Science
+207,ETL/Pipelines,Data Engineering
+207,Spark/Big Data,Data Engineering
+207,Data Warehousing/Modeling,Data Engineering
+207,AWS,Cloud/Platform
+207,Azure,Cloud/Platform
+207,GCP/BigQuery,Cloud/Platform
+207,Communication,Soft Skill
+207,Problem Solving,Soft Skill
+208,Excel,Spreadsheet
+208,Power BI,BI Tool
+208,Tableau,BI Tool
+208,Data Visualization,Analytics
+208,Statistics,Analytics
+208,GCP/BigQuery,Cloud/Platform
+208,Communication,Soft Skill
+208,Problem Solving,Soft Skill
+210,Excel,Spreadsheet
+210,Power BI,BI Tool
+210,Communication,Soft Skill
+210,Problem Solving,Soft Skill
+211,Python,Programming
+211,R,Programming
+211,Tableau,BI Tool
+211,Data Visualization,Analytics
+211,Statistics,Analytics
+211,Machine Learning,Data Science
+211,Data Warehousing/Modeling,Data Engineering
+211,Communication,Soft Skill
+211,Problem Solving,Soft Skill
+212,SQL,Database
+212,Python,Programming
+212,Power BI,BI Tool
+212,Data Visualization,Analytics
+212,Statistics,Analytics
+212,Machine Learning,Data Science
+212,ETL/Pipelines,Data Engineering
+212,Spark/Big Data,Data Engineering
+212,Snowflake,Cloud/Platform
+212,Azure,Cloud/Platform
+212,Git/GitHub,Tools
+212,Communication,Soft Skill
+213,Python,Programming
+213,Statistics,Analytics
+213,Machine Learning,Data Science
+213,Deep Learning,Data Science
+213,NLP/GenAI,Data Science
+213,Communication,Soft Skill
+213,Problem Solving,Soft Skill
+214,SQL,Database
+214,Python,Programming
+214,Tableau,BI Tool
+214,Data Visualization,Analytics
+214,ETL/Pipelines,Data Engineering
+214,Spark/Big Data,Data Engineering
+214,Git/GitHub,Tools
+214,Communication,Soft Skill
+215,Excel,Spreadsheet
+215,Tableau,BI Tool
+215,SAS/SPSS,Tools
+216,SQL,Database
+216,Python,Programming
+216,R,Programming
+216,Power BI,BI Tool
+216,Data Visualization,Analytics
+217,Python,Programming
+217,Problem Solving,Soft Skill
+218,Python,Programming
+218,R,Programming
+218,Data Visualization,Analytics
+218,Statistics,Analytics
+218,Machine Learning,Data Science
+218,ETL/Pipelines,Data Engineering
+218,Spark/Big Data,Data Engineering
+218,Data Warehousing/Modeling,Data Engineering
+218,AWS,Cloud/Platform
+218,Communication,Soft Skill
+219,SQL,Database
+219,Excel,Spreadsheet
+219,Tableau,BI Tool
+219,Data Visualization,Analytics
+219,ETL/Pipelines,Data Engineering
+219,Communication,Soft Skill
+220,Statistics,Analytics
+220,Machine Learning,Data Science
+222,Python,Programming
+222,R,Programming
+222,Statistics,Analytics
+226,SQL,Database
+226,Python,Programming
+226,Pandas/NumPy,Programming
+226,Statistics,Analytics
+226,Machine Learning,Data Science
+226,Deep Learning,Data Science
+226,Spark/Big Data,Data Engineering
+226,Git/GitHub,Tools
+226,Communication,Soft Skill
+226,Problem Solving,Soft Skill
+227,Machine Learning,Data Science
+227,NLP/GenAI,Data Science
+228,SQL,Database
+228,Python,Programming
+228,Power BI,BI Tool
+228,Tableau,BI Tool
+228,Data Visualization,Analytics
+229,Excel,Spreadsheet
+229,Communication,Soft Skill
+229,Problem Solving,Soft Skill
+230,Python,Programming
+230,Pandas/NumPy,Programming
+230,Data Visualization,Analytics
+230,Data Warehousing/Modeling,Data Engineering
+230,Communication,Soft Skill
+230,Problem Solving,Soft Skill
+232,SQL,Database
+232,Python,Programming
+232,Tableau,BI Tool
+232,Data Visualization,Analytics
+232,ETL/Pipelines,Data Engineering
+232,Spark/Big Data,Data Engineering
+232,Data Warehousing/Modeling,Data Engineering
+232,Snowflake,Cloud/Platform
+232,Azure,Cloud/Platform
+232,Communication,Soft Skill
+232,Problem Solving,Soft Skill
+233,Spark/Big Data,Data Engineering
+233,Communication,Soft Skill
+234,Python,Programming
+234,R,Programming
+234,Excel,Spreadsheet
+234,VBA/Macros,Spreadsheet
+234,Power BI,BI Tool
+234,Data Visualization,Analytics
+234,Statistics,Analytics
+234,Machine Learning,Data Science
+234,NLP/GenAI,Data Science
+234,ETL/Pipelines,Data Engineering
+234,Data Warehousing/Modeling,Data Engineering
+234,Snowflake,Cloud/Platform
+234,Azure,Cloud/Platform
+234,Communication,Soft Skill
+235,SQL,Database
+235,Python,Programming
+235,ETL/Pipelines,Data Engineering
+235,Spark/Big Data,Data Engineering
+235,Data Warehousing/Modeling,Data Engineering
+235,Snowflake,Cloud/Platform
+235,AWS,Cloud/Platform
+235,Azure,Cloud/Platform
+235,GCP/BigQuery,Cloud/Platform
+235,Communication,Soft Skill
+235,Problem Solving,Soft Skill
+236,Data Visualization,Analytics
+238,Excel,Spreadsheet
+238,Communication,Soft Skill
+238,Problem Solving,Soft Skill
+239,SQL,Database
+239,Python,Programming
+239,R,Programming
+239,Power BI,BI Tool
+239,Tableau,BI Tool
+239,Data Visualization,Analytics
+239,Statistics,Analytics
+239,Machine Learning,Data Science
+239,Deep Learning,Data Science
+239,Communication,Soft Skill
+239,Problem Solving,Soft Skill
+240,SQL,Database
+240,Data Visualization,Analytics
+240,ETL/Pipelines,Data Engineering
+240,Data Warehousing/Modeling,Data Engineering
+240,Communication,Soft Skill
+241,SQL,Database
+241,Python,Programming
+241,R,Programming
+241,Power BI,BI Tool
+241,Tableau,BI Tool
+241,Looker/Qlik,BI Tool
+241,Data Visualization,Analytics
+241,Statistics,Analytics
+241,ETL/Pipelines,Data Engineering
+241,Data Warehousing/Modeling,Data Engineering
+242,Excel,Spreadsheet
+242,Communication,Soft Skill
+243,SQL,Database
+243,Python,Programming
+243,R,Programming
+243,Power BI,BI Tool
+243,Tableau,BI Tool
+243,Data Visualization,Analytics
+243,Statistics,Analytics
+243,Communication,Soft Skill
+244,SQL,Database
+244,Python,Programming
+244,R,Programming
+244,Data Visualization,Analytics
+244,Statistics,Analytics
+244,Machine Learning,Data Science
+244,Spark/Big Data,Data Engineering
+244,Communication,Soft Skill
+244,Problem Solving,Soft Skill
+245,SQL,Database
+245,Python,Programming
+245,R,Programming
+245,Excel,Spreadsheet
+245,Power BI,BI Tool
+245,Tableau,BI Tool
+245,Data Visualization,Analytics
+245,Statistics,Analytics
+245,Communication,Soft Skill
+245,Problem Solving,Soft Skill
+247,SQL,Database
+247,Python,Programming
+247,Machine Learning,Data Science
+248,R,Programming
+248,Data Visualization,Analytics
+248,Statistics,Analytics
+248,Git/GitHub,Tools
+249,SQL,Database
+249,Python,Programming
+249,Pandas/NumPy,Programming
+249,Machine Learning,Data Science
+249,ETL/Pipelines,Data Engineering
+250,SQL,Database
+250,Python,Programming
+250,R,Programming
+250,Statistics,Analytics
+250,Machine Learning,Data Science
+250,Spark/Big Data,Data Engineering
+250,Communication,Soft Skill
+250,Problem Solving,Soft Skill
+252,SQL,Database
+252,Statistics,Analytics
+253,Python,Programming
+253,Excel,Spreadsheet
+253,VBA/Macros,Spreadsheet
+253,Data Visualization,Analytics
+253,Statistics,Analytics
+253,Data Warehousing/Modeling,Data Engineering
+253,Communication,Soft Skill
+254,Python,Programming
+254,Pandas/NumPy,Programming
+254,Data Visualization,Analytics
+254,Statistics,Analytics
+254,Machine Learning,Data Science
+254,Deep Learning,Data Science
+254,NLP/GenAI,Data Science
+254,ETL/Pipelines,Data Engineering
+254,Spark/Big Data,Data Engineering
+254,Data Warehousing/Modeling,Data Engineering
+254,Communication,Soft Skill
+254,Problem Solving,Soft Skill
+255,Python,Programming
+255,Statistics,Analytics
+255,Machine Learning,Data Science
+255,Deep Learning,Data Science
+255,Communication,Soft Skill
+256,Data Visualization,Analytics
+256,Communication,Soft Skill
+257,Python,Programming
+257,Pandas/NumPy,Programming
+257,Statistics,Analytics
+257,Machine Learning,Data Science
+257,Deep Learning,Data Science
+257,NLP/GenAI,Data Science
+257,Spark/Big Data,Data Engineering
+257,Data Warehousing/Modeling,Data Engineering
+257,Communication,Soft Skill
+259,SQL,Database
+259,Python,Programming
+259,R,Programming
+259,Power BI,BI Tool
+259,Tableau,BI Tool
+259,Looker/Qlik,BI Tool
+259,Data Visualization,Analytics
+259,ETL/Pipelines,Data Engineering
+259,Spark/Big Data,Data Engineering
+259,AWS,Cloud/Platform
+259,Azure,Cloud/Platform
+259,GCP/BigQuery,Cloud/Platform
+260,Data Visualization,Analytics
+260,Communication,Soft Skill
+260,Problem Solving,Soft Skill
+261,Communication,Soft Skill
+262,SQL,Database
+262,Spark/Big Data,Data Engineering
+262,Communication,Soft Skill
+263,Statistics,Analytics
+263,Data Warehousing/Modeling,Data Engineering
+263,Communication,Soft Skill
+264,SQL,Database
+264,Python,Programming
+264,R,Programming
+264,Data Visualization,Analytics
+264,Statistics,Analytics
+264,Communication,Soft Skill
+264,Problem Solving,Soft Skill
+265,SQL,Database
+265,Python,Programming
+265,Power BI,BI Tool
+265,Tableau,BI Tool
+265,Data Visualization,Analytics
+265,Statistics,Analytics
+265,Communication,Soft Skill
+265,Problem Solving,Soft Skill
+266,Python,Programming
+266,Machine Learning,Data Science
+268,SQL,Database
+268,ETL/Pipelines,Data Engineering
+269,Data Visualization,Analytics
+269,ETL/Pipelines,Data Engineering
+269,Communication,Soft Skill
+270,SQL,Database
+270,Python,Programming
+270,R,Programming
+270,Data Visualization,Analytics
+270,Statistics,Analytics
+270,Machine Learning,Data Science
+270,Deep Learning,Data Science
+271,SQL,Database
+271,Python,Programming
+271,R,Programming
+271,Statistics,Analytics
+271,Machine Learning,Data Science
+271,NLP/GenAI,Data Science
+271,Spark/Big Data,Data Engineering
+271,Communication,Soft Skill
+271,Problem Solving,Soft Skill
+272,Excel,Spreadsheet
+272,SAS/SPSS,Tools
+272,Communication,Soft Skill
+273,Power BI,BI Tool
+273,Data Visualization,Analytics
+273,Communication,Soft Skill
+274,Excel,Spreadsheet
+274,Data Visualization,Analytics
+274,Statistics,Analytics
+274,Communication,Soft Skill
+275,Python,Programming
+275,Power BI,BI Tool
+275,Tableau,BI Tool
+275,Looker/Qlik,BI Tool
+275,Data Visualization,Analytics
+275,Communication,Soft Skill
+276,SQL,Database
+276,Excel,Spreadsheet
+276,VBA/Macros,Spreadsheet
+276,Power BI,BI Tool
+276,Tableau,BI Tool
+276,DAX/Power Query,BI Tool
+276,Data Visualization,Analytics
+277,Statistics,Analytics
+277,ETL/Pipelines,Data Engineering
+277,Azure,Cloud/Platform
+278,SQL,Database
+278,Python,Programming
+278,Excel,Spreadsheet
+279,SQL,Database
+279,Python,Programming
+279,Excel,Spreadsheet
+279,Data Visualization,Analytics
+279,Statistics,Analytics
+279,Spark/Big Data,Data Engineering
+279,Data Warehousing/Modeling,Data Engineering
+279,AWS,Cloud/Platform
+279,Communication,Soft Skill
+279,Problem Solving,Soft Skill
+280,SQL,Database
+280,Excel,Spreadsheet
+280,Power BI,BI Tool
+280,DAX/Power Query,BI Tool
+280,Data Visualization,Analytics
+280,ETL/Pipelines,Data Engineering
+280,Data Warehousing/Modeling,Data Engineering
+280,GCP/BigQuery,Cloud/Platform
+280,Communication,Soft Skill
+280,Problem Solving,Soft Skill
+281,SQL,Database
+281,Python,Programming
+281,Statistics,Analytics
+281,Machine Learning,Data Science
+281,Communication,Soft Skill
+282,SQL,Database
+282,Python,Programming
+282,Excel,Spreadsheet
+282,Tableau,BI Tool
+282,Looker/Qlik,BI Tool
+282,Data Visualization,Analytics
+282,Statistics,Analytics
+282,SAS/SPSS,Tools
+282,Communication,Soft Skill
+282,Problem Solving,Soft Skill
+283,SQL,Database
+283,Python,Programming
+283,R,Programming
+283,Statistics,Analytics
+283,Machine Learning,Data Science
+283,Spark/Big Data,Data Engineering
+283,Communication,Soft Skill
+284,SQL,Database
+284,Python,Programming
+284,R,Programming
+284,Tableau,BI Tool
+284,Statistics,Analytics
+284,Machine Learning,Data Science
+284,Spark/Big Data,Data Engineering
+284,Data Warehousing/Modeling,Data Engineering
+284,Communication,Soft Skill
+284,Problem Solving,Soft Skill
+285,Python,Programming
+285,Pandas/NumPy,Programming
+285,Statistics,Analytics
+285,Machine Learning,Data Science
+285,Deep Learning,Data Science
+285,Data Warehousing/Modeling,Data Engineering
+285,AWS,Cloud/Platform
+285,GCP/BigQuery,Cloud/Platform
+285,Communication,Soft Skill
+285,Problem Solving,Soft Skill
+286,SQL,Database
+287,Excel,Spreadsheet
+287,Power BI,BI Tool
+287,Tableau,BI Tool
+287,Looker/Qlik,BI Tool
+287,Data Visualization,Analytics
+287,Statistics,Analytics
+287,Communication,Soft Skill
+288,Excel,Spreadsheet
+289,SQL,Database
+289,Python,Programming
+289,R,Programming
+289,Power BI,BI Tool
+289,Tableau,BI Tool
+289,Data Visualization,Analytics
+289,Statistics,Analytics
+289,Machine Learning,Data Science
+289,Spark/Big Data,Data Engineering
+289,AWS,Cloud/Platform
+289,Azure,Cloud/Platform
+289,GCP/BigQuery,Cloud/Platform
+289,Communication,Soft Skill
+290,Python,Programming
+290,Power BI,BI Tool
+290,Tableau,BI Tool
+290,Looker/Qlik,BI Tool
+290,Data Visualization,Analytics
+290,Statistics,Analytics
+290,Machine Learning,Data Science
+290,Data Warehousing/Modeling,Data Engineering
+290,Communication,Soft Skill
+291,SQL,Database
+291,Excel,Spreadsheet
+291,Power BI,BI Tool
+291,Tableau,BI Tool
+291,Communication,Soft Skill
+292,SQL,Database
+292,Data Visualization,Analytics
+292,Statistics,Analytics
+292,Communication,Soft Skill
+293,Problem Solving,Soft Skill
+294,Python,Programming
+294,R,Programming
+294,Statistics,Analytics
+294,Machine Learning,Data Science
+294,Spark/Big Data,Data Engineering
+295,Data Warehousing/Modeling,Data Engineering
+295,Communication,Soft Skill
+296,SQL,Database
+296,Power BI,BI Tool
+296,Data Visualization,Analytics
+296,Statistics,Analytics
+296,Machine Learning,Data Science
+296,Data Warehousing/Modeling,Data Engineering
+296,Communication,Soft Skill
+296,Problem Solving,Soft Skill
+297,Python,Programming
+297,ETL/Pipelines,Data Engineering
+297,AWS,Cloud/Platform
+297,Communication,Soft Skill
+297,Problem Solving,Soft Skill
+298,Python,Programming
+298,Pandas/NumPy,Programming
+298,Machine Learning,Data Science
+298,Deep Learning,Data Science
+299,Excel,Spreadsheet
+300,Machine Learning,Data Science
+300,Communication,Soft Skill
+301,SQL,Database
+301,Python,Programming
+301,Machine Learning,Data Science
+301,NLP/GenAI,Data Science
+301,ETL/Pipelines,Data Engineering
+301,Spark/Big Data,Data Engineering
+301,Data Warehousing/Modeling,Data Engineering
+301,Snowflake,Cloud/Platform
+301,AWS,Cloud/Platform
+301,Azure,Cloud/Platform
+301,GCP/BigQuery,Cloud/Platform
+301,Communication,Soft Skill
+301,Problem Solving,Soft Skill
+302,SQL,Database
+302,Python,Programming
+302,Statistics,Analytics
+302,Machine Learning,Data Science
+303,SQL,Database
+303,Python,Programming
+303,R,Programming
+303,Excel,Spreadsheet
+303,Tableau,BI Tool
+303,Data Visualization,Analytics
+303,Machine Learning,Data Science
+303,Communication,Soft Skill
+305,Power BI,BI Tool
+305,Tableau,BI Tool
+305,Data Visualization,Analytics
+305,ETL/Pipelines,Data Engineering
+305,Communication,Soft Skill
+305,Problem Solving,Soft Skill
+306,Communication,Soft Skill
+307,Data Visualization,Analytics
+307,Statistics,Analytics
+307,Communication,Soft Skill
+308,Python,Programming
+308,Tableau,BI Tool
+308,Spark/Big Data,Data Engineering
+309,SQL,Database
+309,Tableau,BI Tool
+309,Looker/Qlik,BI Tool
+309,Data Visualization,Analytics
+309,Data Warehousing/Modeling,Data Engineering
+309,Communication,Soft Skill
+310,Excel,Spreadsheet
+311,Communication,Soft Skill
+312,Python,Programming
+312,Data Visualization,Analytics
+312,Statistics,Analytics
+312,Machine Learning,Data Science
+312,Spark/Big Data,Data Engineering
+312,Communication,Soft Skill
+313,SQL,Database
+313,Power BI,BI Tool
+313,Snowflake,Cloud/Platform
+313,Azure,Cloud/Platform
+313,Git/GitHub,Tools
+313,Communication,Soft Skill
+314,Python,Programming
+314,Pandas/NumPy,Programming
+314,Statistics,Analytics
+314,Machine Learning,Data Science
+314,Deep Learning,Data Science
+314,NLP/GenAI,Data Science
+314,ETL/Pipelines,Data Engineering
+314,Spark/Big Data,Data Engineering
+314,Data Warehousing/Modeling,Data Engineering
+314,AWS,Cloud/Platform
+314,Azure,Cloud/Platform
+314,GCP/BigQuery,Cloud/Platform
+315,Python,Programming
+315,R,Programming
+315,Tableau,BI Tool
+315,Statistics,Analytics
+315,SAS/SPSS,Tools
+316,SQL,Database
+316,Power BI,BI Tool
+316,Tableau,BI Tool
+316,Data Visualization,Analytics
+316,Statistics,Analytics
+316,Machine Learning,Data Science
+316,Spark/Big Data,Data Engineering
+316,Communication,Soft Skill
+317,SQL,Database
+317,AWS,Cloud/Platform
+317,Azure,Cloud/Platform
+318,SQL,Database
+318,Python,Programming
+318,Excel,Spreadsheet
+318,Data Visualization,Analytics
+318,Statistics,Analytics
+318,Machine Learning,Data Science
+318,AWS,Cloud/Platform
+318,Azure,Cloud/Platform
+318,Communication,Soft Skill
+319,Python,Programming
+319,Machine Learning,Data Science
+319,Deep Learning,Data Science
+319,NLP/GenAI,Data Science
+319,AWS,Cloud/Platform
+319,Azure,Cloud/Platform
+319,GCP/BigQuery,Cloud/Platform
+319,Git/GitHub,Tools
+319,Communication,Soft Skill
+319,Problem Solving,Soft Skill
+320,SQL,Database
+320,Python,Programming
+320,ETL/Pipelines,Data Engineering
+320,Data Warehousing/Modeling,Data Engineering
+320,Azure,Cloud/Platform
+320,Problem Solving,Soft Skill
+321,SQL,Database
+321,Python,Programming
+321,R,Programming
+321,Data Visualization,Analytics
+321,Statistics,Analytics
+321,Machine Learning,Data Science
+321,Spark/Big Data,Data Engineering
+321,Communication,Soft Skill
+322,SQL,Database
+322,Python,Programming
+322,Excel,Spreadsheet
+322,Tableau,BI Tool
+322,Looker/Qlik,BI Tool
+322,Data Visualization,Analytics
+322,Statistics,Analytics
+322,Spark/Big Data,Data Engineering
+322,Data Warehousing/Modeling,Data Engineering
+322,Git/GitHub,Tools
+323,Excel,Spreadsheet
+324,Problem Solving,Soft Skill
+325,Statistics,Analytics
+325,Machine Learning,Data Science
+325,Deep Learning,Data Science
+325,NLP/GenAI,Data Science
+325,Spark/Big Data,Data Engineering
+325,Problem Solving,Soft Skill
+326,Power BI,BI Tool
+326,Data Visualization,Analytics
+326,Communication,Soft Skill
+327,Python,Programming
+327,ETL/Pipelines,Data Engineering
+327,Spark/Big Data,Data Engineering
+327,GCP/BigQuery,Cloud/Platform
+328,Communication,Soft Skill
+329,SQL,Database
+329,Power BI,BI Tool
+329,Azure,Cloud/Platform
+329,Communication,Soft Skill
+330,SQL,Database
+330,Python,Programming
+330,R,Programming
+330,Data Visualization,Analytics
+330,Statistics,Analytics
+330,Machine Learning,Data Science
+330,Spark/Big Data,Data Engineering
+330,Data Warehousing/Modeling,Data Engineering
+331,Communication,Soft Skill
+333,SQL,Database
+333,Python,Programming
+333,R,Programming
+333,Power BI,BI Tool
+333,Tableau,BI Tool
+333,Data Visualization,Analytics
+333,Statistics,Analytics
+333,Spark/Big Data,Data Engineering
+333,AWS,Cloud/Platform
+333,Azure,Cloud/Platform
+334,Statistics,Analytics
+334,Communication,Soft Skill
+334,Problem Solving,Soft Skill
+335,Excel,Spreadsheet
+335,Power BI,BI Tool
+335,Tableau,BI Tool
+335,Statistics,Analytics
+335,Problem Solving,Soft Skill
+336,SQL,Database
+336,Python,Programming
+336,Statistics,Analytics
+336,Machine Learning,Data Science
+336,Deep Learning,Data Science
+336,Spark/Big Data,Data Engineering
+337,SQL,Database
+337,Python,Programming
+337,Excel,Spreadsheet
+337,Power BI,BI Tool
+337,Data Visualization,Analytics
+337,Machine Learning,Data Science
+337,Communication,Soft Skill
+338,Statistics,Analytics
+338,Machine Learning,Data Science
+339,SQL,Database
+339,Python,Programming
+339,Statistics,Analytics
+339,Deep Learning,Data Science
+339,Communication,Soft Skill
+339,Problem Solving,Soft Skill
+340,SQL,Database
+340,Power BI,BI Tool
+340,ETL/Pipelines,Data Engineering
+340,Spark/Big Data,Data Engineering
+340,Communication,Soft Skill
+340,Problem Solving,Soft Skill
+341,Python,Programming
+341,R,Programming
+341,Excel,Spreadsheet
+341,VBA/Macros,Spreadsheet
+341,Power BI,BI Tool
+341,Tableau,BI Tool
+341,Looker/Qlik,BI Tool
+341,Data Visualization,Analytics
+341,Statistics,Analytics
+341,Machine Learning,Data Science
+341,Spark/Big Data,Data Engineering
+341,AWS,Cloud/Platform
+341,SAS/SPSS,Tools
+341,Communication,Soft Skill
+342,SQL,Database
+342,Python,Programming
+342,Tableau,BI Tool
+342,Data Visualization,Analytics
+342,Statistics,Analytics
+342,Spark/Big Data,Data Engineering
+342,Communication,Soft Skill
+342,Problem Solving,Soft Skill
+343,SQL,Database
+343,Python,Programming
+343,R,Programming
+343,Power BI,BI Tool
+343,Tableau,BI Tool
+343,Data Visualization,Analytics
+343,Statistics,Analytics
+343,Machine Learning,Data Science
+343,Spark/Big Data,Data Engineering
+343,SAS/SPSS,Tools
+343,Communication,Soft Skill
+344,Python,Programming
+344,Tableau,BI Tool
+344,Data Visualization,Analytics
+344,Statistics,Analytics
+344,Data Warehousing/Modeling,Data Engineering
+344,Communication,Soft Skill
+344,Problem Solving,Soft Skill
+345,SQL,Database
+345,Python,Programming
+345,Power BI,BI Tool
+345,DAX/Power Query,BI Tool
+345,Data Visualization,Analytics
+345,Problem Solving,Soft Skill
+346,SQL,Database
+346,Python,Programming
+346,Power BI,BI Tool
+346,Tableau,BI Tool
+346,Looker/Qlik,BI Tool
+346,Data Visualization,Analytics
+346,Spark/Big Data,Data Engineering
+346,Data Warehousing/Modeling,Data Engineering
+346,AWS,Cloud/Platform
+346,Azure,Cloud/Platform
+346,Communication,Soft Skill
+346,Problem Solving,Soft Skill
+347,SQL,Database
+347,Excel,Spreadsheet
+347,Statistics,Analytics
+347,Machine Learning,Data Science
+347,Communication,Soft Skill
+348,SQL,Database
+348,Python,Programming
+348,R,Programming
+348,Pandas/NumPy,Programming
+348,Data Visualization,Analytics
+348,Statistics,Analytics
+348,Machine Learning,Data Science
+348,Deep Learning,Data Science
+348,Spark/Big Data,Data Engineering
+348,AWS,Cloud/Platform
+349,Communication,Soft Skill
+349,Problem Solving,Soft Skill
+350,SQL,Database
+350,Python,Programming
+350,AWS,Cloud/Platform
+350,Azure,Cloud/Platform
+350,GCP/BigQuery,Cloud/Platform
+350,Problem Solving,Soft Skill
+351,Python,Programming
+351,R,Programming
+351,Power BI,BI Tool
+351,Tableau,BI Tool
+351,Data Visualization,Analytics
+351,Statistics,Analytics
+351,Machine Learning,Data Science
+352,Statistics,Analytics
+353,SQL,Database
+353,Python,Programming
+353,R,Programming
+353,Excel,Spreadsheet
+353,Power BI,BI Tool
+353,Tableau,BI Tool
+353,Data Visualization,Analytics
+353,Statistics,Analytics
+353,Communication,Soft Skill
+354,Data Visualization,Analytics
+354,Machine Learning,Data Science
+354,Deep Learning,Data Science
+354,Spark/Big Data,Data Engineering
+354,Problem Solving,Soft Skill
+356,SQL,Database
+356,Python,Programming
+356,Statistics,Analytics
+356,Machine Learning,Data Science
+356,Spark/Big Data,Data Engineering
+356,AWS,Cloud/Platform
+357,Python,Programming
+357,Machine Learning,Data Science
+357,NLP/GenAI,Data Science
+357,AWS,Cloud/Platform
+357,GCP/BigQuery,Cloud/Platform
+357,Communication,Soft Skill
+357,Problem Solving,Soft Skill
+358,SQL,Database
+358,Python,Programming
+358,Tableau,BI Tool
+358,ETL/Pipelines,Data Engineering
+358,Spark/Big Data,Data Engineering
+358,Snowflake,Cloud/Platform
+358,AWS,Cloud/Platform
+358,GCP/BigQuery,Cloud/Platform
+358,Git/GitHub,Tools
+358,Communication,Soft Skill
+360,SQL,Database
+360,Python,Programming
+360,R,Programming
+360,Power BI,BI Tool
+360,Tableau,BI Tool
+360,Data Visualization,Analytics
+360,Communication,Soft Skill
+360,Problem Solving,Soft Skill
+361,Python,Programming
+361,Statistics,Analytics
+361,Machine Learning,Data Science
+361,Deep Learning,Data Science
+361,NLP/GenAI,Data Science
+361,Spark/Big Data,Data Engineering
+362,SQL,Database
+362,Excel,Spreadsheet
+362,Power BI,BI Tool
+362,Data Visualization,Analytics
+362,ETL/Pipelines,Data Engineering
+362,Spark/Big Data,Data Engineering
+362,Communication,Soft Skill
+362,Problem Solving,Soft Skill
+363,SQL,Database
+363,Python,Programming
+363,Data Visualization,Analytics
+363,Statistics,Analytics
+363,NLP/GenAI,Data Science
+363,Communication,Soft Skill
+363,Problem Solving,Soft Skill
+364,SQL,Database
+364,Python,Programming
+364,Tableau,BI Tool
+364,Data Visualization,Analytics
+364,ETL/Pipelines,Data Engineering
+364,Communication,Soft Skill
+365,SQL,Database
+365,Python,Programming
+365,R,Programming
+365,Power BI,BI Tool
+365,Tableau,BI Tool
+365,Data Visualization,Analytics
+365,Statistics,Analytics
+365,Machine Learning,Data Science
+365,Deep Learning,Data Science
+365,AWS,Cloud/Platform
+365,Azure,Cloud/Platform
+365,Communication,Soft Skill
+366,SQL,Database
+366,Python,Programming
+366,Power BI,BI Tool
+366,Tableau,BI Tool
+366,Looker/Qlik,BI Tool
+366,Data Visualization,Analytics
+366,Spark/Big Data,Data Engineering
+366,Data Warehousing/Modeling,Data Engineering
+366,AWS,Cloud/Platform
+366,Azure,Cloud/Platform
+366,Communication,Soft Skill
+366,Problem Solving,Soft Skill
+367,SQL,Database
+367,Python,Programming
+367,Pandas/NumPy,Programming
+367,Communication,Soft Skill
+368,Excel,Spreadsheet
+369,SQL,Database
+369,Excel,Spreadsheet
+370,Python,Programming
+370,Data Visualization,Analytics
+370,Machine Learning,Data Science
+370,Communication,Soft Skill
+371,SQL,Database
+371,Power BI,BI Tool
+371,Tableau,BI Tool
+371,Communication,Soft Skill
+372,SQL,Database
+372,Python,Programming
+372,Data Visualization,Analytics
+372,AWS,Cloud/Platform
+372,Azure,Cloud/Platform
+372,GCP/BigQuery,Cloud/Platform
+372,Git/GitHub,Tools
+372,Communication,Soft Skill
+372,Problem Solving,Soft Skill
+373,Excel,Spreadsheet
+373,Communication,Soft Skill
+374,Statistics,Analytics
+374,SAS/SPSS,Tools
+374,Communication,Soft Skill
+374,Problem Solving,Soft Skill
+375,SQL,Database
+375,VBA/Macros,Spreadsheet
+375,Power BI,BI Tool
+375,Tableau,BI Tool
+375,Data Visualization,Analytics
+375,ETL/Pipelines,Data Engineering
+375,Communication,Soft Skill
+375,Problem Solving,Soft Skill
+376,SQL,Database
+376,ETL/Pipelines,Data Engineering
+376,Spark/Big Data,Data Engineering
+376,AWS,Cloud/Platform
+376,Communication,Soft Skill
+377,Python,Programming
+377,Statistics,Analytics
+377,Machine Learning,Data Science
+377,Deep Learning,Data Science
+377,Communication,Soft Skill
+377,Problem Solving,Soft Skill
+378,Python,Programming
+378,ETL/Pipelines,Data Engineering
+379,Python,Programming
+379,Spark/Big Data,Data Engineering
+379,Data Warehousing/Modeling,Data Engineering
+379,GCP/BigQuery,Cloud/Platform
+379,Communication,Soft Skill
+380,SQL,Database
+380,ETL/Pipelines,Data Engineering
+380,Spark/Big Data,Data Engineering
+380,AWS,Cloud/Platform
+380,Azure,Cloud/Platform
+381,SQL,Database
+381,VBA/Macros,Spreadsheet
+381,Power BI,BI Tool
+381,Tableau,BI Tool
+381,Data Visualization,Analytics
+381,ETL/Pipelines,Data Engineering
+381,Communication,Soft Skill
+381,Problem Solving,Soft Skill
+382,SQL,Database
+382,Excel,Spreadsheet
+382,Statistics,Analytics
+382,ETL/Pipelines,Data Engineering
+382,Data Warehousing/Modeling,Data Engineering
+382,SAS/SPSS,Tools
+382,Problem Solving,Soft Skill
+383,Statistics,Analytics
+383,Machine Learning,Data Science
+383,Deep Learning,Data Science
+383,NLP/GenAI,Data Science
+383,Spark/Big Data,Data Engineering
+384,SQL,Database
+384,Statistics,Analytics
+384,Spark/Big Data,Data Engineering
+384,Communication,Soft Skill
+384,Problem Solving,Soft Skill
+385,Python,Programming
+385,Machine Learning,Data Science
+385,ETL/Pipelines,Data Engineering
+385,Spark/Big Data,Data Engineering
+385,Data Warehousing/Modeling,Data Engineering
+385,Snowflake,Cloud/Platform
+385,GCP/BigQuery,Cloud/Platform
+385,Git/GitHub,Tools
+385,Communication,Soft Skill
+386,Data Warehousing/Modeling,Data Engineering
+387,Python,Programming
+387,R,Programming
+387,Statistics,Analytics
+387,Machine Learning,Data Science
+387,Deep Learning,Data Science
+387,NLP/GenAI,Data Science
+387,AWS,Cloud/Platform
+387,Azure,Cloud/Platform
+387,Communication,Soft Skill
+388,SQL,Database
+388,Tableau,BI Tool
+388,Data Visualization,Analytics
+388,Communication,Soft Skill
+389,Communication,Soft Skill
+390,SQL,Database
+390,Python,Programming
+390,R,Programming
+390,Excel,Spreadsheet
+390,VBA/Macros,Spreadsheet
+390,Tableau,BI Tool
+390,Looker/Qlik,BI Tool
+390,Data Visualization,Analytics
+390,Statistics,Analytics
+390,AWS,Cloud/Platform
+390,Azure,Cloud/Platform
+390,Communication,Soft Skill
+392,SQL,Database
+392,Tableau,BI Tool
+392,Data Visualization,Analytics
+392,Communication,Soft Skill
+392,Problem Solving,Soft Skill
+393,SQL,Database
+393,Python,Programming
+393,R,Programming
+393,Excel,Spreadsheet
+393,Power BI,BI Tool
+393,Tableau,BI Tool
+393,Data Visualization,Analytics
+393,Statistics,Analytics
+393,Data Warehousing/Modeling,Data Engineering
+393,Communication,Soft Skill
+394,SQL,Database
+394,Python,Programming
+394,Machine Learning,Data Science
+394,Deep Learning,Data Science
+394,NLP/GenAI,Data Science
+394,Data Warehousing/Modeling,Data Engineering
+395,Python,Programming
+395,Spark/Big Data,Data Engineering
+395,Communication,Soft Skill
+395,Problem Solving,Soft Skill
+396,Python,Programming
+396,Tableau,BI Tool
+396,Statistics,Analytics
+396,Machine Learning,Data Science
+396,Data Warehousing/Modeling,Data Engineering
+396,AWS,Cloud/Platform
+396,SAS/SPSS,Tools
+396,Communication,Soft Skill
+396,Problem Solving,Soft Skill
+397,Statistics,Analytics
+397,Machine Learning,Data Science
+397,Communication,Soft Skill
+397,Problem Solving,Soft Skill
+398,SQL,Database
+398,Python,Programming
+398,Pandas/NumPy,Programming
+398,Data Visualization,Analytics
+398,Statistics,Analytics
+398,Machine Learning,Data Science
+398,Deep Learning,Data Science
+398,Spark/Big Data,Data Engineering
+398,GCP/BigQuery,Cloud/Platform
+398,Communication,Soft Skill
+399,Python,Programming
+399,R,Programming
+399,Statistics,Analytics
+399,Machine Learning,Data Science
+399,Deep Learning,Data Science
+399,NLP/GenAI,Data Science
+399,Spark/Big Data,Data Engineering
+399,Communication,Soft Skill
+399,Problem Solving,Soft Skill
+400,Communication,Soft Skill
+401,SQL,Database
+401,Python,Programming
+401,Pandas/NumPy,Programming
+401,Machine Learning,Data Science
+401,Deep Learning,Data Science
+401,NLP/GenAI,Data Science
+401,Spark/Big Data,Data Engineering
+401,AWS,Cloud/Platform
+401,Azure,Cloud/Platform
+402,Power BI,BI Tool
+402,Data Visualization,Analytics
+402,Communication,Soft Skill
+402,Problem Solving,Soft Skill
+403,SQL,Database
+403,Python,Programming
+403,Machine Learning,Data Science
+403,ETL/Pipelines,Data Engineering
+403,Spark/Big Data,Data Engineering
+403,AWS,Cloud/Platform
+403,Communication,Soft Skill
+404,Python,Programming
+404,Excel,Spreadsheet
+404,Data Visualization,Analytics
+404,Statistics,Analytics
+404,Communication,Soft Skill
+405,SQL,Database
+405,Python,Programming
+405,ETL/Pipelines,Data Engineering
+405,Data Warehousing/Modeling,Data Engineering
+405,Snowflake,Cloud/Platform
+405,AWS,Cloud/Platform
+405,Azure,Cloud/Platform
+405,Communication,Soft Skill
+405,Problem Solving,Soft Skill
+406,SQL,Database
+406,Python,Programming
+406,Pandas/NumPy,Programming
+406,Power BI,BI Tool
+406,Tableau,BI Tool
+406,Machine Learning,Data Science
+406,Data Warehousing/Modeling,Data Engineering
+406,Communication,Soft Skill
+406,Problem Solving,Soft Skill
+407,Python,Programming
+407,Statistics,Analytics
+407,Machine Learning,Data Science
+407,NLP/GenAI,Data Science
+408,SQL,Database
+408,Communication,Soft Skill
+408,Problem Solving,Soft Skill
+409,SQL,Database
+409,Problem Solving,Soft Skill
+410,SQL,Database
+410,Python,Programming
+410,Machine Learning,Data Science
+410,ETL/Pipelines,Data Engineering
+410,Spark/Big Data,Data Engineering
+410,Data Warehousing/Modeling,Data Engineering
+410,Azure,Cloud/Platform
+410,Communication,Soft Skill
+410,Problem Solving,Soft Skill
+413,Python,Programming
+413,Machine Learning,Data Science
+413,Deep Learning,Data Science
+413,Spark/Big Data,Data Engineering
+414,SQL,Database
+414,Python,Programming
+414,R,Programming
+414,Power BI,BI Tool
+414,Tableau,BI Tool
+414,Looker/Qlik,BI Tool
+414,Data Visualization,Analytics
+414,Statistics,Analytics
+414,Machine Learning,Data Science
+414,Deep Learning,Data Science
+414,NLP/GenAI,Data Science
+414,Spark/Big Data,Data Engineering
+414,Communication,Soft Skill
+414,Problem Solving,Soft Skill
+415,SQL,Database
+415,Python,Programming
+415,Statistics,Analytics
+415,Machine Learning,Data Science
+415,Deep Learning,Data Science
+415,NLP/GenAI,Data Science
+415,Spark/Big Data,Data Engineering
+415,Azure,Cloud/Platform
+415,Communication,Soft Skill
+416,SQL,Database
+416,ETL/Pipelines,Data Engineering
+416,Spark/Big Data,Data Engineering
+416,Data Warehousing/Modeling,Data Engineering
+416,Azure,Cloud/Platform
+417,SQL,Database
+417,Python,Programming
+417,Statistics,Analytics
+417,Machine Learning,Data Science
+417,Deep Learning,Data Science
+417,SAS/SPSS,Tools
+417,Communication,Soft Skill
+417,Problem Solving,Soft Skill
+418,Data Visualization,Analytics
+418,Statistics,Analytics
+418,Data Warehousing/Modeling,Data Engineering
+418,Communication,Soft Skill
+418,Problem Solving,Soft Skill
+419,SQL,Database
+419,GCP/BigQuery,Cloud/Platform
+420,SQL,Database
+420,Python,Programming
+420,Power BI,BI Tool
+420,Tableau,BI Tool
+420,ETL/Pipelines,Data Engineering
+420,Spark/Big Data,Data Engineering
+420,Data Warehousing/Modeling,Data Engineering
+420,Snowflake,Cloud/Platform
+420,Azure,Cloud/Platform
+420,Communication,Soft Skill
+421,Excel,Spreadsheet
+421,Communication,Soft Skill
+421,Problem Solving,Soft Skill
+422,Python,Programming
+422,R,Programming
+422,Excel,Spreadsheet
+422,Power BI,BI Tool
+422,Tableau,BI Tool
+422,Data Visualization,Analytics
+422,Statistics,Analytics
+422,ETL/Pipelines,Data Engineering
+422,Data Warehousing/Modeling,Data Engineering
+422,Communication,Soft Skill
+422,Problem Solving,Soft Skill
+423,SQL,Database
+423,Python,Programming
+423,Power BI,BI Tool
+423,Data Visualization,Analytics
+423,Statistics,Analytics
+423,Machine Learning,Data Science
+423,Deep Learning,Data Science
+423,ETL/Pipelines,Data Engineering
+423,Spark/Big Data,Data Engineering
+423,Git/GitHub,Tools
+423,Communication,Soft Skill
+423,Problem Solving,Soft Skill
+424,SQL,Database
+424,Power BI,BI Tool
+424,Data Visualization,Analytics
+425,SQL,Database
+425,Excel,Spreadsheet
+425,Tableau,BI Tool
+425,Data Visualization,Analytics
+425,Statistics,Analytics
+425,Machine Learning,Data Science
+425,Communication,Soft Skill
+426,Excel,Spreadsheet
+426,Statistics,Analytics
+426,Communication,Soft Skill
+426,Problem Solving,Soft Skill
+427,Excel,Spreadsheet
+427,VBA/Macros,Spreadsheet
+427,Communication,Soft Skill
+427,Problem Solving,Soft Skill
+428,SQL,Database
+428,Statistics,Analytics
+428,Machine Learning,Data Science
+428,Deep Learning,Data Science
+428,Spark/Big Data,Data Engineering
+428,Data Warehousing/Modeling,Data Engineering
+428,Communication,Soft Skill
+429,SQL,Database
+429,Excel,Spreadsheet
+429,Power BI,BI Tool
+429,Tableau,BI Tool
+429,Data Visualization,Analytics
+429,Statistics,Analytics
+429,ETL/Pipelines,Data Engineering
+429,Data Warehousing/Modeling,Data Engineering
+429,Communication,Soft Skill
+429,Problem Solving,Soft Skill
+430,SQL,Database
+430,Python,Programming
+430,Power BI,BI Tool
+430,Tableau,BI Tool
+430,Data Visualization,Analytics
+430,Machine Learning,Data Science
+430,Deep Learning,Data Science
+430,ETL/Pipelines,Data Engineering
+430,Spark/Big Data,Data Engineering
+430,Data Warehousing/Modeling,Data Engineering
+430,Snowflake,Cloud/Platform
+430,Azure,Cloud/Platform
+430,GCP/BigQuery,Cloud/Platform
+431,SQL,Database
+431,Python,Programming
+431,NLP/GenAI,Data Science
+431,Communication,Soft Skill
+432,Communication,Soft Skill
+432,Problem Solving,Soft Skill
+433,Python,Programming
+433,Pandas/NumPy,Programming
+433,Data Visualization,Analytics
+433,Statistics,Analytics
+433,Machine Learning,Data Science
+433,Spark/Big Data,Data Engineering
+433,AWS,Cloud/Platform
+435,Python,Programming
+435,Power BI,BI Tool
+436,SQL,Database
+436,Power BI,BI Tool
+436,Data Visualization,Analytics
+436,Spark/Big Data,Data Engineering
+436,Communication,Soft Skill
+437,Statistics,Analytics
+437,Deep Learning,Data Science
+438,SQL,Database
+438,Communication,Soft Skill
+439,Excel,Spreadsheet
+439,Machine Learning,Data Science
+439,Communication,Soft Skill
+440,SQL,Database
+440,Python,Programming
+440,Power BI,BI Tool
+440,Data Visualization,Analytics
+441,Statistics,Analytics
+441,Communication,Soft Skill
+441,Problem Solving,Soft Skill
+442,Excel,Spreadsheet
+442,Problem Solving,Soft Skill
+443,Communication,Soft Skill
+444,SQL,Database
+444,Python,Programming
+444,R,Programming
+444,Excel,Spreadsheet
+444,Data Visualization,Analytics
+444,Statistics,Analytics
+444,Machine Learning,Data Science
+444,SAS/SPSS,Tools
+444,Communication,Soft Skill
+445,SQL,Database
+445,Python,Programming
+445,Pandas/NumPy,Programming
+445,Excel,Spreadsheet
+445,Tableau,BI Tool
+445,Statistics,Analytics
+445,Machine Learning,Data Science
+445,Deep Learning,Data Science
+445,Communication,Soft Skill
+446,SQL,Database
+446,Python,Programming
+446,Statistics,Analytics
+446,Machine Learning,Data Science
+446,Spark/Big Data,Data Engineering
+447,Excel,Spreadsheet
+448,SQL,Database
+448,Python,Programming
+448,R,Programming
+448,Statistics,Analytics
+449,SQL,Database
+449,Python,Programming
+449,Pandas/NumPy,Programming
+449,Power BI,BI Tool
+449,Data Visualization,Analytics
+449,Statistics,Analytics
+449,Machine Learning,Data Science
+449,Deep Learning,Data Science
+449,ETL/Pipelines,Data Engineering
+449,Spark/Big Data,Data Engineering
+449,Data Warehousing/Modeling,Data Engineering
+449,AWS,Cloud/Platform
+450,ETL/Pipelines,Data Engineering
+450,Spark/Big Data,Data Engineering
+451,Tableau,BI Tool
+451,Data Visualization,Analytics
+451,Spark/Big Data,Data Engineering
+451,Communication,Soft Skill
+451,Problem Solving,Soft Skill
+452,Statistics,Analytics
+452,Machine Learning,Data Science
+452,NLP/GenAI,Data Science
+453,SQL,Database
+453,Excel,Spreadsheet
+453,Data Visualization,Analytics
+453,Communication,Soft Skill
+453,Problem Solving,Soft Skill
+454,SQL,Database
+454,Python,Programming
+454,Pandas/NumPy,Programming
+454,Statistics,Analytics
+454,Machine Learning,Data Science
+454,NLP/GenAI,Data Science
+454,Communication,Soft Skill
+455,SQL,Database
+455,Python,Programming
+455,Statistics,Analytics
+455,ETL/Pipelines,Data Engineering
+455,Spark/Big Data,Data Engineering
+455,Data Warehousing/Modeling,Data Engineering
+455,Azure,Cloud/Platform
+455,Git/GitHub,Tools
+456,SQL,Database
+456,Power BI,BI Tool
+456,Tableau,BI Tool
+456,Data Visualization,Analytics
+456,ETL/Pipelines,Data Engineering
+456,Spark/Big Data,Data Engineering
+456,Azure,Cloud/Platform
+457,SQL,Database
+457,Python,Programming
+457,Excel,Spreadsheet
+457,Tableau,BI Tool
+457,Data Visualization,Analytics
+457,Machine Learning,Data Science
+457,Communication,Soft Skill
+457,Problem Solving,Soft Skill
+458,SQL,Database
+458,Python,Programming
+458,Excel,Spreadsheet
+458,Tableau,BI Tool
+458,Looker/Qlik,BI Tool
+458,Data Visualization,Analytics
+458,Statistics,Analytics
+458,Machine Learning,Data Science
+458,SAS/SPSS,Tools
+458,Communication,Soft Skill
+458,Problem Solving,Soft Skill
+459,Python,Programming
+459,Statistics,Analytics
+459,Machine Learning,Data Science
+459,Deep Learning,Data Science
+459,NLP/GenAI,Data Science
+459,Communication,Soft Skill
+460,SQL,Database
+460,Power BI,BI Tool
+460,Tableau,BI Tool
+460,Looker/Qlik,BI Tool
+460,Data Visualization,Analytics
+460,Statistics,Analytics
+460,ETL/Pipelines,Data Engineering
+460,Data Warehousing/Modeling,Data Engineering
+460,Snowflake,Cloud/Platform
+460,Communication,Soft Skill
+460,Problem Solving,Soft Skill
+461,SQL,Database
+461,Data Visualization,Analytics
+461,Problem Solving,Soft Skill
+462,SQL,Database
+462,Python,Programming
+462,R,Programming
+462,Pandas/NumPy,Programming
+462,Data Visualization,Analytics
+462,Statistics,Analytics
+462,Machine Learning,Data Science
+462,Deep Learning,Data Science
+462,Spark/Big Data,Data Engineering
+462,AWS,Cloud/Platform
+462,SAS/SPSS,Tools
+462,Problem Solving,Soft Skill
+463,SQL,Database
+463,Python,Programming
+463,R,Programming
+463,Data Visualization,Analytics
+463,Statistics,Analytics
+463,Machine Learning,Data Science
+463,Deep Learning,Data Science
+463,NLP/GenAI,Data Science
+463,AWS,Cloud/Platform
+463,GCP/BigQuery,Cloud/Platform
+464,Excel,Spreadsheet
+464,Communication,Soft Skill
+464,Problem Solving,Soft Skill
+465,SQL,Database
+465,Python,Programming
+465,R,Programming
+465,Statistics,Analytics
+465,Machine Learning,Data Science
+465,Deep Learning,Data Science
+465,Spark/Big Data,Data Engineering
+467,Problem Solving,Soft Skill
+468,SQL,Database
+468,Tableau,BI Tool
+468,Data Visualization,Analytics
+468,Communication,Soft Skill
+468,Problem Solving,Soft Skill
+469,SQL,Database
+469,Excel,Spreadsheet
+469,Power BI,BI Tool
+469,Statistics,Analytics
+469,ETL/Pipelines,Data Engineering
+469,Communication,Soft Skill
+469,Problem Solving,Soft Skill
+470,SQL,Database
+470,Python,Programming
+470,Data Warehousing/Modeling,Data Engineering
+470,Problem Solving,Soft Skill
+471,Python,Programming
+471,Data Visualization,Analytics
+471,Statistics,Analytics
+471,Machine Learning,Data Science
+471,Deep Learning,Data Science
+471,Spark/Big Data,Data Engineering
+471,AWS,Cloud/Platform
+471,Communication,Soft Skill
+472,SQL,Database
+472,Python,Programming
+472,Machine Learning,Data Science
+472,Spark/Big Data,Data Engineering
+472,Azure,Cloud/Platform
+473,Communication,Soft Skill
+473,Problem Solving,Soft Skill
+474,SQL,Database
+474,Python,Programming
+474,Machine Learning,Data Science
+474,ETL/Pipelines,Data Engineering
+474,Spark/Big Data,Data Engineering
+474,Data Warehousing/Modeling,Data Engineering
+474,AWS,Cloud/Platform
+474,GCP/BigQuery,Cloud/Platform
+475,Excel,Spreadsheet
+475,Statistics,Analytics
+475,Communication,Soft Skill
+476,Statistics,Analytics
+476,Communication,Soft Skill
+477,SQL,Database
+477,Python,Programming
+477,R,Programming
+477,Pandas/NumPy,Programming
+477,Excel,Spreadsheet
+477,Tableau,BI Tool
+477,Data Visualization,Analytics
+477,Statistics,Analytics
+477,Machine Learning,Data Science
+477,Spark/Big Data,Data Engineering
+477,SAS/SPSS,Tools
+477,Communication,Soft Skill
+477,Problem Solving,Soft Skill
+478,SQL,Database
+478,Python,Programming
+478,NLP/GenAI,Data Science
+478,ETL/Pipelines,Data Engineering
+478,Spark/Big Data,Data Engineering
+478,Azure,Cloud/Platform
+478,Communication,Soft Skill
+479,Python,Programming
+479,ETL/Pipelines,Data Engineering
+479,Data Warehousing/Modeling,Data Engineering
+479,Azure,Cloud/Platform
+479,Communication,Soft Skill
+479,Problem Solving,Soft Skill
+480,SQL,Database
+480,ETL/Pipelines,Data Engineering
+480,Data Warehousing/Modeling,Data Engineering
+480,Problem Solving,Soft Skill
+481,SQL,Database
+481,Excel,Spreadsheet
+481,Power BI,BI Tool
+481,Tableau,BI Tool
+481,Data Visualization,Analytics
+481,Statistics,Analytics
+481,Data Warehousing/Modeling,Data Engineering
+481,SAS/SPSS,Tools
+481,Communication,Soft Skill
+481,Problem Solving,Soft Skill
+482,SQL,Database
+482,ETL/Pipelines,Data Engineering
+482,Data Warehousing/Modeling,Data Engineering
+482,Communication,Soft Skill
+482,Problem Solving,Soft Skill
+483,SQL,Database
+483,Python,Programming
+483,Excel,Spreadsheet
+483,Statistics,Analytics
+483,Machine Learning,Data Science
+483,Communication,Soft Skill
+483,Problem Solving,Soft Skill
+484,SQL,Database
+484,Python,Programming
+484,Machine Learning,Data Science
+484,ETL/Pipelines,Data Engineering
+484,Spark/Big Data,Data Engineering
+484,Data Warehousing/Modeling,Data Engineering
+484,AWS,Cloud/Platform
+484,Communication,Soft Skill
+485,SQL,Database
+485,Python,Programming
+485,ETL/Pipelines,Data Engineering
+485,Spark/Big Data,Data Engineering
+485,Data Warehousing/Modeling,Data Engineering
+485,Snowflake,Cloud/Platform
+485,AWS,Cloud/Platform
+485,Communication,Soft Skill
+485,Problem Solving,Soft Skill
+486,Excel,Spreadsheet
+486,Statistics,Analytics
+486,Communication,Soft Skill
+486,Problem Solving,Soft Skill
+487,SQL,Database
+487,Python,Programming
+487,Tableau,BI Tool
+487,Spark/Big Data,Data Engineering
+487,Snowflake,Cloud/Platform
+487,GCP/BigQuery,Cloud/Platform
+487,SAS/SPSS,Tools
+488,SQL,Database
+488,ETL/Pipelines,Data Engineering
+488,Azure,Cloud/Platform
+488,Communication,Soft Skill
+488,Problem Solving,Soft Skill
+489,SQL,Database
+489,Power BI,BI Tool
+489,DAX/Power Query,BI Tool
+489,Data Warehousing/Modeling,Data Engineering
+489,Snowflake,Cloud/Platform
+490,Python,Programming
+490,Statistics,Analytics
+490,Machine Learning,Data Science
+490,Communication,Soft Skill
+491,SQL,Database
+491,Excel,Spreadsheet
+491,VBA/Macros,Spreadsheet
+491,Data Visualization,Analytics
+491,Statistics,Analytics
+491,Communication,Soft Skill
+492,Excel,Spreadsheet
+492,Communication,Soft Skill
+492,Problem Solving,Soft Skill
+493,Data Warehousing/Modeling,Data Engineering
+493,Communication,Soft Skill
+493,Problem Solving,Soft Skill
+494,Communication,Soft Skill
+494,Problem Solving,Soft Skill
+495,SQL,Database
+496,SQL,Database
+496,Python,Programming
+496,R,Programming
+496,Pandas/NumPy,Programming
+496,Tableau,BI Tool
+496,Data Visualization,Analytics
+496,Statistics,Analytics
+496,Machine Learning,Data Science
+496,Deep Learning,Data Science
+496,Communication,Soft Skill
+496,Problem Solving,Soft Skill
+497,Python,Programming
+497,R,Programming
+497,Statistics,Analytics
+497,Machine Learning,Data Science
+497,Communication,Soft Skill
+498,SQL,Database
+498,Python,Programming
+498,Excel,Spreadsheet
+498,Statistics,Analytics
+498,Communication,Soft Skill
+498,Problem Solving,Soft Skill
+500,SQL,Database
+500,Python,Programming
+500,R,Programming
+500,Statistics,Analytics
+500,Machine Learning,Data Science
+500,Data Warehousing/Modeling,Data Engineering
+500,Communication,Soft Skill
+501,SQL,Database
+501,Python,Programming
+501,Git/GitHub,Tools
+501,Communication,Soft Skill
+501,Problem Solving,Soft Skill
+502,SQL,Database
+502,Python,Programming
+502,Excel,Spreadsheet
+502,Machine Learning,Data Science
+502,ETL/Pipelines,Data Engineering
+502,Spark/Big Data,Data Engineering
+502,Data Warehousing/Modeling,Data Engineering
+502,Communication,Soft Skill
+502,Problem Solving,Soft Skill
+503,SQL,Database
+503,ETL/Pipelines,Data Engineering
+503,Spark/Big Data,Data Engineering
+503,Data Warehousing/Modeling,Data Engineering
+503,Azure,Cloud/Platform
+503,Communication,Soft Skill
+504,SQL,Database
+504,Data Visualization,Analytics
+504,Statistics,Analytics
+504,ETL/Pipelines,Data Engineering
+504,Data Warehousing/Modeling,Data Engineering
+504,Azure,Cloud/Platform
+504,Communication,Soft Skill
+505,SQL,Database
+505,Excel,Spreadsheet
+507,Power BI,BI Tool
+507,ETL/Pipelines,Data Engineering
+507,Spark/Big Data,Data Engineering
+507,Data Warehousing/Modeling,Data Engineering
+507,Azure,Cloud/Platform
+508,SQL,Database
+508,Python,Programming
+508,R,Programming
+508,Excel,Spreadsheet
+508,Statistics,Analytics
+508,Communication,Soft Skill
+508,Problem Solving,Soft Skill
+509,SQL,Database
+509,Python,Programming
+509,Spark/Big Data,Data Engineering
+509,AWS,Cloud/Platform
+509,Git/GitHub,Tools
+509,Communication,Soft Skill
+510,SQL,Database
+510,Python,Programming
+510,R,Programming
+510,Excel,Spreadsheet
+510,Power BI,BI Tool
+510,Tableau,BI Tool
+511,SQL,Database
+511,Python,Programming
+511,Tableau,BI Tool
+511,Data Visualization,Analytics
+511,Statistics,Analytics
+511,Communication,Soft Skill
+511,Problem Solving,Soft Skill
+512,SQL,Database
+512,Python,Programming
+512,Data Visualization,Analytics
+512,ETL/Pipelines,Data Engineering
+512,AWS,Cloud/Platform
+512,Azure,Cloud/Platform
+512,Communication,Soft Skill
+512,Problem Solving,Soft Skill
+513,Python,Programming
+513,AWS,Cloud/Platform
+514,Data Visualization,Analytics
+514,Statistics,Analytics
+514,Machine Learning,Data Science
+514,Data Warehousing/Modeling,Data Engineering
+514,Communication,Soft Skill
+517,Python,Programming
+517,Pandas/NumPy,Programming
+517,Data Visualization,Analytics
+517,Statistics,Analytics
+517,Machine Learning,Data Science
+517,Git/GitHub,Tools
+517,Communication,Soft Skill
+518,Excel,Spreadsheet
+518,Statistics,Analytics
+519,Python,Programming
+519,Spark/Big Data,Data Engineering
+520,SQL,Database
+520,Power BI,BI Tool
+521,Statistics,Analytics
+522,SQL,Database
+522,Python,Programming
+522,Statistics,Analytics
+522,Machine Learning,Data Science
+522,Deep Learning,Data Science
+522,NLP/GenAI,Data Science
+522,Spark/Big Data,Data Engineering
+522,Data Warehousing/Modeling,Data Engineering
+522,Communication,Soft Skill
+523,SQL,Database
+523,Python,Programming
+523,Pandas/NumPy,Programming
+523,Data Visualization,Analytics
+523,Machine Learning,Data Science
+523,Deep Learning,Data Science
+523,NLP/GenAI,Data Science
+523,Data Warehousing/Modeling,Data Engineering
+523,Communication,Soft Skill
+524,Excel,Spreadsheet
+524,Data Visualization,Analytics
+524,Communication,Soft Skill
+525,Python,Programming
+525,NLP/GenAI,Data Science
+525,ETL/Pipelines,Data Engineering
+525,AWS,Cloud/Platform
+525,Communication,Soft Skill
+526,SQL,Database
+526,Python,Programming
+526,R,Programming
+526,Power BI,BI Tool
+526,Tableau,BI Tool
+526,Machine Learning,Data Science
+526,Communication,Soft Skill
+527,SQL,Database
+527,Python,Programming
+527,Pandas/NumPy,Programming
+527,Excel,Spreadsheet
+527,Data Visualization,Analytics
+527,Statistics,Analytics
+527,Machine Learning,Data Science
+527,Deep Learning,Data Science
+527,Spark/Big Data,Data Engineering
+527,Azure,Cloud/Platform
+527,Problem Solving,Soft Skill
+528,SQL,Database
+528,Python,Programming
+528,ETL/Pipelines,Data Engineering
+528,Spark/Big Data,Data Engineering
+528,Git/GitHub,Tools
+529,SQL,Database
+529,Python,Programming
+529,R,Programming
+529,Data Visualization,Analytics
+529,Statistics,Analytics
+529,Machine Learning,Data Science
+529,ETL/Pipelines,Data Engineering
+529,Spark/Big Data,Data Engineering
+529,Azure,Cloud/Platform
+529,Git/GitHub,Tools
+529,Communication,Soft Skill
+529,Problem Solving,Soft Skill
+530,Spark/Big Data,Data Engineering
+530,Azure,Cloud/Platform
+531,Communication,Soft Skill
+532,SQL,Database
+532,Python,Programming
+532,R,Programming
+532,Statistics,Analytics
+532,Machine Learning,Data Science
+532,Communication,Soft Skill
+532,Problem Solving,Soft Skill
+533,Statistics,Analytics
+533,Communication,Soft Skill
+535,SQL,Database
+535,Python,Programming
+535,Machine Learning,Data Science
+535,ETL/Pipelines,Data Engineering
+535,Spark/Big Data,Data Engineering
+535,Data Warehousing/Modeling,Data Engineering
+535,AWS,Cloud/Platform
+535,Azure,Cloud/Platform
+535,GCP/BigQuery,Cloud/Platform
+536,Statistics,Analytics
+537,Excel,Spreadsheet
+537,VBA/Macros,Spreadsheet
+537,Communication,Soft Skill
+538,Python,Programming
+538,R,Programming
+538,Data Visualization,Analytics
+538,Statistics,Analytics
+538,Machine Learning,Data Science
+538,Communication,Soft Skill
+538,Problem Solving,Soft Skill
+539,ETL/Pipelines,Data Engineering
+539,Snowflake,Cloud/Platform
+539,AWS,Cloud/Platform
+539,Azure,Cloud/Platform
+542,Excel,Spreadsheet
+542,VBA/Macros,Spreadsheet
+542,Communication,Soft Skill
+543,SQL,Database
+543,Pandas/NumPy,Programming
+543,Data Visualization,Analytics
+543,ETL/Pipelines,Data Engineering
+543,Spark/Big Data,Data Engineering
+543,Data Warehousing/Modeling,Data Engineering
+543,AWS,Cloud/Platform
+543,Git/GitHub,Tools
+543,Communication,Soft Skill
+543,Problem Solving,Soft Skill
+544,SQL,Database
+544,Power BI,BI Tool
+544,DAX/Power Query,BI Tool
+544,ETL/Pipelines,Data Engineering
+544,Data Warehousing/Modeling,Data Engineering
+544,Snowflake,Cloud/Platform
+545,SQL,Database
+545,Excel,Spreadsheet
+545,Power BI,BI Tool
+545,Statistics,Analytics
+545,Machine Learning,Data Science
+545,ETL/Pipelines,Data Engineering
+545,Azure,Cloud/Platform
+545,Git/GitHub,Tools
+546,SQL,Database
+546,Python,Programming
+546,R,Programming
+546,Power BI,BI Tool
+546,Tableau,BI Tool
+546,Data Visualization,Analytics
+546,Statistics,Analytics
+546,Communication,Soft Skill
+546,Problem Solving,Soft Skill
+548,Excel,Spreadsheet
+548,Communication,Soft Skill
+549,SQL,Database
+549,Python,Programming
+549,R,Programming
+549,Looker/Qlik,BI Tool
+549,Machine Learning,Data Science
+549,Communication,Soft Skill
+549,Problem Solving,Soft Skill
+550,Excel,Spreadsheet
+550,VBA/Macros,Spreadsheet
+550,Power BI,BI Tool
+550,Data Visualization,Analytics
+550,Communication,Soft Skill
+551,NLP/GenAI,Data Science
+552,SQL,Database
+552,Python,Programming
+552,Looker/Qlik,BI Tool
+552,Data Visualization,Analytics
+552,ETL/Pipelines,Data Engineering
+552,Communication,Soft Skill
+552,Problem Solving,Soft Skill
+553,SQL,Database
+553,Python,Programming
+553,ETL/Pipelines,Data Engineering
+553,Spark/Big Data,Data Engineering
+553,Data Warehousing/Modeling,Data Engineering
+553,AWS,Cloud/Platform
+553,Azure,Cloud/Platform
+553,GCP/BigQuery,Cloud/Platform
+553,Communication,Soft Skill
+554,Communication,Soft Skill
+555,SQL,Database
+555,Spark/Big Data,Data Engineering
+555,Communication,Soft Skill
+556,SQL,Database
+556,ETL/Pipelines,Data Engineering
+556,Spark/Big Data,Data Engineering
+556,Azure,Cloud/Platform
+556,Problem Solving,Soft Skill
+557,SQL,Database
+557,Python,Programming
+557,R,Programming
+557,Statistics,Analytics
+557,Machine Learning,Data Science
+557,Spark/Big Data,Data Engineering
+557,Communication,Soft Skill
+557,Problem Solving,Soft Skill
+559,Excel,Spreadsheet
+559,Communication,Soft Skill
+560,SQL,Database
+560,Machine Learning,Data Science
+560,Deep Learning,Data Science
+560,NLP/GenAI,Data Science
+560,Spark/Big Data,Data Engineering
+560,Git/GitHub,Tools
+560,Communication,Soft Skill
+560,Problem Solving,Soft Skill
+561,Python,Programming
+561,R,Programming
+561,Tableau,BI Tool
+561,Data Visualization,Analytics
+561,Statistics,Analytics
+561,Communication,Soft Skill
+562,SQL,Database
+562,Power BI,BI Tool
+562,DAX/Power Query,BI Tool
+562,Data Visualization,Analytics
+562,Communication,Soft Skill
+563,Pandas/NumPy,Programming
+563,Power BI,BI Tool
+563,Tableau,BI Tool
+563,Data Visualization,Analytics
+563,Statistics,Analytics
+563,Machine Learning,Data Science
+563,Deep Learning,Data Science
+563,NLP/GenAI,Data Science
+563,Git/GitHub,Tools
+563,Communication,Soft Skill
+563,Problem Solving,Soft Skill
+564,Python,Programming
+564,R,Programming
+564,Data Visualization,Analytics
+564,Statistics,Analytics
+564,Machine Learning,Data Science
+564,Deep Learning,Data Science
+564,Spark/Big Data,Data Engineering
+564,Data Warehousing/Modeling,Data Engineering
+564,Communication,Soft Skill
+564,Problem Solving,Soft Skill
+565,Excel,Spreadsheet
+565,Data Visualization,Analytics
+565,Data Warehousing/Modeling,Data Engineering
+566,SQL,Database
+566,Excel,Spreadsheet
+566,VBA/Macros,Spreadsheet
+566,Power BI,BI Tool
+566,Data Visualization,Analytics
+566,Communication,Soft Skill
+567,SQL,Database
+567,Python,Programming
+567,R,Programming
+567,Tableau,BI Tool
+567,Statistics,Analytics
+567,Machine Learning,Data Science
+567,Deep Learning,Data Science
+567,NLP/GenAI,Data Science
+567,Spark/Big Data,Data Engineering
+567,Data Warehousing/Modeling,Data Engineering
+567,AWS,Cloud/Platform
+567,Azure,Cloud/Platform
+567,SAS/SPSS,Tools
+567,Communication,Soft Skill
+567,Problem Solving,Soft Skill
+568,SQL,Database
+568,Python,Programming
+568,R,Programming
+568,Excel,Spreadsheet
+568,Data Visualization,Analytics
+569,SQL,Database
+569,Python,Programming
+569,Pandas/NumPy,Programming
+569,ETL/Pipelines,Data Engineering
+569,Spark/Big Data,Data Engineering
+571,SQL,Database
+571,Python,Programming
+571,Machine Learning,Data Science
+571,ETL/Pipelines,Data Engineering
+571,Spark/Big Data,Data Engineering
+571,Data Warehousing/Modeling,Data Engineering
+571,Snowflake,Cloud/Platform
+571,AWS,Cloud/Platform
+571,Communication,Soft Skill
+571,Problem Solving,Soft Skill
+572,SQL,Database
+572,R,Programming
+572,VBA/Macros,Spreadsheet
+572,Data Visualization,Analytics
+572,Statistics,Analytics
+572,Data Warehousing/Modeling,Data Engineering
+572,Communication,Soft Skill
+572,Problem Solving,Soft Skill
+573,Communication,Soft Skill
+573,Problem Solving,Soft Skill
+574,SQL,Database
+574,Python,Programming
+574,Azure,Cloud/Platform
+575,SQL,Database
+575,Python,Programming
+575,Power BI,BI Tool
+575,ETL/Pipelines,Data Engineering
+575,Spark/Big Data,Data Engineering
+575,Data Warehousing/Modeling,Data Engineering
+575,Snowflake,Cloud/Platform
+575,Azure,Cloud/Platform
+576,SQL,Database
+576,Python,Programming
+576,Pandas/NumPy,Programming
+576,Machine Learning,Data Science
+577,SQL,Database
+577,Python,Programming
+577,Data Visualization,Analytics
+577,Communication,Soft Skill
+578,SQL,Database
+578,Excel,Spreadsheet
+578,Power BI,BI Tool
+578,Tableau,BI Tool
+578,Data Visualization,Analytics
+578,ETL/Pipelines,Data Engineering
+578,Data Warehousing/Modeling,Data Engineering
+578,Communication,Soft Skill
+578,Problem Solving,Soft Skill
+579,SQL,Database
+579,Looker/Qlik,BI Tool
+579,Data Visualization,Analytics
+579,ETL/Pipelines,Data Engineering
+579,Data Warehousing/Modeling,Data Engineering
+579,Git/GitHub,Tools
+579,Communication,Soft Skill
+580,SQL,Database
+580,Python,Programming
+580,R,Programming
+580,Excel,Spreadsheet
+580,Tableau,BI Tool
+580,Data Visualization,Analytics
+580,Statistics,Analytics
+580,Machine Learning,Data Science
+580,Deep Learning,Data Science
+580,Spark/Big Data,Data Engineering
+580,Communication,Soft Skill
+580,Problem Solving,Soft Skill
+581,SQL,Database
+581,Python,Programming
+581,ETL/Pipelines,Data Engineering
+581,Spark/Big Data,Data Engineering
+581,Snowflake,Cloud/Platform
+581,AWS,Cloud/Platform
+581,Azure,Cloud/Platform
+581,Communication,Soft Skill
+582,SQL,Database
+582,Python,Programming
+582,R,Programming
+582,Data Visualization,Analytics
+582,Statistics,Analytics
+582,Communication,Soft Skill
+582,Problem Solving,Soft Skill
+583,Excel,Spreadsheet
+583,Statistics,Analytics
+583,SAS/SPSS,Tools
+583,Problem Solving,Soft Skill
+584,SQL,Database
+584,Python,Programming
+584,Power BI,BI Tool
+584,Tableau,BI Tool
+584,Data Visualization,Analytics
+584,Statistics,Analytics
+584,Machine Learning,Data Science
+584,NLP/GenAI,Data Science
+584,Spark/Big Data,Data Engineering
+584,AWS,Cloud/Platform
+584,Azure,Cloud/Platform
+584,GCP/BigQuery,Cloud/Platform
+584,Communication,Soft Skill
+585,SQL,Database
+585,Python,Programming
+585,R,Programming
+585,Power BI,BI Tool
+585,Tableau,BI Tool
+585,Data Visualization,Analytics
+585,Machine Learning,Data Science
+585,NLP/GenAI,Data Science
+585,ETL/Pipelines,Data Engineering
+585,Spark/Big Data,Data Engineering
+585,Data Warehousing/Modeling,Data Engineering
+586,Machine Learning,Data Science
+586,Deep Learning,Data Science
+586,NLP/GenAI,Data Science
+587,Excel,Spreadsheet
+587,Communication,Soft Skill
+588,Excel,Spreadsheet
+588,Communication,Soft Skill
+589,SQL,Database
+589,Python,Programming
+589,Excel,Spreadsheet
+589,Power BI,BI Tool
+589,Tableau,BI Tool
+589,Data Visualization,Analytics
+589,Statistics,Analytics
+589,Spark/Big Data,Data Engineering
+589,Data Warehousing/Modeling,Data Engineering
+589,SAS/SPSS,Tools
+589,Communication,Soft Skill
+589,Problem Solving,Soft Skill
+590,SQL,Database
+590,Python,Programming
+590,Power BI,BI Tool
+590,DAX/Power Query,BI Tool
+590,Data Visualization,Analytics
+590,Statistics,Analytics
+590,Machine Learning,Data Science
+590,Communication,Soft Skill
+591,SQL,Database
+591,Python,Programming
+591,ETL/Pipelines,Data Engineering
+591,Spark/Big Data,Data Engineering
+591,Data Warehousing/Modeling,Data Engineering
+591,GCP/BigQuery,Cloud/Platform
+591,SAS/SPSS,Tools
+593,SQL,Database
+593,ETL/Pipelines,Data Engineering
+593,Data Warehousing/Modeling,Data Engineering
+593,Git/GitHub,Tools
+594,SQL,Database
+594,Python,Programming
+594,Excel,Spreadsheet
+594,Power BI,BI Tool
+594,Tableau,BI Tool
+594,Looker/Qlik,BI Tool
+594,Data Visualization,Analytics
+594,Statistics,Analytics
+594,Spark/Big Data,Data Engineering
+594,SAS/SPSS,Tools
+594,Communication,Soft Skill
+594,Problem Solving,Soft Skill
+595,SQL,Database
+595,Python,Programming
+595,R,Programming
+595,Excel,Spreadsheet
+595,Power BI,BI Tool
+595,Looker/Qlik,BI Tool
+595,Machine Learning,Data Science
+595,Communication,Soft Skill
+595,Problem Solving,Soft Skill
+597,SQL,Database
+597,Python,Programming
+597,Excel,Spreadsheet
+597,Data Visualization,Analytics
+597,ETL/Pipelines,Data Engineering
+597,Spark/Big Data,Data Engineering
+597,Problem Solving,Soft Skill
+598,SQL,Database
+598,Excel,Spreadsheet
+598,Power BI,BI Tool
+598,DAX/Power Query,BI Tool
+598,Data Visualization,Analytics
+598,ETL/Pipelines,Data Engineering
+598,Data Warehousing/Modeling,Data Engineering
+598,GCP/BigQuery,Cloud/Platform
+598,Communication,Soft Skill
+598,Problem Solving,Soft Skill
+599,SQL,Database
+599,Python,Programming
+599,Power BI,BI Tool
+599,Tableau,BI Tool
+599,Data Visualization,Analytics
+599,Statistics,Analytics
+599,Data Warehousing/Modeling,Data Engineering
+599,SAS/SPSS,Tools
+599,Communication,Soft Skill
+599,Problem Solving,Soft Skill
+600,Excel,Spreadsheet
+600,Communication,Soft Skill
+601,Power BI,BI Tool
+601,DAX/Power Query,BI Tool
+601,Data Visualization,Analytics
+601,Data Warehousing/Modeling,Data Engineering
+601,Communication,Soft Skill
+601,Problem Solving,Soft Skill
+602,SQL,Database
+602,Python,Programming
+602,R,Programming
+602,Statistics,Analytics
+602,Machine Learning,Data Science
+602,Spark/Big Data,Data Engineering
+602,AWS,Cloud/Platform
+602,Communication,Soft Skill
+603,SQL,Database
+603,Power BI,BI Tool
+603,DAX/Power Query,BI Tool
+603,Data Visualization,Analytics
+603,Spark/Big Data,Data Engineering
+603,Data Warehousing/Modeling,Data Engineering
+603,Azure,Cloud/Platform
+604,SQL,Database
+604,Python,Programming
+604,R,Programming
+604,Excel,Spreadsheet
+604,Power BI,BI Tool
+604,Tableau,BI Tool
+604,Data Visualization,Analytics
+604,Statistics,Analytics
+604,Machine Learning,Data Science
+604,Spark/Big Data,Data Engineering
+604,Data Warehousing/Modeling,Data Engineering
+604,Communication,Soft Skill
+604,Problem Solving,Soft Skill
+605,Communication,Soft Skill
+606,SQL,Database
+606,Python,Programming
+606,Excel,Spreadsheet
+606,VBA/Macros,Spreadsheet
+606,Statistics,Analytics
+606,Machine Learning,Data Science
+606,Snowflake,Cloud/Platform
+606,SAS/SPSS,Tools
+606,Communication,Soft Skill
+606,Problem Solving,Soft Skill
+607,SQL,Database
+607,Python,Programming
+607,ETL/Pipelines,Data Engineering
+607,Spark/Big Data,Data Engineering
+607,Snowflake,Cloud/Platform
+607,AWS,Cloud/Platform
+607,Azure,Cloud/Platform
+607,GCP/BigQuery,Cloud/Platform
+608,Data Warehousing/Modeling,Data Engineering
+608,Communication,Soft Skill
+608,Problem Solving,Soft Skill
+609,Power BI,BI Tool
+609,Data Visualization,Analytics
+609,ETL/Pipelines,Data Engineering
+609,Data Warehousing/Modeling,Data Engineering
+609,Azure,Cloud/Platform
+609,Communication,Soft Skill
+610,SQL,Database
+610,Python,Programming
+610,R,Programming
+610,Data Visualization,Analytics
+610,Statistics,Analytics
+610,Machine Learning,Data Science
+610,Data Warehousing/Modeling,Data Engineering
+610,Communication,Soft Skill
+610,Problem Solving,Soft Skill
+611,Statistics,Analytics
+611,Machine Learning,Data Science
+611,Deep Learning,Data Science
+612,SQL,Database
+612,Python,Programming
+612,Communication,Soft Skill
+613,Tableau,BI Tool
+613,Data Visualization,Analytics
+613,Communication,Soft Skill
+613,Problem Solving,Soft Skill
+614,Excel,Spreadsheet
+615,SQL,Database
+615,Python,Programming
+615,Power BI,BI Tool
+615,Data Visualization,Analytics
+615,Machine Learning,Data Science
+615,Spark/Big Data,Data Engineering
+615,Snowflake,Cloud/Platform
+615,Azure,Cloud/Platform
+615,Communication,Soft Skill
+616,SQL,Database
+616,Excel,Spreadsheet
+616,Power BI,BI Tool
+616,Data Visualization,Analytics
+616,Statistics,Analytics
+616,ETL/Pipelines,Data Engineering
+616,Communication,Soft Skill
+617,Data Visualization,Analytics
+617,Statistics,Analytics
+617,Machine Learning,Data Science
+617,Deep Learning,Data Science
+617,Communication,Soft Skill
+618,Excel,Spreadsheet
+618,Communication,Soft Skill
+619,Python,Programming
+619,Machine Learning,Data Science
+619,Deep Learning,Data Science
+619,NLP/GenAI,Data Science
+619,Communication,Soft Skill
+619,Problem Solving,Soft Skill
+620,SQL,Database
+620,Python,Programming
+620,Communication,Soft Skill
+620,Problem Solving,Soft Skill
+621,Excel,Spreadsheet
+621,Statistics,Analytics
+622,SQL,Database
+623,Python,Programming
+623,R,Programming
+623,Data Visualization,Analytics
+623,Statistics,Analytics
+623,Machine Learning,Data Science
+623,Data Warehousing/Modeling,Data Engineering
+623,SAS/SPSS,Tools
+623,Communication,Soft Skill
+624,Tableau,BI Tool
+624,Machine Learning,Data Science
+624,Data Warehousing/Modeling,Data Engineering
+625,SQL,Database
+625,Python,Programming
+625,Machine Learning,Data Science
+625,ETL/Pipelines,Data Engineering
+625,Data Warehousing/Modeling,Data Engineering
+625,AWS,Cloud/Platform
+626,SQL,Database
+626,Python,Programming
+626,ETL/Pipelines,Data Engineering
+626,Data Warehousing/Modeling,Data Engineering
+626,Snowflake,Cloud/Platform
+626,AWS,Cloud/Platform
+626,Azure,Cloud/Platform
+627,SQL,Database
+627,Python,Programming
+627,Excel,Spreadsheet
+627,Data Visualization,Analytics
+627,Spark/Big Data,Data Engineering
+627,Communication,Soft Skill
+628,SQL,Database
+628,Python,Programming
+628,Power BI,BI Tool
+628,Tableau,BI Tool
+628,Data Visualization,Analytics
+628,Statistics,Analytics
+628,Communication,Soft Skill
+628,Problem Solving,Soft Skill
+629,SQL,Database
+629,Communication,Soft Skill
+629,Problem Solving,Soft Skill
+630,SQL,Database
+630,ETL/Pipelines,Data Engineering
+630,Data Warehousing/Modeling,Data Engineering
+630,Communication,Soft Skill
+631,SQL,Database
+631,Python,Programming
+631,Spark/Big Data,Data Engineering
+631,Data Warehousing/Modeling,Data Engineering
+631,Snowflake,Cloud/Platform
+631,Communication,Soft Skill
+631,Problem Solving,Soft Skill
+632,Communication,Soft Skill
+632,Problem Solving,Soft Skill
+633,Communication,Soft Skill
+633,Problem Solving,Soft Skill
+634,Python,Programming
+634,R,Programming
+634,Data Visualization,Analytics
+634,Statistics,Analytics
+634,Machine Learning,Data Science
+634,Communication,Soft Skill
+635,SQL,Database
+635,Python,Programming
+635,R,Programming
+635,Looker/Qlik,BI Tool
+635,Statistics,Analytics
+635,GCP/BigQuery,Cloud/Platform
+635,SAS/SPSS,Tools
+635,Communication,Soft Skill
+635,Problem Solving,Soft Skill
+636,Python,Programming
+636,R,Programming
+636,Power BI,BI Tool
+636,Tableau,BI Tool
+636,Data Visualization,Analytics
+636,Statistics,Analytics
+636,Machine Learning,Data Science
+636,Communication,Soft Skill
+636,Problem Solving,Soft Skill
+637,SQL,Database
+637,Python,Programming
+637,Excel,Spreadsheet
+637,VBA/Macros,Spreadsheet
+637,Tableau,BI Tool
+637,Data Visualization,Analytics
+637,AWS,Cloud/Platform
+637,Communication,Soft Skill
+637,Problem Solving,Soft Skill
+638,SQL,Database
+638,Azure,Cloud/Platform
+638,Communication,Soft Skill
+639,SQL,Database
+640,SQL,Database
+640,Python,Programming
+640,Pandas/NumPy,Programming
+640,Statistics,Analytics
+640,Machine Learning,Data Science
+640,Spark/Big Data,Data Engineering
+640,Communication,Soft Skill
+641,Statistics,Analytics
+642,Communication,Soft Skill
+642,Problem Solving,Soft Skill
+643,SQL,Database
+643,Python,Programming
+643,Pandas/NumPy,Programming
+643,Excel,Spreadsheet
+643,Power BI,BI Tool
+643,Tableau,BI Tool
+643,Looker/Qlik,BI Tool
+643,Data Visualization,Analytics
+643,Statistics,Analytics
+643,Machine Learning,Data Science
+643,Deep Learning,Data Science
+643,Communication,Soft Skill
+643,Problem Solving,Soft Skill
+644,SQL,Database
+644,Python,Programming
+644,ETL/Pipelines,Data Engineering
+644,Spark/Big Data,Data Engineering
+644,AWS,Cloud/Platform
+645,SQL,Database
+645,ETL/Pipelines,Data Engineering
+645,Azure,Cloud/Platform
+646,SQL,Database
+646,Python,Programming
+646,Excel,Spreadsheet
+646,ETL/Pipelines,Data Engineering
+646,Spark/Big Data,Data Engineering
+646,Data Warehousing/Modeling,Data Engineering
+646,Snowflake,Cloud/Platform
+646,Communication,Soft Skill
+647,SQL,Database
+647,Python,Programming
+647,Machine Learning,Data Science
+647,Spark/Big Data,Data Engineering
+648,SQL,Database
+648,Python,Programming
+648,GCP/BigQuery,Cloud/Platform
+649,Python,Programming
+649,Statistics,Analytics
+649,Machine Learning,Data Science
+649,Deep Learning,Data Science
+649,NLP/GenAI,Data Science
+650,Python,Programming
+650,ETL/Pipelines,Data Engineering
+650,Spark/Big Data,Data Engineering
+650,AWS,Cloud/Platform
+650,Communication,Soft Skill
+650,Problem Solving,Soft Skill
+651,SQL,Database
+651,Python,Programming
+651,Machine Learning,Data Science
+651,NLP/GenAI,Data Science
+651,Data Warehousing/Modeling,Data Engineering
+651,Problem Solving,Soft Skill
+652,SQL,Database
+652,Python,Programming
+652,Excel,Spreadsheet
+652,Power BI,BI Tool
+652,Tableau,BI Tool
+652,Data Visualization,Analytics
+652,Machine Learning,Data Science
+652,Spark/Big Data,Data Engineering
+652,Data Warehousing/Modeling,Data Engineering
+652,Communication,Soft Skill
+653,SQL,Database
+653,Python,Programming
+653,Statistics,Analytics
+653,ETL/Pipelines,Data Engineering
+653,Data Warehousing/Modeling,Data Engineering
+653,Git/GitHub,Tools
+653,Problem Solving,Soft Skill
+654,Python,Programming
+654,R,Programming
+654,Data Visualization,Analytics
+654,Statistics,Analytics
+654,SAS/SPSS,Tools
+654,Communication,Soft Skill
+654,Problem Solving,Soft Skill
+655,Python,Programming
+655,Excel,Spreadsheet
+655,Communication,Soft Skill
+656,Python,Programming
+656,Data Visualization,Analytics
+656,Statistics,Analytics
+656,Machine Learning,Data Science
+656,Deep Learning,Data Science
+656,NLP/GenAI,Data Science
+657,SQL,Database
+657,Python,Programming
+657,Power BI,BI Tool
+657,Statistics,Analytics
+657,Data Warehousing/Modeling,Data Engineering
+657,Azure,Cloud/Platform
+657,Problem Solving,Soft Skill
+658,SQL,Database
+658,Power BI,BI Tool
+658,Tableau,BI Tool
+658,Data Visualization,Analytics
+658,Statistics,Analytics
+658,Machine Learning,Data Science
+658,ETL/Pipelines,Data Engineering
+658,Spark/Big Data,Data Engineering
+658,Data Warehousing/Modeling,Data Engineering
+658,Communication,Soft Skill
+659,SQL,Database
+659,Python,Programming
+659,Pandas/NumPy,Programming
+659,Excel,Spreadsheet
+659,Power BI,BI Tool
+659,Tableau,BI Tool
+659,Data Visualization,Analytics
+659,Statistics,Analytics
+659,Communication,Soft Skill
+659,Problem Solving,Soft Skill
+660,Python,Programming
+660,R,Programming
+660,Power BI,BI Tool
+660,Tableau,BI Tool
+660,Data Visualization,Analytics
+660,Statistics,Analytics
+660,Machine Learning,Data Science
+660,NLP/GenAI,Data Science
+660,ETL/Pipelines,Data Engineering
+660,SAS/SPSS,Tools
+660,Communication,Soft Skill
+661,SQL,Database
+661,Python,Programming
+661,ETL/Pipelines,Data Engineering
+661,Data Warehousing/Modeling,Data Engineering
+661,Snowflake,Cloud/Platform
+661,AWS,Cloud/Platform
+661,Git/GitHub,Tools
+661,Communication,Soft Skill
+661,Problem Solving,Soft Skill
+662,SQL,Database
+662,Excel,Spreadsheet
+662,VBA/Macros,Spreadsheet
+662,Communication,Soft Skill
+663,Excel,Spreadsheet
+663,Problem Solving,Soft Skill
+664,SQL,Database
+664,Python,Programming
+664,Power BI,BI Tool
+664,Data Warehousing/Modeling,Data Engineering
+665,Data Visualization,Analytics
+665,ETL/Pipelines,Data Engineering
+665,Spark/Big Data,Data Engineering
+666,SQL,Database
+666,Power BI,BI Tool
+666,Looker/Qlik,BI Tool
+666,Data Visualization,Analytics
+666,Data Warehousing/Modeling,Data Engineering
+666,Azure,Cloud/Platform
+666,Communication,Soft Skill
+667,SQL,Database
+667,Python,Programming
+667,Tableau,BI Tool
+667,Data Visualization,Analytics
+667,Statistics,Analytics
+667,Deep Learning,Data Science
+667,NLP/GenAI,Data Science
+667,Spark/Big Data,Data Engineering
+667,Communication,Soft Skill
+667,Problem Solving,Soft Skill
+668,SQL,Database
+668,Python,Programming
+668,ETL/Pipelines,Data Engineering
+668,Data Warehousing/Modeling,Data Engineering
+668,Snowflake,Cloud/Platform
+668,AWS,Cloud/Platform
+668,Azure,Cloud/Platform
+668,Problem Solving,Soft Skill
+669,SQL,Database
+669,Python,Programming
+669,R,Programming
+669,Pandas/NumPy,Programming
+669,Statistics,Analytics
+669,Machine Learning,Data Science
+669,Spark/Big Data,Data Engineering
+669,AWS,Cloud/Platform
+669,Azure,Cloud/Platform
+669,GCP/BigQuery,Cloud/Platform
+669,Communication,Soft Skill
+670,Excel,Spreadsheet
+670,Power BI,BI Tool
+670,Data Visualization,Analytics
+670,Communication,Soft Skill
+671,SQL,Database
+671,Python,Programming
+671,R,Programming
+671,Data Visualization,Analytics
+671,Statistics,Analytics
+671,Git/GitHub,Tools
+671,SAS/SPSS,Tools
+671,Communication,Soft Skill
+672,SQL,Database
+672,Python,Programming
+672,Tableau,BI Tool
+672,Statistics,Analytics
+672,Spark/Big Data,Data Engineering
+672,Communication,Soft Skill
+672,Problem Solving,Soft Skill
+673,SQL,Database
+673,Python,Programming
+673,Pandas/NumPy,Programming
+673,Excel,Spreadsheet
+673,Tableau,BI Tool
+673,Looker/Qlik,BI Tool
+673,Data Visualization,Analytics
+673,Statistics,Analytics
+673,ETL/Pipelines,Data Engineering
+673,Data Warehousing/Modeling,Data Engineering
+673,Snowflake,Cloud/Platform
+673,Git/GitHub,Tools
+673,SAS/SPSS,Tools
+673,Communication,Soft Skill
+673,Problem Solving,Soft Skill
+674,Python,Programming
+674,Excel,Spreadsheet
+674,Power BI,BI Tool
+674,Tableau,BI Tool
+674,Data Visualization,Analytics
+674,Statistics,Analytics
+674,Spark/Big Data,Data Engineering
+674,Data Warehousing/Modeling,Data Engineering
+674,Communication,Soft Skill
+675,Python,Programming
+675,Machine Learning,Data Science
+676,SQL,Database
+676,Python,Programming
+676,Excel,Spreadsheet
+676,VBA/Macros,Spreadsheet
+676,Power BI,BI Tool
+676,Tableau,BI Tool
+676,ETL/Pipelines,Data Engineering
+676,Spark/Big Data,Data Engineering
+676,Communication,Soft Skill
+676,Problem Solving,Soft Skill
+677,SQL,Database
+677,Python,Programming
+677,Data Visualization,Analytics
+677,ETL/Pipelines,Data Engineering
+677,Spark/Big Data,Data Engineering
+678,SQL,Database
+678,Python,Programming
+678,Excel,Spreadsheet
+678,VBA/Macros,Spreadsheet
+678,Power BI,BI Tool
+678,Data Visualization,Analytics
+678,ETL/Pipelines,Data Engineering
+678,Communication,Soft Skill
+679,SQL,Database
+679,Python,Programming
+679,Excel,Spreadsheet
+679,Power BI,BI Tool
+679,Data Visualization,Analytics
+679,Statistics,Analytics
+679,Communication,Soft Skill
+679,Problem Solving,Soft Skill
+680,Python,Programming
+680,Machine Learning,Data Science
+680,NLP/GenAI,Data Science
+680,ETL/Pipelines,Data Engineering
+680,Spark/Big Data,Data Engineering
+680,Communication,Soft Skill
+681,SQL,Database
+681,Python,Programming
+681,Statistics,Analytics
+681,Machine Learning,Data Science
+681,Deep Learning,Data Science
+681,NLP/GenAI,Data Science
+681,Spark/Big Data,Data Engineering
+681,Data Warehousing/Modeling,Data Engineering
+681,SAS/SPSS,Tools
+681,Communication,Soft Skill
+682,Power BI,BI Tool
+682,Statistics,Analytics
+682,Machine Learning,Data Science
+683,SQL,Database
+683,Python,Programming
+683,Tableau,BI Tool
+683,Statistics,Analytics
+683,Communication,Soft Skill
+683,Problem Solving,Soft Skill
+684,Excel,Spreadsheet
+684,Machine Learning,Data Science
+684,Communication,Soft Skill
+685,Excel,Spreadsheet
+685,Communication,Soft Skill
+686,SQL,Database
+686,Python,Programming
+686,Spark/Big Data,Data Engineering
+686,Azure,Cloud/Platform
+687,SQL,Database
+687,Python,Programming
+687,Tableau,BI Tool
+687,Data Visualization,Analytics
+687,Data Warehousing/Modeling,Data Engineering
+687,Communication,Soft Skill
+688,Machine Learning,Data Science
+689,SQL,Database
+689,Python,Programming
+689,Pandas/NumPy,Programming
+689,Power BI,BI Tool
+689,Tableau,BI Tool
+689,Looker/Qlik,BI Tool
+689,Data Visualization,Analytics
+689,Statistics,Analytics
+689,Machine Learning,Data Science
+689,NLP/GenAI,Data Science
+689,Communication,Soft Skill
+690,SQL,Database
+690,Python,Programming
+690,Data Visualization,Analytics
+690,ETL/Pipelines,Data Engineering
+690,Communication,Soft Skill
+691,SQL,Database
+691,Python,Programming
+691,Excel,Spreadsheet
+691,Power BI,BI Tool
+691,Tableau,BI Tool
+691,Data Visualization,Analytics
+691,Statistics,Analytics
+692,Excel,Spreadsheet
+692,Communication,Soft Skill
+695,SQL,Database
+695,Python,Programming
+695,Machine Learning,Data Science
+695,ETL/Pipelines,Data Engineering
+695,Data Warehousing/Modeling,Data Engineering
+695,AWS,Cloud/Platform
+695,Communication,Soft Skill
+696,SQL,Database
+696,Python,Programming
+696,R,Programming
+696,Excel,Spreadsheet
+696,Power BI,BI Tool
+696,Tableau,BI Tool
+696,Data Visualization,Analytics
+696,Statistics,Analytics
+696,Communication,Soft Skill
+697,Excel,Spreadsheet
+697,Communication,Soft Skill
+699,SQL,Database
+699,Excel,Spreadsheet
+699,Spark/Big Data,Data Engineering
+699,Communication,Soft Skill
+699,Problem Solving,Soft Skill
+700,Python,Programming
+700,Excel,Spreadsheet
+700,Statistics,Analytics
+700,Communication,Soft Skill
+700,Problem Solving,Soft Skill
+701,SQL,Database
+701,Python,Programming
+701,Power BI,BI Tool
+701,Tableau,BI Tool
+701,Data Visualization,Analytics
+701,Statistics,Analytics
+701,Communication,Soft Skill
+701,Problem Solving,Soft Skill
+702,SQL,Database
+702,Data Warehousing/Modeling,Data Engineering
+703,SQL,Database
+703,ETL/Pipelines,Data Engineering
+703,Data Warehousing/Modeling,Data Engineering
+703,AWS,Cloud/Platform
+704,SQL,Database
+704,ETL/Pipelines,Data Engineering
+705,Excel,Spreadsheet
+705,Communication,Soft Skill
+706,Excel,Spreadsheet
+706,Power BI,BI Tool
+706,Data Visualization,Analytics
+706,Communication,Soft Skill
+707,SQL,Database
+707,Python,Programming
+707,Statistics,Analytics
+707,Machine Learning,Data Science
+707,ETL/Pipelines,Data Engineering
+707,Spark/Big Data,Data Engineering
+707,Data Warehousing/Modeling,Data Engineering
+707,AWS,Cloud/Platform
+708,SQL,Database
+708,Python,Programming
+708,Pandas/NumPy,Programming
+708,Excel,Spreadsheet
+708,Data Visualization,Analytics
+708,Machine Learning,Data Science
+708,Spark/Big Data,Data Engineering
+708,Git/GitHub,Tools
+709,GCP/BigQuery,Cloud/Platform
+711,Excel,Spreadsheet
+711,Communication,Soft Skill
+712,Azure,Cloud/Platform
+713,SQL,Database
+713,Tableau,BI Tool
+713,Data Visualization,Analytics
+713,Communication,Soft Skill
+714,Python,Programming
+714,R,Programming
+714,Data Visualization,Analytics
+714,Statistics,Analytics
+714,Machine Learning,Data Science
+714,Deep Learning,Data Science
+714,Communication,Soft Skill
+715,SQL,Database
+715,Python,Programming
+715,Data Visualization,Analytics
+715,Statistics,Analytics
+715,Machine Learning,Data Science
+715,Deep Learning,Data Science
+715,ETL/Pipelines,Data Engineering
+715,Spark/Big Data,Data Engineering
+715,Communication,Soft Skill
+716,Excel,Spreadsheet
+716,Communication,Soft Skill
+717,SQL,Database
+717,Python,Programming
+717,Data Visualization,Analytics
+717,Statistics,Analytics
+717,Machine Learning,Data Science
+717,Communication,Soft Skill
+717,Problem Solving,Soft Skill
+718,SQL,Database
+718,AWS,Cloud/Platform
+719,SQL,Database
+719,Python,Programming
+719,R,Programming
+719,Excel,Spreadsheet
+719,Power BI,BI Tool
+719,Tableau,BI Tool
+719,Data Visualization,Analytics
+719,Statistics,Analytics
+719,SAS/SPSS,Tools
+719,Communication,Soft Skill
+720,SQL,Database
+720,Excel,Spreadsheet
+720,Power BI,BI Tool
+720,Data Visualization,Analytics
+720,Communication,Soft Skill
+721,Communication,Soft Skill
+722,SQL,Database
+722,Python,Programming
+722,Statistics,Analytics
+722,Machine Learning,Data Science
+723,SQL,Database
+723,Python,Programming
+723,Data Visualization,Analytics
+723,Machine Learning,Data Science
+723,ETL/Pipelines,Data Engineering
+723,Spark/Big Data,Data Engineering
+723,Data Warehousing/Modeling,Data Engineering
+723,AWS,Cloud/Platform
+723,Azure,Cloud/Platform
+723,GCP/BigQuery,Cloud/Platform
+723,Git/GitHub,Tools
+724,SQL,Database
+724,Spark/Big Data,Data Engineering
+724,Azure,Cloud/Platform
+725,SQL,Database
+725,Python,Programming
+725,R,Programming
+725,Data Visualization,Analytics
+725,Statistics,Analytics
+725,Machine Learning,Data Science
+725,AWS,Cloud/Platform
+725,GCP/BigQuery,Cloud/Platform
+725,Git/GitHub,Tools
+726,SQL,Database
+726,Data Visualization,Analytics
+726,Communication,Soft Skill
+727,SQL,Database
+727,Python,Programming
+727,R,Programming
+727,Power BI,BI Tool
+727,Data Visualization,Analytics
+727,Machine Learning,Data Science
+727,Spark/Big Data,Data Engineering
+727,Problem Solving,Soft Skill
+729,SQL,Database
+729,Python,Programming
+729,Statistics,Analytics
+729,Machine Learning,Data Science
+729,Deep Learning,Data Science
+729,ETL/Pipelines,Data Engineering
+729,Spark/Big Data,Data Engineering
+731,SQL,Database
+731,Python,Programming
+731,Power BI,BI Tool
+731,Tableau,BI Tool
+731,Machine Learning,Data Science
+731,ETL/Pipelines,Data Engineering
+732,SQL,Database
+732,Python,Programming
+732,R,Programming
+732,Excel,Spreadsheet
+732,Machine Learning,Data Science
+733,Communication,Soft Skill
+734,SQL,Database
+734,Python,Programming
+734,Looker/Qlik,BI Tool
+734,Data Visualization,Analytics
+734,Statistics,Analytics
+734,Data Warehousing/Modeling,Data Engineering
+734,GCP/BigQuery,Cloud/Platform
+734,Communication,Soft Skill
+734,Problem Solving,Soft Skill
+735,Statistics,Analytics
+735,Data Warehousing/Modeling,Data Engineering
+735,Communication,Soft Skill
+736,SQL,Database
+736,Data Visualization,Analytics
+736,Communication,Soft Skill
+736,Problem Solving,Soft Skill
+737,Statistics,Analytics
+737,Machine Learning,Data Science
+737,NLP/GenAI,Data Science
+738,Excel,Spreadsheet
+738,Statistics,Analytics
+738,Communication,Soft Skill
+738,Problem Solving,Soft Skill
+739,SQL,Database
+739,ETL/Pipelines,Data Engineering
+740,SQL,Database
+740,Excel,Spreadsheet
+740,Data Visualization,Analytics
+740,Statistics,Analytics
+740,Data Warehousing/Modeling,Data Engineering
+740,Communication,Soft Skill
+740,Problem Solving,Soft Skill
+741,Communication,Soft Skill
+742,SQL,Database
+742,Python,Programming
+742,R,Programming
+742,Statistics,Analytics
+742,Machine Learning,Data Science
+742,Deep Learning,Data Science
+742,AWS,Cloud/Platform
+742,Azure,Cloud/Platform
+742,GCP/BigQuery,Cloud/Platform
+742,SAS/SPSS,Tools
+742,Communication,Soft Skill
+742,Problem Solving,Soft Skill
+743,Python,Programming
+743,R,Programming
+743,Data Visualization,Analytics
+743,Statistics,Analytics
+745,SQL,Database
+745,Excel,Spreadsheet
+745,Power BI,BI Tool
+745,Communication,Soft Skill
+745,Problem Solving,Soft Skill
+747,Python,Programming
+747,R,Programming
+747,Excel,Spreadsheet
+747,Tableau,BI Tool
+747,Looker/Qlik,BI Tool
+747,Statistics,Analytics
+747,Machine Learning,Data Science
+747,SAS/SPSS,Tools
+747,Communication,Soft Skill
+747,Problem Solving,Soft Skill
+748,SQL,Database
+748,Python,Programming
+748,R,Programming
+748,Excel,Spreadsheet
+748,Power BI,BI Tool
+748,Statistics,Analytics
+748,Machine Learning,Data Science
+748,SAS/SPSS,Tools
+748,Communication,Soft Skill
+748,Problem Solving,Soft Skill
+749,Python,Programming
+749,Data Visualization,Analytics
+749,Statistics,Analytics
+749,Machine Learning,Data Science
+749,NLP/GenAI,Data Science
+749,Problem Solving,Soft Skill
+750,Data Visualization,Analytics
+750,Statistics,Analytics
+750,Problem Solving,Soft Skill
+751,SQL,Database
+751,Excel,Spreadsheet
+751,VBA/Macros,Spreadsheet
+751,Power BI,BI Tool
+751,Data Visualization,Analytics
+751,Statistics,Analytics
+751,Spark/Big Data,Data Engineering
+751,Problem Solving,Soft Skill
+752,SQL,Database
+752,Python,Programming
+752,Excel,Spreadsheet
+752,Power BI,BI Tool
+752,Tableau,BI Tool
+752,Data Visualization,Analytics
+752,Statistics,Analytics
+752,Communication,Soft Skill
+752,Problem Solving,Soft Skill
+753,SQL,Database
+753,Python,Programming
+753,R,Programming
+753,Excel,Spreadsheet
+753,Power BI,BI Tool
+753,Tableau,BI Tool
+753,Data Visualization,Analytics
+753,Statistics,Analytics
+753,Machine Learning,Data Science
+753,ETL/Pipelines,Data Engineering
+753,Data Warehousing/Modeling,Data Engineering
+753,Communication,Soft Skill
+753,Problem Solving,Soft Skill
+754,Excel,Spreadsheet
+754,Power BI,BI Tool
+754,Data Visualization,Analytics
+754,Communication,Soft Skill
+755,Problem Solving,Soft Skill
+756,Communication,Soft Skill
+757,SQL,Database
+757,Python,Programming
+757,Data Visualization,Analytics
+757,Statistics,Analytics
+757,Machine Learning,Data Science
+757,ETL/Pipelines,Data Engineering
+757,Spark/Big Data,Data Engineering
+757,AWS,Cloud/Platform
+757,Communication,Soft Skill
+758,Communication,Soft Skill
+759,Python,Programming
+759,R,Programming
+759,Data Visualization,Analytics
+759,Statistics,Analytics
+759,Machine Learning,Data Science
+759,NLP/GenAI,Data Science
+759,Data Warehousing/Modeling,Data Engineering
+759,Communication,Soft Skill
+759,Problem Solving,Soft Skill
+760,SQL,Database
+760,Power BI,BI Tool
+760,Tableau,BI Tool
+760,Data Visualization,Analytics
+760,Statistics,Analytics
+760,Data Warehousing/Modeling,Data Engineering
+760,Communication,Soft Skill
+761,SQL,Database
+761,Excel,Spreadsheet
+761,VBA/Macros,Spreadsheet
+761,Power BI,BI Tool
+761,DAX/Power Query,BI Tool
+761,Data Warehousing/Modeling,Data Engineering
+761,Communication,Soft Skill
+761,Problem Solving,Soft Skill
+762,SQL,Database
+762,Python,Programming
+762,Power BI,BI Tool
+762,DAX/Power Query,BI Tool
+762,Data Visualization,Analytics
+762,Data Warehousing/Modeling,Data Engineering
+762,Communication,Soft Skill
+763,SQL,Database
+763,Python,Programming
+763,Excel,Spreadsheet
+763,Power BI,BI Tool
+763,Tableau,BI Tool
+763,Statistics,Analytics
+763,Machine Learning,Data Science
+764,Statistics,Analytics
+765,SQL,Database
+765,Python,Programming
+765,R,Programming
+765,Power BI,BI Tool
+765,Data Visualization,Analytics
+765,Communication,Soft Skill
+766,SQL,Database
+766,Python,Programming
+766,ETL/Pipelines,Data Engineering
+766,Data Warehousing/Modeling,Data Engineering
+766,Communication,Soft Skill
+766,Problem Solving,Soft Skill
+767,SQL,Database
+767,Python,Programming
+767,R,Programming
+767,Power BI,BI Tool
+767,Statistics,Analytics
+767,Spark/Big Data,Data Engineering
+767,SAS/SPSS,Tools
+767,Communication,Soft Skill
+768,SQL,Database
+768,Python,Programming
+768,R,Programming
+768,Statistics,Analytics
+768,Machine Learning,Data Science
+768,Deep Learning,Data Science
+768,NLP/GenAI,Data Science
+768,AWS,Cloud/Platform
+768,Communication,Soft Skill
+768,Problem Solving,Soft Skill
+769,Excel,Spreadsheet
+769,Statistics,Analytics
+769,Communication,Soft Skill
+770,Python,Programming
+770,R,Programming
+770,Statistics,Analytics
+770,Machine Learning,Data Science
+770,Deep Learning,Data Science
+770,AWS,Cloud/Platform
+770,Azure,Cloud/Platform
+770,GCP/BigQuery,Cloud/Platform
+770,Communication,Soft Skill
+771,Communication,Soft Skill
+771,Problem Solving,Soft Skill
+772,SQL,Database
+772,Python,Programming
+772,Power BI,BI Tool
+772,Tableau,BI Tool
+772,ETL/Pipelines,Data Engineering
+772,Spark/Big Data,Data Engineering
+772,Data Warehousing/Modeling,Data Engineering
+772,Git/GitHub,Tools
+772,Communication,Soft Skill
+774,SQL,Database
+774,Power BI,BI Tool
+774,Data Visualization,Analytics
+774,Data Warehousing/Modeling,Data Engineering
+774,Communication,Soft Skill
+775,SQL,Database
+775,Python,Programming
+775,Machine Learning,Data Science
+775,ETL/Pipelines,Data Engineering
+776,SQL,Database
+776,Python,Programming
+776,Tableau,BI Tool
+776,Data Visualization,Analytics
+776,Statistics,Analytics
+776,Machine Learning,Data Science
+776,Communication,Soft Skill
+777,SQL,Database
+777,Python,Programming
+777,Data Visualization,Analytics
+777,Statistics,Analytics
+777,Machine Learning,Data Science
+777,ETL/Pipelines,Data Engineering
+777,Spark/Big Data,Data Engineering
+777,Communication,Soft Skill
+777,Problem Solving,Soft Skill
+778,Python,Programming
+778,R,Programming
+778,Statistics,Analytics
+778,Machine Learning,Data Science
+778,Deep Learning,Data Science
+779,SQL,Database
+779,ETL/Pipelines,Data Engineering
+779,Spark/Big Data,Data Engineering
+779,Problem Solving,Soft Skill
+780,SQL,Database
+780,Python,Programming
+780,R,Programming
+780,Excel,Spreadsheet
+780,VBA/Macros,Spreadsheet
+780,Machine Learning,Data Science
+780,Communication,Soft Skill
+781,Data Visualization,Analytics
+781,Communication,Soft Skill
+782,SQL,Database
+782,Python,Programming
+782,Statistics,Analytics
+782,Machine Learning,Data Science
+782,Deep Learning,Data Science
+782,NLP/GenAI,Data Science
+782,Spark/Big Data,Data Engineering
+782,Snowflake,Cloud/Platform
+782,AWS,Cloud/Platform
+782,Communication,Soft Skill
+783,SQL,Database
+783,Power BI,BI Tool
+783,DAX/Power Query,BI Tool
+783,Data Visualization,Analytics
+783,Data Warehousing/Modeling,Data Engineering
+783,Azure,Cloud/Platform
+783,Git/GitHub,Tools
+784,Excel,Spreadsheet
+784,Data Visualization,Analytics
+784,Statistics,Analytics
+784,Communication,Soft Skill
+784,Problem Solving,Soft Skill
+785,Excel,Spreadsheet
+785,Tableau,BI Tool
+785,Looker/Qlik,BI Tool
+785,Data Visualization,Analytics
+785,Data Warehousing/Modeling,Data Engineering
+785,Communication,Soft Skill
+786,Communication,Soft Skill
+786,Problem Solving,Soft Skill
+787,SQL,Database
+787,Python,Programming
+787,R,Programming
+787,Data Visualization,Analytics
+787,Statistics,Analytics
+787,Machine Learning,Data Science
+787,Spark/Big Data,Data Engineering
+787,SAS/SPSS,Tools
+787,Communication,Soft Skill
+788,SQL,Database
+788,Excel,Spreadsheet
+788,Statistics,Analytics
+788,SAS/SPSS,Tools
+788,Communication,Soft Skill
+788,Problem Solving,Soft Skill
+789,SQL,Database
+789,Data Warehousing/Modeling,Data Engineering
+789,Snowflake,Cloud/Platform
+789,Git/GitHub,Tools
+790,Power BI,BI Tool
+790,Communication,Soft Skill
+791,SQL,Database
+791,Python,Programming
+791,Statistics,Analytics
+791,Machine Learning,Data Science
+791,Deep Learning,Data Science
+791,AWS,Cloud/Platform
+791,Azure,Cloud/Platform
+791,Communication,Soft Skill
+792,Data Visualization,Analytics
+792,Communication,Soft Skill
+793,Python,Programming
+793,Data Visualization,Analytics
+793,Statistics,Analytics
+793,Machine Learning,Data Science
+793,Deep Learning,Data Science
+793,Spark/Big Data,Data Engineering
+793,Azure,Cloud/Platform
+793,Communication,Soft Skill
+794,Power BI,BI Tool
+794,Statistics,Analytics
+794,Machine Learning,Data Science
+794,ETL/Pipelines,Data Engineering
+794,Data Warehousing/Modeling,Data Engineering
+794,Snowflake,Cloud/Platform
+794,Azure,Cloud/Platform
+794,Communication,Soft Skill
+794,Problem Solving,Soft Skill
+795,SQL,Database
+795,VBA/Macros,Spreadsheet
+795,SAS/SPSS,Tools
+795,Problem Solving,Soft Skill
+796,SQL,Database
+796,Python,Programming
+796,Data Visualization,Analytics
+796,ETL/Pipelines,Data Engineering
+796,Spark/Big Data,Data Engineering
+796,Data Warehousing/Modeling,Data Engineering
+796,Snowflake,Cloud/Platform
+796,Communication,Soft Skill
+797,Python,Programming
+797,ETL/Pipelines,Data Engineering
+797,Spark/Big Data,Data Engineering
+797,Data Warehousing/Modeling,Data Engineering
+797,AWS,Cloud/Platform
+798,Excel,Spreadsheet
+798,Machine Learning,Data Science
+798,Communication,Soft Skill
+799,Excel,Spreadsheet
+799,Data Visualization,Analytics
+799,Communication,Soft Skill
+800,SQL,Database
+800,Python,Programming
+800,Data Visualization,Analytics
+800,Statistics,Analytics
+800,Machine Learning,Data Science
+800,Deep Learning,Data Science
+800,Data Warehousing/Modeling,Data Engineering
+800,Communication,Soft Skill
+800,Problem Solving,Soft Skill
+801,Excel,Spreadsheet
+801,Statistics,Analytics
+801,GCP/BigQuery,Cloud/Platform
+801,SAS/SPSS,Tools
+802,Excel,Spreadsheet
+802,Communication,Soft Skill
+804,SQL,Database
+804,Python,Programming
+804,Power BI,BI Tool
+804,Data Visualization,Analytics
+804,Statistics,Analytics
+804,Machine Learning,Data Science
+804,ETL/Pipelines,Data Engineering
+804,Communication,Soft Skill
+805,SQL,Database
+805,Python,Programming
+805,Excel,Spreadsheet
+805,Tableau,BI Tool
+805,Data Visualization,Analytics
+805,Statistics,Analytics
+805,Data Warehousing/Modeling,Data Engineering
+805,Communication,Soft Skill
+806,Python,Programming
+806,Tableau,BI Tool
+806,Machine Learning,Data Science
+806,Deep Learning,Data Science
+806,NLP/GenAI,Data Science
+807,Python,Programming
+807,Excel,Spreadsheet
+807,Tableau,BI Tool
+807,Looker/Qlik,BI Tool
+807,Data Visualization,Analytics
+807,Communication,Soft Skill
+807,Problem Solving,Soft Skill
+808,Statistics,Analytics
+808,Communication,Soft Skill
+809,Spark/Big Data,Data Engineering
+810,SQL,Database
+810,Python,Programming
+810,ETL/Pipelines,Data Engineering
+810,Problem Solving,Soft Skill
+811,SQL,Database
+811,ETL/Pipelines,Data Engineering
+811,Spark/Big Data,Data Engineering
+811,Communication,Soft Skill
+811,Problem Solving,Soft Skill
+812,SQL,Database
+812,Statistics,Analytics
+812,ETL/Pipelines,Data Engineering
+812,Git/GitHub,Tools
+813,SQL,Database
+813,Python,Programming
+813,ETL/Pipelines,Data Engineering
+813,Spark/Big Data,Data Engineering
+813,Communication,Soft Skill
+814,SQL,Database
+814,Python,Programming
+814,Statistics,Analytics
+814,Machine Learning,Data Science
+814,ETL/Pipelines,Data Engineering
+814,Communication,Soft Skill
+814,Problem Solving,Soft Skill
+815,SQL,Database
+815,Python,Programming
+815,R,Programming
+815,Tableau,BI Tool
+815,Data Visualization,Analytics
+815,Statistics,Analytics
+815,Machine Learning,Data Science
+815,Deep Learning,Data Science
+815,NLP/GenAI,Data Science
+815,Spark/Big Data,Data Engineering
+815,Communication,Soft Skill
+816,SQL,Database
+816,Python,Programming
+816,ETL/Pipelines,Data Engineering
+816,Spark/Big Data,Data Engineering
+816,Data Warehousing/Modeling,Data Engineering
+816,AWS,Cloud/Platform
+816,Azure,Cloud/Platform
+816,GCP/BigQuery,Cloud/Platform
+816,Communication,Soft Skill
+816,Problem Solving,Soft Skill
+817,Python,Programming
+817,Pandas/NumPy,Programming
+817,Data Visualization,Analytics
+817,Statistics,Analytics
+817,Machine Learning,Data Science
+817,Deep Learning,Data Science
+817,ETL/Pipelines,Data Engineering
+817,Communication,Soft Skill
+817,Problem Solving,Soft Skill
+818,Python,Programming
+818,Excel,Spreadsheet
+818,Spark/Big Data,Data Engineering
+818,AWS,Cloud/Platform
+818,Azure,Cloud/Platform
+818,GCP/BigQuery,Cloud/Platform
+818,Communication,Soft Skill
+819,SQL,Database
+819,Python,Programming
+819,Power BI,BI Tool
+819,Tableau,BI Tool
+819,Data Visualization,Analytics
+819,ETL/Pipelines,Data Engineering
+819,Data Warehousing/Modeling,Data Engineering
+819,Snowflake,Cloud/Platform
+819,AWS,Cloud/Platform
+819,Azure,Cloud/Platform
+819,Problem Solving,Soft Skill
+820,SQL,Database
+820,Python,Programming
+820,R,Programming
+820,Statistics,Analytics
+820,Machine Learning,Data Science
+820,Deep Learning,Data Science
+820,NLP/GenAI,Data Science
+820,Problem Solving,Soft Skill
+821,Statistics,Analytics
+821,ETL/Pipelines,Data Engineering
+821,Spark/Big Data,Data Engineering
+821,Data Warehousing/Modeling,Data Engineering
+821,Azure,Cloud/Platform
+822,Communication,Soft Skill
+823,SQL,Database
+823,Python,Programming
+823,Tableau,BI Tool
+823,Data Visualization,Analytics
+823,Statistics,Analytics
+823,Communication,Soft Skill
+823,Problem Solving,Soft Skill
+824,SQL,Database
+824,Python,Programming
+824,Statistics,Analytics
+824,Machine Learning,Data Science
+824,Deep Learning,Data Science
+824,Spark/Big Data,Data Engineering
+824,Data Warehousing/Modeling,Data Engineering
+825,Communication,Soft Skill
+826,Python,Programming
+826,Data Visualization,Analytics
+826,Statistics,Analytics
+826,Machine Learning,Data Science
+826,ETL/Pipelines,Data Engineering
+826,AWS,Cloud/Platform
+826,Problem Solving,Soft Skill
+827,SQL,Database
+827,Python,Programming
+827,R,Programming
+827,Statistics,Analytics
+827,Machine Learning,Data Science
+827,Spark/Big Data,Data Engineering
+827,SAS/SPSS,Tools
+828,SQL,Database
+828,Power BI,BI Tool
+828,Tableau,BI Tool
+828,Looker/Qlik,BI Tool
+828,ETL/Pipelines,Data Engineering
+828,Spark/Big Data,Data Engineering
+828,Snowflake,Cloud/Platform
+828,AWS,Cloud/Platform
+828,Azure,Cloud/Platform
+828,GCP/BigQuery,Cloud/Platform
+829,SQL,Database
+829,Python,Programming
+829,Power BI,BI Tool
+829,DAX/Power Query,BI Tool
+829,Spark/Big Data,Data Engineering
+829,Snowflake,Cloud/Platform
+829,Azure,Cloud/Platform
+829,Git/GitHub,Tools
+829,Communication,Soft Skill
+830,SQL,Database
+830,Python,Programming
+830,Data Visualization,Analytics
+830,Statistics,Analytics
+830,Machine Learning,Data Science
+830,ETL/Pipelines,Data Engineering
+830,Spark/Big Data,Data Engineering
+830,Communication,Soft Skill
+831,Data Visualization,Analytics
+831,Statistics,Analytics
+831,Machine Learning,Data Science
+831,ETL/Pipelines,Data Engineering
+831,Git/GitHub,Tools
