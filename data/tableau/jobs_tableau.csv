@@ -1,0 +1,832 @@
+job_id,company,job_title,role_group,is_core_role,is_intern,city,latitude,longitude,work_mode,experience_level,exp_min_years,salary_lpa_clean,salary_suspect,company_rating,company_size,industry,sector,skill_count
+1,ABB,Junior Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,3.25,False,4.0,10000+ Employees,Electronics Manufacturing,Manufacturing,10
+2,Philips,Data Scientist - AI/ML,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,4.0,10000+ Employees,Healthcare Services & Hospitals,Healthcare,6
+3,HSBC,Data Science GSC’s,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,3.9,10000+ Employees,Banking & Lending,Finance,6
+4,Facctum Solutions,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,0.0,,False,,1 to 50 Employees,,,8
+5,JPMorgan Chase & Co,Data and Analytics - Associate,Data Analyst,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),8.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,10
+6,Sanfoundry,Data Scientist - Fresher,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,0.0,4.17,False,,1 to 50 Employees,Colleges & Universities,Education,6
+7,Beinex,Trainee in Data Science,Data Scientist,Yes,Yes,Kochi,9.9312,76.2673,Office/Other,Entry/Fresher,,2.81,False,3.9,201 to 500 Employees,Information Technology Support Services,Information Technology,8
+8,Sanfoundry,Junior Software Engineer - Data Science - Fresher,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,,3.83,False,,1 to 50 Employees,Colleges & Universities,Education,11
+9,Oracle,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.1,False,3.8,10000+ Employees,Enterprise Software & Network Solutions,Information Technology,7
+10,PhonePe,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,10.25,False,4.1,5001 to 10000 Employees,Internet & Web Services,Information Technology,9
+11,BigShyft,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,20.0,False,3.9,1 to 50 Employees,HR Consulting,Human Resources & Staffing,7
+12,Findem,Researcher - Data Operations Intern,Data Operations,No,Yes,Not specified,,,Remote,Entry/Fresher,,1.08,False,4.3,51 to 200 Employees,Internet & Web Services,Information Technology,3
+13,Sanfoundry,Junior Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,,,False,,1 to 50 Employees,Colleges & Universities,Education,6
+14,News Corp,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.22,False,3.6,10000+ Employees,Publishing,Media & Communication,12
+15,"Medpace, Inc.",Clinical Data Coder,Data Operations,No,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,5.79,False,3.4,5001 to 10000 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,0
+16,Infosys,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,8
+17,Nissan,Data Engineer I,Data Engineer,Yes,No,Thiruvananthapuram,,,Office/Other,Entry/Fresher,0.0,4.43,False,3.9,10000+ Employees,Transportation Equipment Manufacturing,Manufacturing,9
+18,SatSure Analytics India,Data Scientist Intern,Data Scientist,Yes,Yes,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,,,False,,51 to 200 Employees,Aerospace & Defence,Aerospace & Defence,8
+19,Sanfoundry,Data Scientist - Python/ Machine Learning,Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,,False,,1 to 50 Employees,Colleges & Universities,Education,9
+20,MathCo,Associate - Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,8.77,False,3.5,1001 to 5000 Employees,Business Consulting,Management & Consulting,1
+21,Amex,Analyst - Data Analytics,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,4.82,False,4.2,10000+ Employees,Financial Transaction Processing,Finance,6
+22,KPMG,Digital Trust S&G-Data Privacy and Ethics Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,4.96,False,3.8,10000+ Employees,Business Consulting,Management & Consulting,0
+23,Dow Jones,Summer 2024 Internship - Data & AI (APAC),ML/AI Engineer,Yes,Yes,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,,,False,3.8,5001 to 10000 Employees,Broadcast Media,Media & Communication,3
+24,Infosys,Healthcare Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,5.34,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,1
+25,Uptricks Services Pvt. Ltd.,Data Science Internship,Data Scientist,Yes,Yes,Not specified,,,Remote,Entry/Fresher,,,False,4.3,51 to 200 Employees,Information Technology Support Services,Information Technology,4
+26,JPMorgan Chase & Co,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,8
+27,Alcon,Data Analyst - Digital Health,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,7.84,False,3.8,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,10
+28,Philips,Data Scientist - Image Processing,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,4.0,10000+ Employees,Healthcare Services & Hospitals,Healthcare,6
+29,Deutsche Bank,Data Scientist,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,5.96,False,4.0,10000+ Employees,Banking & Lending,Finance,11
+30,Wipro,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),8.0,4.95,False,3.7,10000+ Employees,Information Technology Support Services,Information Technology,6
+31,NatWest Group,"Data Analyst, AVP",Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,5.8,False,4.1,10000+ Employees,Banking & Lending,Finance,2
+32,Sanfoundry,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,4.7,False,,1 to 50 Employees,Colleges & Universities,Education,7
+33,Telstra,Data Insights & Analytics Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,10.15,False,3.9,10000+ Employees,Telecommunications Services,Telecommunications,10
+34,Bullsmart,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,,True,,,,,9
+35,Leventm Technologies,Data Analysis,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.81,False,,1 to 50 Employees,Information Technology Support Services,Information Technology,0
+36,BMC Software,Data Scientist,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,7.12,False,4.1,5001 to 10000 Employees,Enterprise Software & Network Solutions,Information Technology,14
+37,Reliance Games,Data Analytics,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),2.0,4.69,False,3.5,51 to 200 Employees,Video Game Publishing,Media & Communication,8
+38,FinAdvantage,FACPL_048 - Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,11.0,False,,51 to 200 Employees,,,2
+39,eminenture,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,,51 to 200 Employees,Information Technology Support Services,Information Technology,2
+40,Intercontinental Exchange,Data Analyst I,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,4.69,False,3.8,5001 to 10000 Employees,Stock Exchanges,Finance,5
+41,Infifresh Foods,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,9.49,False,3.6,Unknown,Fishery,Agriculture,9
+42,Coforge Ltd.,DATA ANALYST,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,7.82,False,3.6,10000+ Employees,Information Technology Support Services,Information Technology,3
+43,"Medpace, Inc.",Data Coordinator,Data Operations,No,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,5.89,False,3.4,5001 to 10000 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,1
+44,Valenta BPO,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,5.5,False,3.2,51 to 200 Employees,HR Consulting,Human Resources & Staffing,10
+45,PhonePe,Senior Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),2.0,7.78,False,4.1,5001 to 10000 Employees,Internet & Web Services,Information Technology,11
+46,Tata Consultancy Services,"Data Science, Python, GraphDB",Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.48,False,3.8,10000+ Employees,Software Development,Information Technology,5
+47,Syneos Health Clinical,Data Scientist I,Data Scientist,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,3.8,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,11
+48,Tata Consultancy Services,Employee Data Governance!,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.37,False,3.8,10000+ Employees,Software Development,Information Technology,0
+49,Lloyds Technology Centre,Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,,False,3.3,10000+ Employees,Banking & Lending,Finance,12
+50,Infosys,Data Privacy_Consulting,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.2,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,2
+51,Tata Technologies Europe,ALM Users - Data Mining,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,0.0,7.9,False,3.8,10000+ Employees,Research & Development,Management & Consulting,3
+52,JLL,Sustainability Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,3.9,10000+ Employees,Real Estate,Real Estate,4
+53,"Medpace, Inc.",Clinical Data Reviewer,Data Operations,No,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,6.48,False,3.4,5001 to 10000 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,0
+54,Sectigo,Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Mid (2-4 yrs),2.0,6.37,False,3.4,201 to 500 Employees,Computer Hardware Development,Information Technology,6
+55,Indium Software Inc.,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,9.0,False,,,,,6
+56,Wrike Careers Page,Customer Support Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.62,False,3.8,1001 to 5000 Employees,Software Development,Information Technology,9
+57,HealthPlix Technologies,Junior Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,12.5,False,,,,,11
+58,Suvizion Infotech,Clinical Data Coordinator,Data Operations,No,No,Not specified,,,Remote,Not specified,,3.25,False,,,,,1
+59,WovV Technologies,Data Engineer (WFH),Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,10.0,False,4.7,Unknown,,,7
+60,Rotork,Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,5.7,False,3.7,1001 to 5000 Employees,Electronics Manufacturing,Manufacturing,7
+61,Pocketly Infotech Private Limited,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,9.5,False,,,,,5
+62,Accenture,Clinical Data Svs Associate,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,,False,4.0,10000+ Employees,Business Consulting,Management & Consulting,1
+63,Wipro Limited,Data Privacy/Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.95,False,3.7,10000+ Employees,Information Technology Support Services,Information Technology,7
+64,Giixa Infotech Pvt Ltd,Data Analyst (Lead Generation),Data Analyst,Yes,No,Not specified,,,Remote,Senior (5+ yrs),,,False,,,,,9
+65,Windmill Smart Solutions,Data Scientist,Data Scientist,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,3.6,51 to 200 Employees,Business Consulting,Management & Consulting,8
+66,Nielsen,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,6.15,False,3.6,10000+ Employees,Enterprise Software & Network Solutions,Information Technology,11
+67,Indium Software Inc.,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,25.0,False,,,,,4
+68,Fractal Analytics,Cloud Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,8.82,False,4.0,1001 to 5000 Employees,Business Consulting,Management & Consulting,5
+69,Kodehash Technologies Pvt Ltd,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),4.0,9.5,False,,,,,6
+70,HP,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,8.7,False,4.1,10000+ Employees,Computer Hardware Development,Information Technology,8
+71,CityLink Technology Solutions,Data Scientist,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,5.29,False,3.7,1 to 50 Employees,Information Technology Support Services,Information Technology,11
+72,Warner Bros Careers,Associate Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,5.56,False,3.6,10000+ Employees,Film Production,Media & Communication,9
+73,NIBS,MIS Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,3.9,False,,,,,2
+74,Cargill,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,8.12,False,4.1,10000+ Employees,Crop Production,Agriculture,4
+75,JPMorgan Chase & Co,Reference Data Analyst - Team Leader,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,6.57,False,4.0,10000+ Employees,Banking & Lending,Finance,3
+76,Market Expertise,Data Research Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,3.04,False,,51 to 200 Employees,,,2
+77,ZF,Senior Data scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Senior (5+ yrs),10.0,3.6,False,3.9,10000+ Employees,Transportation Equipment Manufacturing,Manufacturing,3
+78,Dyson,Junior Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,,False,3.0,10000+ Employees,Electronics Manufacturing,Manufacturing,6
+79,"Veranex, Inc.",Clinical Data Coordinator 2,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,,False,,Unknown,Chemical Manufacturing,Manufacturing,1
+80,ADCI MAA 12 SEZ,ML Data Associate I,ML/AI Engineer,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,2.81,False,3.7,10000+ Employees,Internet & Web Services,Information Technology,0
+81,Navig8 Group,Junior Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,2.0,,False,,201 to 500 Employees,,,6
+82,CommerceIQ,Data Scientist 1,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,0.0,4.24,False,3.1,201 to 500 Employees,Internet & Web Services,Information Technology,6
+83,Mapmygenome,Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,4.39,False,2.8,51 to 200 Employees,,,1
+84,Dexcel Electronics Designs,Data Analytics,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,7.45,False,4.4,51 to 200 Employees,Information Technology Support Services,Information Technology,8
+85,JPMorgan Chase & Co,Reference Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,6.57,False,4.0,10000+ Employees,Banking & Lending,Finance,3
+86,Amex,Analyst-Data Science,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,0.0,4.82,False,4.2,10000+ Employees,Financial Transaction Processing,Finance,5
+87,BookMyShow,Data Analyst - I,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,3.75,False,3.9,501 to 1000 Employees,Ticket Sales,"Arts, Entertainment & Recreation",12
+88,"Opalforce, Inc.",HR Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.29,False,,51 to 200 Employees,Information Technology Support Services,Information Technology,3
+89,Threshold Software Solutions,Data Science Intern,Data Scientist,Yes,Yes,Not specified,,,Office/Other,Entry/Fresher,,2.1,False,,,,,3
+90,Educate Girls,Data Analyst,Data Analyst,Yes,No,Jaipur,26.9124,75.7873,Office/Other,Mid (2-4 yrs),3.0,9.0,False,3.8,1001 to 5000 Employees,,,10
+91,Cloudastra Technologies,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,,,,,9
+92,Ignitho,Data Analyst Associate,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,8.35,False,4.3,51 to 200 Employees,Information Technology Support Services,Information Technology,4
+93,LKQ India,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.12,False,3.8,10000+ Employees,Automotive Parts & Accessories Stores,Retail & Wholesale,2
+94,NEAR,Big Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,0.0,7.75,False,4.3,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,7
+95,Airtel India,Associate Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,,False,4.1,10000+ Employees,Telecommunications Services,Telecommunications,0
+96,Sanfoundry,Junior Machine Learning Engineer,ML/AI Engineer,Yes,No,Not specified,,,Remote,Entry/Fresher,3.0,,False,,1 to 50 Employees,Colleges & Universities,Education,4
+97,Equifax,Trainee - Data Scientist,Data Scientist,Yes,Yes,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,0.0,9.87,False,3.5,10000+ Employees,Business Consulting,Management & Consulting,7
+98,Microsoft,DATA SCIENTIST,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,5.07,False,4.2,10000+ Employees,Computer Hardware Development,Information Technology,5
+99,Comprinno Technologies,Jr Data Science Engineer,Data Scientist,Yes,No,Not specified,,,Remote,Entry/Fresher,0.0,2.0,False,,,,,9
+100,Adfolks,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,,1 to 50 Employees,Information Technology Support Services,Information Technology,11
+101,Staffbee Solutions Pvt. Ltd,GCP Data Engineer (Freelance),Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),7.0,,False,,,,,8
+102,WCG,Jr. Data & Analytics Engineer,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,,,False,3.2,1001 to 5000 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,13
+103,RARR Technologies Pvt Ltd,Snowflake Data Modeler,Data Engineer,Yes,No,Not specified,,,Remote,Not specified,,,True,4.7,1 to 50 Employees,Software Development,Information Technology,3
+104,Thermo Fisher Scientific,Clinical Data Associate II,Data Operations,No,No,Not specified,,,Remote,Not specified,,,False,3.6,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,0
+105,ZELL EDUCATION PRIVATE LIMITED,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,7.0,False,,,,,2
+106,Fractal Analytics,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,8.09,False,4.0,1001 to 5000 Employees,Business Consulting,Management & Consulting,9
+107,Aptroid Consulting,Junior Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,,3.79,False,3.8,201 to 500 Employees,,,4
+108,Wizikey,Junior Data Engineer (Delhi- NCR),Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,0.0,6.2,False,3.7,1 to 50 Employees,,,8
+109,Pratt & Whitney,Business intelligence and data analytics (PBI & RPA),BI Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,3.8,10000+ Employees,Aerospace & Defence,Aerospace & Defence,7
+110,Nasim Consulting Limited and Honest Love Our Planet,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,,,,,10
+111,Infosys,FHIR Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,4.69,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,3
+112,Google,"Data Scientist, Search",Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),6.0,,False,4.4,10000+ Employees,Internet & Web Services,Information Technology,7
+113,Eduno Tech India Private Limited,Junior Data Analyst,Data Analyst,Yes,No,Rewari,,,Office/Other,Entry/Fresher,1.0,2.57,False,,,,,1
+114,Kotak Securities,Data Analytics- Team Member,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,3.6,1001 to 5000 Employees,Investment & Asset Management,Finance,4
+115,Quantiphi,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,6.47,False,4.3,1001 to 5000 Employees,Business Consulting,Management & Consulting,2
+116,Cargill,PMO Data and Reporting Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,9.0,False,4.1,10000+ Employees,Crop Production,Agriculture,4
+117,Infosys,"Data testing, ETL, MSD 365 exp - Trivandrum",Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,2
+118,Scymes Services Pvt. ltd,Reference Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,2.7,False,2.5,Unknown,,,0
+119,Agile CRM Inc.,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,8.0,False,3.1,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,6
+120,Forbes Advisor,Trainee - Data Research,Other,No,Yes,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,,3.18,False,3.6,201 to 500 Employees,Publishing,Media & Communication,2
+121,Accenture,Data Science-Data Designer,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,4.0,10000+ Employees,Business Consulting,Management & Consulting,1
+122,Leegality,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,,51 to 200 Employees,Information Technology Support Services,Information Technology,5
+123,Samshek Fashion Pvt Ltd,Data Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,1.8,False,,,,,4
+124,Cubera,Data Engineer- Junior,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,,5.67,False,,1 to 50 Employees,,,2
+125,JPMorgan Chase & Co,Data Management - Associate,Data Operations,No,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,5
+126,Airtel India,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,4.65,False,4.1,10000+ Employees,Telecommunications Services,Telecommunications,8
+127,Lightrains Technolabs,Data Scientist (ML & AI),Data Scientist,Yes,No,Thiruvananthapuram,,,Office/Other,Not specified,,5.48,False,,Unknown,,,7
+128,Bigtick Global,Data Analytics Intern,Data Analyst,Yes,Yes,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,1.76,False,,,,,2
+129,Lemongrass Consulting,Associate Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,,False,,501 to 1000 Employees,Business Consulting,Management & Consulting,6
+130,Calix,Salesforce Data Specialist,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.29,False,4.8,1001 to 5000 Employees,Enterprise Software & Network Solutions,Information Technology,2
+131,Hotspot Retail,Data Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Senior (5+ yrs),6.0,35.0,False,,,,,11
+132,Riddhi Siddhi Career Point,Junior Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,2.58,False,,,,,4
+133,Merck KGaA Darmstadt Germany,"Data Analytics - TrackWise, Veeva, Palantir Foundry",Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,7.05,False,4.0,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,2
+134,RARR Technologies Pvt Ltd,Specialist- Data Sciences,Data Scientist,Yes,No,Not specified,,,Remote,Senior (5+ yrs),6.0,52.0,False,4.7,1 to 50 Employees,Software Development,Information Technology,4
+135,ABB,R&D associate Engineer- Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.75,False,4.0,10000+ Employees,Electronics Manufacturing,Manufacturing,8
+136,BHIVE Workspace,Associate – Data Management and Analysis,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,3.55,False,4.1,51 to 200 Employees,Real Estate,Real Estate,3
+137,Websar Technologies LLP,Data Scientist Gen AI,Data Scientist,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),4.0,9.02,False,,,,,7
+138,Bursys,Data Analyst Tranee,Data Analyst,Yes,No,Panchkula,,,Office/Other,Not specified,,5.29,False,3.7,51 to 200 Employees,Information Technology Support Services,Information Technology,4
+139,Tata Consultancy Services,Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Mid (2-4 yrs),2.0,3.99,False,3.8,10000+ Employees,Software Development,Information Technology,3
+140,Log9 Materials,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.64,False,3.9,51 to 200 Employees,Electronics Manufacturing,Manufacturing,9
+141,Parentune,Data Transformer(Internship),Other,No,Yes,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,,,False,,1 to 50 Employees,,,5
+142,Codash Solutions,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),6.0,9.9,False,,,,,7
+143,ICON,Lab Data Analyst I,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.21,False,3.8,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,1
+144,Nineleaps Technology Solutions Pvt Ltd,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,5.73,False,4.2,201 to 500 Employees,Information Technology Support Services,Information Technology,9
+145,Google,"Business Data Scientist, Finance",Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,,False,4.4,10000+ Employees,Internet & Web Services,Information Technology,7
+146,adyog,Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,6.33,False,,1 to 50 Employees,,,5
+147,COMPEGENCE,Excel Data Scientist with Python and SQL,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,13.8,False,,,,,6
+148,Amber Internet solutions,Data Analytics Intern,Data Analyst,Yes,Yes,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,,,False,4.3,501 to 1000 Employees,Internet & Web Services,Information Technology,7
+149,WovV Technologies,"Data Engineer (GIS, ArcGIS, ESRI)",Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,4.7,Unknown,,,6
+150,Tata Consultancy Services,Data Enginner,Data Engineer,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,,False,3.8,10000+ Employees,Software Development,Information Technology,5
+151,Ameriprise India,Data Analyst-Digital Analytics,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Senior (5+ yrs),5.0,,False,3.8,1001 to 5000 Employees,Investment & Asset Management,Finance,8
+152,Bradken,Data Scientist,Data Scientist,Yes,No,Coimbatore,11.0168,76.9558,Office/Other,Senior (5+ yrs),10.0,6.05,False,4.3,1001 to 5000 Employees,Machinery Manufacturing,Manufacturing,13
+153,UBS,Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),2.0,7.28,False,3.9,10000+ Employees,Investment & Asset Management,Finance,10
+154,Tata Consultancy Services,Python + SQL,Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,4.19,False,3.8,10000+ Employees,Software Development,Information Technology,5
+155,S&P Global,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,4.1,10000+ Employees,Research & Development,Management & Consulting,9
+156,SeedApps Technology Services,Data Analyst,Data Analyst,Yes,No,Coimbatore,11.0168,76.9558,Office/Other,Mid (2-4 yrs),2.0,,False,,,,,2
+157,Google,"Product Data Scientist, Pixel",Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,,False,4.4,10000+ Employees,Internet & Web Services,Information Technology,8
+158,Kovai.co,Data Analyst,Data Analyst,Yes,No,Coimbatore,11.0168,76.9558,Office/Other,Entry/Fresher,1.0,4.39,False,4.5,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,9
+159,JPMorgan Chase & Co,"Environmental, nature Data Modeller",Data Engineer,Yes,No,Not specified,,,Office/Other,Not specified,,,False,4.0,10000+ Employees,Banking & Lending,Finance,3
+160,Comprinno Technologies Pvt. Ltd.,Data Science Engineer,Data Scientist,Yes,No,Not specified,,,Remote,Entry/Fresher,0.0,2.4,False,,,,,9
+161,Trelleborg Sealing Solutions (TSS),DATA ANALYST,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,3.87,False,3.7,10000+ Employees,Machinery Manufacturing,Manufacturing,4
+162,Aspire SoftServ,Data Research Associate,Data Operations,No,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,,51 to 200 Employees,,,0
+163,Volvo Group,Experienced Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.83,False,4.1,10000+ Employees,Transportation Equipment Manufacturing,Manufacturing,14
+164,Kudos India,Data Analysts,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,3.9,Unknown,,,2
+165,JPMorgan Chase & Co,Data Analytics Digital-Associate,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),4.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,11
+166,Rackspace,Support Technician I - Data pipe,Other,No,No,Not specified,,,Remote,Entry/Fresher,1.0,,False,3.5,1001 to 5000 Employees,Information Technology Support Services,Information Technology,1
+167,Scienaptic Systems,Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,4.1,1 to 50 Employees,,,8
+168,Tata Consultancy Services,Data & Analytics Architect,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Senior (5+ yrs),,3.93,False,3.8,10000+ Employees,Software Development,Information Technology,3
+169,Hudson's Bay Company,Jr. Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,2.0,,False,3.6,10000+ Employees,"Department, Clothing & Shoe Stores",Retail & Wholesale,6
+170,Navikenz,Data Visualization,Other,No,No,Not specified,,,Office/Other,Senior (5+ yrs),5.0,,False,,51 to 200 Employees,Business Consulting,Management & Consulting,9
+171,WovV Technologies,Data Scientist,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,10.0,False,4.7,Unknown,,,13
+172,iXceed Solutions,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),3.0,20.0,False,4.7,501 to 1000 Employees,"Staffing, Recruitment & Subcontracting",Human Resources & Staffing,6
+173,NTT Ltd.,Specialist - Data Center Operations,Data Operations,No,No,Not specified,,,Office/Other,Not specified,,,False,4.2,10000+ Employees,Information Technology Support Services,Information Technology,3
+174,RARR Technologies Pvt Ltd,Azure Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Not specified,,25.0,False,4.7,1 to 50 Employees,Software Development,Information Technology,6
+175,kaleidofin,Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Mid (2-4 yrs),3.0,,False,3.4,51 to 200 Employees,Investment & Asset Management,Finance,9
+176,Hotspot Retail,Data Scientist,Data Scientist,Yes,No,Not specified,,,Remote,Senior (5+ yrs),6.0,35.0,False,,,,,9
+177,AXA,Associate Scientist- Data Sourcing & Solutions,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.98,False,4.0,10000+ Employees,Insurance Carriers,Insurance,7
+178,Tata Consultancy Services,Data Lineage Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),3.0,4.13,False,3.8,10000+ Employees,Software Development,Information Technology,1
+179,Metyis,Data Science Associate,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,8.69,False,3.7,1001 to 5000 Employees,Business Consulting,Management & Consulting,9
+180,Simplex Services,Data Analyst/Power BI Reporting,BI Analyst,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),10.0,,False,,1 to 50 Employees,Enterprise Software & Network Solutions,Information Technology,8
+181,Wesco,India-Bangalore: Data Steward,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.81,False,3.7,10000+ Employees,Wholesale,Retail & Wholesale,4
+182,WSD Consultant,Junior Data Scientist/,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,5.8,False,5.0,Unknown,,,1
+183,Findem,Researcher- Data Operations,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,,False,4.3,51 to 200 Employees,Internet & Web Services,Information Technology,4
+184,Infimetrics,Data Scientist (3+years),Data Scientist,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,,1 to 50 Employees,,,5
+185,Vervali Systems Pvt. Ltd.,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,,False,4.1,51 to 200 Employees,Information Technology Support Services,Information Technology,3
+186,Sai Computers Limited,Data Analyst Intern,Data Analyst,Yes,Yes,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,,1.32,False,,,,,0
+187,CIGNEX Datamatics,Data quality analysts/engineers,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.01,False,3.3,501 to 1000 Employees,Information Technology Support Services,Information Technology,2
+188,Analyse Digital Business Solutions Pvt Ltd,Data Analyst,Data Analyst,Yes,No,Thiruvananthapuram,,,Office/Other,Not specified,,,False,,,,,9
+189,Intercontinental Exchange,Data Associate,Data Operations,No,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,0.0,4.1,False,3.8,5001 to 10000 Employees,Stock Exchanges,Finance,3
+190,Cummins,Data Engineer,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,,False,4.1,10000+ Employees,Transportation Equipment Manufacturing,Manufacturing,9
+191,Ericsson,Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,7.01,False,4.1,10000+ Employees,Telecommunications Services,Telecommunications,5
+192,RARR Technologies Pvt Ltd,AWS Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,25.0,False,4.7,1 to 50 Employees,Software Development,Information Technology,8
+193,Valeo Health,Data Analyst,Data Analyst,Yes,No,Kormangala,,,Office/Other,Mid (2-4 yrs),2.0,8.0,False,,,,,10
+194,"Ventra Health, Inc.",Data Engineer,Data Engineer,Yes,No,Not specified,,,Office/Other,Not specified,,,False,3.3,1001 to 5000 Employees,Healthcare Services & Hospitals,Healthcare,4
+195,Orbit & Skyline Semiconductor,Data Analyst,Data Analyst,Yes,No,Mohali,30.7046,76.7179,Office/Other,Not specified,,5.0,False,,,,,4
+196,Equifax,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,9.87,False,3.5,10000+ Employees,Business Consulting,Management & Consulting,7
+197,Schneider Electric,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.8,False,4.2,10000+ Employees,Energy & Utilities,"Energy, Mining, Utilities",6
+198,M&C Saatchi Performance,"Analyst, Data and Analytics",Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,,False,4.3,51 to 200 Employees,Advertising & Public Relations,Media & Communication,7
+199,iCRC,BI Data Analyst,BI Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,4.61,False,3.9,10000+ Employees,"Civic, Welfare & Social Services",Non-profit & NGO,4
+200,Hyqoo,Data Scientist,Data Scientist,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),4.0,,False,4.5,51 to 200 Employees,Internet & Web Services,Information Technology,9
+201,UBS,Data Engineer,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,5.79,False,3.9,10000+ Employees,Investment & Asset Management,Finance,9
+202,Google,"Business Data Scientist, Machine Learning Engineering",Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),6.0,,False,4.4,10000+ Employees,Internet & Web Services,Information Technology,6
+203,Taurus Technologies Pvt. Ltd,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,6.0,False,,,,,7
+204,Cargill,Data Analyst - Price hub,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,6.12,False,4.1,10000+ Employees,Crop Production,Agriculture,2
+205,Wipro,Azure Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,5.89,False,3.7,10000+ Employees,Information Technology Support Services,Information Technology,2
+206,Amber Internet solutions,Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),2.0,4.94,False,4.3,501 to 1000 Employees,Internet & Web Services,Information Technology,8
+207,BDIPlus,Data Engineer ||,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,10.25,False,4.1,Unknown,Information Technology Support Services,Information Technology,12
+208,SUPERDNA 3D LAB,Data Analyst,Data Analyst,Yes,No,Chandigarh,,,Office/Other,Not specified,,4.67,False,4.0,1 to 50 Employees,Information Technology Support Services,Information Technology,8
+209,vMD tech assist Pvt LTD,Clinical Data Handling (DOCTORS ONLY),Data Operations,No,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,1.0,7.2,False,,,,,0
+210,UBS,Data Sourcing Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,6.94,False,3.9,10000+ Employees,Investment & Asset Management,Finance,4
+211,JPMorgan Chase & Co,Data Operations Associate,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.57,False,4.0,10000+ Employees,Banking & Lending,Finance,9
+212,UnitedHealthcare,Data Analyst 2,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),7.0,6.63,False,3.6,10000+ Employees,Healthcare Services & Hospitals,Healthcare,12
+213,Honeywell,Data Scientist II,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.52,False,4.0,10000+ Employees,Computer Hardware Development,Information Technology,7
+214,Nineleaps,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,25.0,False,,,,,8
+215,BridgeLoyalty,Data Analyst Job,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,2.57,False,,1 to 50 Employees,,,3
+216,"Magus Infotech India Pvt. Ltd.,",Trainee Big Data Consultant,Data Engineer,Yes,Yes,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,0.0,8.0,False,,,,,5
+217,BigShyft,Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),3.0,30.0,False,3.9,1 to 50 Employees,HR Consulting,Human Resources & Staffing,2
+218,Ambee,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.8,False,,1 to 50 Employees,,,10
+219,Deloitte,Senior Analyst - CMG - Demand Gen - Data Analysis,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),1.0,6.03,False,4.1,10000+ Employees,Accounting & Tax,Finance,6
+220,Novartis,Digital/Device Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,6.38,False,3.9,Unknown,,,2
+221,Ideal Education,Data Caller,Other,No,No,Not specified,,,Office/Other,Not specified,,,False,,501 to 1000 Employees,,,0
+222,Nangia & Co LLP,Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Senior (5+ yrs),5.0,2.76,False,,501 to 1000 Employees,Accounting & Tax,Finance,3
+223,SmartHelio,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,,1 to 50 Employees,,,0
+224,Dignitas Digital,Data Scientists,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,4.2,1 to 50 Employees,Business Consulting,Management & Consulting,0
+225,InfoKrafts,Data Engineer,Data Engineer,Yes,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,5.92,False,5.0,1 to 50 Employees,,,0
+226,Microsoft,Data and Applied Scientist II,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,6.08,False,4.2,10000+ Employees,Computer Hardware Development,Information Technology,10
+227,KPMG,Advisory Data Science Executive,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,4.0,False,3.8,10000+ Employees,Business Consulting,Management & Consulting,2
+228,Hashmap,Data and Analytics Managing Consultant,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.95,False,3.9,10000+ Employees,Information Technology Support Services,Information Technology,5
+229,Moody's,Data Specialist,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,8.06,False,3.9,10000+ Employees,Research & Development,Management & Consulting,3
+230,Delivery Centric Technologies,Python & Data Modelling,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.17,False,4.0,51 to 200 Employees,,,6
+231,ProductLife Group,Data Officer,Other,No,No,Not specified,,,Remote,Entry/Fresher,0.0,,False,3.4,501 to 1000 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,0
+232,Amadeus,Data Engineer 2,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,6.0,False,4.1,10000+ Employees,Information Technology Support Services,Information Technology,11
+233,JPMorgan Chase & Co,Data Owner - Associate,Other,No,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,2
+234,ABB,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,7.74,False,4.0,10000+ Employees,Electronics Manufacturing,Manufacturing,14
+235,Apple,Cloud Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),4.0,,False,4.3,10000+ Employees,Computer Hardware Development,Information Technology,11
+236,iXie Gaming,Game Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.49,False,4.3,501 to 1000 Employees,Information Technology Support Services,Information Technology,1
+237,JPMorgan Chase & Co,Know Your Customer - Client Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.57,False,4.0,10000+ Employees,Banking & Lending,Finance,0
+238,BlackRock,Analyst Invoice Processing (Data Operations),Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,3.87,False,4.0,10000+ Employees,Investment & Asset Management,Finance,3
+239,Thinkproject Holding GmbH,Data Scientist (m/f/d),Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,5.48,False,3.3,501 to 1000 Employees,Enterprise Software & Network Solutions,Information Technology,11
+240,Genzeon India,Data Engineer,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,,False,4.2,201 to 500 Employees,Information Technology Support Services,Information Technology,5
+241,Aptus Data LAbs,Business Analyst/ Data Analyst,Business Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,0.0,4.41,False,4.1,51 to 200 Employees,Information Technology Support Services,Information Technology,10
+242,JPMorgan Chase & Co,KYC Client Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,6.39,False,4.0,10000+ Employees,Banking & Lending,Finance,2
+243,Victoria Realtors,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,3.5,False,3.3,1 to 50 Employees,,,8
+244,MetLife,Associate Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,3.9,False,3.9,10000+ Employees,Insurance Agencies & Brokerages,Insurance,9
+245,INTEL,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,9.41,False,4.1,10000+ Employees,Computer Hardware Development,Information Technology,10
+246,Pfizer,Statistical Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,,False,4.0,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,0
+247,ScaleIn,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,4.84,False,,Unknown,,,3
+248,MOLECULAR CONNECTIONS,Data Scientist,Data Scientist,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,,False,3.7,1001 to 5000 Employees,Healthcare Services & Hospitals,Healthcare,4
+249,Finquest,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,7.5,False,3.2,201 to 500 Employees,Investment & Asset Management,Finance,5
+250,Meesho,Data Scientist II,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,10.25,False,3.5,1001 to 5000 Employees,Internet & Web Services,Information Technology,8
+251,Yellow Bites,Data Analystics,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,1.92,False,,,,,0
+252,Toolyt,Data Analyst,Data Analyst,Yes,No,Jaipur,26.9124,75.7873,Office/Other,Not specified,,4.8,False,4.8,1 to 50 Employees,Enterprise Software & Network Solutions,Information Technology,2
+253,CoStrategix,Member Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,3.87,False,3.9,51 to 200 Employees,Information Technology Support Services,Information Technology,7
+254,Emerson,Data Science Engineer 1,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,1.0,7.94,False,3.9,10000+ Employees,Electronics Manufacturing,Manufacturing,12
+255,ABB,Data Science & AI Specialist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,7.74,False,4.0,10000+ Employees,Electronics Manufacturing,Manufacturing,5
+256,Michelin,DATA - Scrum Master,Other,No,No,Pune,18.5204,73.8567,Office/Other,Not specified,,,False,4.1,10000+ Employees,Machinery Manufacturing,Manufacturing,2
+257,Thoucentric,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,8.59,False,4.1,201 to 500 Employees,Business Consulting,Management & Consulting,9
+258,EPIC-INDIA,Data Analyst (DPIC),Data Analyst,Yes,No,Bhubaneshwar,,,Office/Other,Not specified,,3.07,False,,1 to 50 Employees,,,0
+259,Sasken Technologies Limited,ENGINEER - DATA ANALYTICS,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,0.0,,False,3.5,1001 to 5000 Employees,"Cable, Internet & Telephone Providers",Telecommunications,12
+260,HP,Data Analyst-Finance,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,8.7,False,4.1,10000+ Employees,Computer Hardware Development,Information Technology,3
+261,NatWest Group,Business Analyst,Business Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.84,False,4.1,10000+ Employees,Banking & Lending,Finance,1
+262,Akamai,Business Systems Analyst - Remote,Data Analyst,Yes,No,Not specified,,,Remote,Not specified,,,False,4.6,5001 to 10000 Employees,Information Technology Support Services,Information Technology,3
+263,4CRisk.ai Software,Data Quality Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,,False,4.0,51 to 200 Employees,,,3
+264,PayU,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,3.8,False,3.7,1001 to 5000 Employees,Internet & Web Services,Information Technology,7
+265,Konceive Development Center Pvt. Ltd.,Data Analyst,Data Analyst,Yes,No,Panchkula,,,Office/Other,Mid (2-4 yrs),2.0,4.2,False,4.6,1 to 50 Employees,Advertising & Public Relations,Media & Communication,8
+266,InitiateFirst.,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,5.8,False,4.7,51 to 200 Employees,,,2
+267,Cognizant Technology Solutions,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,3.83,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,0
+268,Leaf workforcez,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,20.0,False,,,,,2
+269,prwatech technologies,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,1.8,False,,,,,3
+270,Helius Technologies,Data Scientist (Machine Learning),Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,,False,4.2,501 to 1000 Employees,Information Technology Support Services,Information Technology,7
+271,Dun & Bradstreet,"Analyst, Data Science (R-15410)",Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Mid (2-4 yrs),2.0,5.06,False,3.9,5001 to 10000 Employees,Information Technology Support Services,Information Technology,9
+272,Syneos Health Clinical,Senior Clinical Data Associate,Data Operations,No,No,Not specified,,,Remote,Senior (5+ yrs),,,False,3.8,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3
+273,Haleon,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,5.37,False,3.8,10000+ Employees,Health Care Products Manufacturing,Manufacturing,3
+274,Built-Right Digital,Digital Marketing Data Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,,,,,4
+275,JPMorgan Chase & Co,Data Visualization Associate,Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),6.0,7.43,False,4.0,10000+ Employees,Banking & Lending,Finance,6
+276,Whitespace Global,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Senior (5+ yrs),5.0,,False,,,,,7
+277,Tata Consultancy Services,Azure data engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.95,False,3.8,10000+ Employees,Software Development,Information Technology,3
+278,KPMG,Risk Advisory Data Analytics Executive,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,5.1,False,3.8,10000+ Employees,Business Consulting,Management & Consulting,3
+279,Zinnov,Math- Data Analyst III,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),2.0,2.16,False,3.9,201 to 500 Employees,Business Consulting,Management & Consulting,10
+280,Wild Fox Business Advocacy,Junior Data Analyst,Data Analyst,Yes,No,Calcutta,,,Office/Other,Entry/Fresher,1.0,2.46,False,,,,,10
+281,PayPal,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,2.96,False,3.9,10000+ Employees,Internet & Web Services,Information Technology,5
+282,JPMorgan Chase & Co,Client Data Associate I,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,4.57,False,4.0,10000+ Employees,Banking & Lending,Finance,10
+283,MiQ Digital,Data Scientist II,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,True,3.6,501 to 1000 Employees,Advertising & Public Relations,Media & Communication,7
+284,Bosch Group,Data Scientists 2024,Data Scientist,Yes,No,Coimbatore,11.0168,76.9558,Office/Other,Mid (2-4 yrs),4.0,9.76,False,4.2,10000+ Employees,Consumer Product Manufacturing,Manufacturing,10
+285,Sanfoundry,Junior Machine Learning Engineer - Fresher,ML/AI Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,,,False,,1 to 50 Employees,Colleges & Universities,Education,10
+286,AssetSoft,Junior SQL Developer,Other,No,No,Not specified,,,Office/Other,Entry/Fresher,1.0,,False,3.8,1 to 50 Employees,,,1
+287,The Scalers,Data Operations Associate,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,4.2,201 to 500 Employees,HR Consulting,Human Resources & Staffing,7
+288,velan,Data Analyst,Data Analyst,Yes,No,Coimbatore,11.0168,76.9558,Office/Other,Entry/Fresher,0.0,3.94,False,4.6,201 to 500 Employees,Information Technology Support Services,Information Technology,1
+289,Upsquare Technologies,Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,,False,,51 to 200 Employees,,,13
+290,Mansun Consultancy Private Limited,Data Visualization Associate Intern,Other,No,Yes,Not specified,,,Remote,Entry/Fresher,1.0,3.3,False,,,,,9
+291,Insticator Inc,Data Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,,False,4.0,51 to 200 Employees,Internet & Web Services,Information Technology,5
+292,Pricelabs,Data Scientist (Remote),Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,6.49,False,,51 to 200 Employees,Software Development,Information Technology,4
+293,Next Education,Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,1.0,8.3,False,3.7,1001 to 5000 Employees,Primary & Secondary Schools,Education,1
+294,Tech27 Systems Ltd.,DATA SCIENTIST,Data Scientist,Yes,No,Calicut,,,Office/Other,Entry/Fresher,0.0,4.38,False,,51 to 200 Employees,Computer Hardware Development,Information Technology,5
+295,Tata Consultancy Services,Salesforce Data Cloud (CDP),Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,3.8,10000+ Employees,Software Development,Information Technology,2
+296,"Ventra Health, Inc.",Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),5.0,,False,3.3,1001 to 5000 Employees,Healthcare Services & Hospitals,Healthcare,8
+297,smartData Enterprises,Python Data Engineer freelancer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),4.0,10.8,False,,,,,5
+298,Aspire SoftServ,AI/ML Developer - Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,,False,,51 to 200 Employees,,,4
+299,"Swastiks Masalas, Pickles And Food Products Private Limited",Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,5.5,False,,,,,1
+300,IDFC FIRST Bank,Data Scientist-Cx Analytics,Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,9.18,False,4.1,10000+ Employees,Banking & Lending,Finance,2
+301,CLOUDSUFI,Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Senior (5+ yrs),6.0,25.0,False,,,,,13
+302,Affine,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,4.6,False,4.8,1 to 50 Employees,Information Technology Support Services,Information Technology,4
+303,JPMorgan Chase & Co,Quant Analytics -Data & Strategy Associate,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),4.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,8
+304,Opkey,Data Research Analyst- EST Shift,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,4.0,False,,,,,0
+305,WPP,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,3.82,False,3.6,10000+ Employees,Advertising & Public Relations,Media & Communication,6
+306,Tsaaro,Data Protection Consultant,Other,No,No,Not specified,,,Remote,Entry/Fresher,1.0,,False,,51 to 200 Employees,Security & Protective,Management & Consulting,1
+307,Tecvesten Consulting,Junior Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Entry/Fresher,2.0,,False,,,,,3
+308,Rojgar Group,Data Analytics,Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,6.5,False,3.6,1 to 50 Employees,Information Technology Support Services,Information Technology,3
+309,JPMorgan Chase & Co,Data Visualization Associate Senior,Other,No,No,Not specified,,,Office/Other,Senior (5+ yrs),5.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,6
+310,Cognizant Technology Solutions,Process Executive - Data,Data Operations,No,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,1
+311,Cargill,Analytics Data Process Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,7.18,False,4.1,10000+ Employees,Crop Production,Agriculture,1
+312,United Airlines,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),4.0,,True,3.9,10000+ Employees,"Airlines, Airports & Air Transportation",Transportation & Logistics,6
+313,Tata Consultancy Services,BI_Data Engineer,Data Engineer,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,4.32,False,3.8,10000+ Employees,Software Development,Information Technology,6
+314,Tata Elxsi,Data Analytics / Machine Learning Engineers,ML/AI Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.95,False,4.1,10000+ Employees,Information Technology Support Services,Information Technology,12
+315,Medtek.AI,DATA SCIENCE INTERN,Data Scientist,Yes,Yes,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,,,False,,1 to 50 Employees,,,5
+316,Hernandez & Company,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,4.5,51 to 200 Employees,Accounting & Tax,Finance,8
+317,7N,Data & Analytics,Data Analyst,Yes,No,Not specified,,,Remote,Not specified,,,False,3.9,1001 to 5000 Employees,Information Technology Support Services,Information Technology,3
+318,NICE Systems,Data Scientist,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),2.0,8.31,False,4.2,5001 to 10000 Employees,Enterprise Software & Network Solutions,Information Technology,9
+319,Discover Dollar,Data Science Intern,Data Scientist,Yes,Yes,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,,,False,4.8,1 to 50 Employees,Enterprise Software & Network Solutions,Information Technology,10
+320,Infosys,AZURE Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,4.44,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,6
+321,Google,"Business Data Scientist, Machine Learning Finance",Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),6.0,,False,4.4,10000+ Employees,Internet & Web Services,Information Technology,8
+322,Barclays,Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,8.41,False,4.0,10000+ Employees,Banking & Lending,Finance,10
+323,Cognizant Technology Solutions,Process Executive - Data,Data Operations,No,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,1
+324,Oracle,Data Center Technician,Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,7.66,False,3.8,10000+ Employees,Enterprise Software & Network Solutions,Information Technology,1
+325,Info Edge,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,4.7,False,2.4,51 to 200 Employees,Advertising & Public Relations,Media & Communication,6
+326,Eaton,Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,1.0,5.3,False,4.1,10000+ Employees,Electronics Manufacturing,Manufacturing,3
+327,Deloitte,GCP_Data_Engineer,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.35,False,4.1,10000+ Employees,Accounting & Tax,Finance,4
+328,William O’Neil India,Data Research Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.82,False,3.9,201 to 500 Employees,,,1
+329,Smiths Group,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,10.27,False,3.3,10000+ Employees,Machinery Manufacturing,Manufacturing,4
+330,Snapchat,"Data Scientist, India",Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Senior (5+ yrs),6.0,4.26,False,3.9,5001 to 10000 Employees,Computer Hardware Development,Information Technology,8
+331,Valency International,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,3.0,1001 to 5000 Employees,Wholesale,Retail & Wholesale,1
+332,Insider Biz,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,,,,,0
+333,"McAfee, LLC",Data Analyst with Marketing Analytics,Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,,False,4.1,1001 to 5000 Employees,Computer Hardware Development,Information Technology,10
+334,Galytix,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,5.49,False,2.8,51 to 200 Employees,Information Technology Support Services,Information Technology,3
+335,NetApp,"Data Analyst ( MS Excel, PowerBI, Tableau)",BI Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),8.0,6.13,False,4.2,10000+ Employees,Enterprise Software & Network Solutions,Information Technology,5
+336,Airtel India,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),3.0,,False,4.1,10000+ Employees,Telecommunications Services,Telecommunications,6
+337,AlignTech,Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),2.0,4.46,False,3.9,10000+ Employees,Health Care Products Manufacturing,Manufacturing,7
+338,ICICI Prudential Life Insurance,Data scientist,Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,5.35,False,4.4,Unknown,Insurance Carriers,Insurance,2
+339,Brave AI Lab,Data Science Intern,Data Scientist,Yes,Yes,Not specified,,,Office/Other,Entry/Fresher,,,False,,1 to 50 Employees,Information Technology Support Services,Information Technology,6
+340,Cybage,BI- Data Analytics,BI Analyst,Yes,No,Gandhinagar,,,Office/Other,Senior (5+ yrs),5.0,,False,4.0,5001 to 10000 Employees,Information Technology Support Services,Information Technology,6
+341,Philips,Data Analyst I,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,,False,4.0,10000+ Employees,Healthcare Services & Hospitals,Healthcare,14
+342,IronList,DATA SCIENTIST,Data Scientist,Yes,No,Ahmedabad,23.0225,72.5714,Office/Other,Not specified,,4.24,False,,1 to 50 Employees,,,8
+343,Techneplus,Data Scientist - Bangalore/Noida/Hybrid,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,6.27,False,4.4,201 to 500 Employees,Information Technology Support Services,Information Technology,11
+344,Schneider Electric,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Senior (5+ yrs),7.0,2.62,False,4.2,10000+ Employees,Energy & Utilities,"Energy, Mining, Utilities",7
+345,Helius Technologies,Data Analyst (Power BI),BI Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,4.2,501 to 1000 Employees,Information Technology Support Services,Information Technology,6
+346,bp,Data Quality Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,5.78,False,4.0,10000+ Employees,Energy & Utilities,"Energy, Mining, Utilities",12
+347,Imurgence,Junior Data Science Team Member,Data Scientist,Yes,No,Not specified,,,Office/Other,Entry/Fresher,,,False,4.0,Unknown,,,5
+348,Bharat Light & Power,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.14,False,4.0,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,10
+349,JPMorgan Chase & Co,Reference Data Analyst - Digital Document Services,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,2
+350,Ignitho,Data Scientist Associate,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,8.31,False,4.3,51 to 200 Employees,Information Technology Support Services,Information Technology,6
+351,SearchUrCollege,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,8.9,False,4.0,Unknown,,,7
+352,V-Align Technologies,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,6.48,False,,1 to 50 Employees,,,1
+353,Zappian,Data Analyst,Data Analyst,Yes,No,Bhopal,,,Office/Other,Entry/Fresher,1.0,6.08,False,,Unknown,Internet & Web Services,Information Technology,9
+354,Marktine Technology Solutions,DATA SCIENTIST,Data Scientist,Yes,No,Not specified,,,Remote,Not specified,,,False,4.2,51 to 200 Employees,Information Technology Support Services,Information Technology,5
+355,Cognizant Technology Solutions,Process Specialist - Data,Data Operations,No,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,5.88,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,0
+356,Ignitho,Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,8.31,False,4.3,51 to 200 Employees,Information Technology Support Services,Information Technology,6
+357,Amagi,Applied Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,6.32,False,,201 to 500 Employees,Broadcast Media,Media & Communication,7
+358,KhataBook,Data Engineer - I,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,8.43,False,3.3,51 to 200 Employees,Internet & Web Services,Information Technology,10
+359,Aditya Pharmacy,ASSISTANT DATA ANALYST,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,5.15,False,,501 to 1000 Employees,,,0
+360,TecStub,Data Analyst (Power BI),BI Analyst,Yes,No,Ahmedabad,23.0225,72.5714,Office/Other,Senior (5+ yrs),5.0,1.61,False,4.1,51 to 200 Employees,Software Development,Information Technology,8
+361,AtkinsRéalis,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),3.0,8.41,False,4.0,10000+ Employees,Construction,"Construction, Repair & Maintenance Services",6
+362,Microsoft,Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),5.0,3.94,False,4.2,10000+ Employees,Computer Hardware Development,Information Technology,8
+363,CoRover,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.8,False,,1 to 50 Employees,,,7
+364,Airbus,Data Analyst & Developer,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,4.86,False,4.1,1001 to 5000 Employees,Aerospace & Defence,Aerospace & Defence,6
+365,HP,Data Scientist 3,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,8.31,False,4.1,10000+ Employees,Computer Hardware Development,Information Technology,12
+366,BP Energy,Data Quality Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,5.78,False,4.0,10000+ Employees,Energy & Utilities,"Energy, Mining, Utilities",12
+367,Prospus,Data Scraper,Other,No,No,Not specified,,,Remote,Not specified,,,False,4.9,51 to 200 Employees,Information Technology Support Services,Information Technology,4
+368,"Medpace, Inc.",Data Coordinator - Core Laboratory,Data Operations,No,No,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,1.0,5.89,False,3.4,5001 to 10000 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,1
+369,BNY Mellon,"Associate, Data Management & Quantitative Analysis I",Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,0.0,,False,3.6,10000+ Employees,Investment & Asset Management,Finance,2
+370,Zappian,Data Science Intern,Data Scientist,Yes,Yes,Bhopal,,,Office/Other,Entry/Fresher,,,False,,Unknown,Internet & Web Services,Information Technology,4
+371,Innovaccer,Data Ops Engineer-I,Other,No,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,9.5,False,3.4,1001 to 5000 Employees,Healthcare Services & Hospitals,Healthcare,4
+372,Stylumia Intelligence Technology,Data Scraping Engineer (Intern),Other,No,Yes,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,,,False,,1 to 50 Employees,,,9
+373,Q-Dat IT Solutions,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,5.0,1 to 50 Employees,,,2
+374,Genpro Research,Clinical Data Coordinator,Data Operations,No,No,Thiruvananthapuram,,,Office/Other,Entry/Fresher,0.0,4.22,False,,1 to 50 Employees,,,4
+375,A-1 Technology,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,,False,3.3,201 to 500 Employees,Computer Hardware Development,Information Technology,8
+376,NovoTree Minds Consulting,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.49,False,5.0,1 to 50 Employees,HR Consulting,Human Resources & Staffing,5
+377,DeepTek Medical Imaging,Associate Data Scientist,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,1.0,5.29,False,,1 to 50 Employees,,,6
+378,Millennium,Data Download/Extraction Engineer (Commodities),Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.43,False,4.7,5001 to 10000 Employees,Investment & Asset Management,Finance,2
+379,Flipkart,Data Engineer II,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,6.87,False,3.9,10000+ Employees,Internet & Web Services,Information Technology,5
+380,Infimetrics,Data Engineer(4+years),Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),4.0,,False,,1 to 50 Employees,,,5
+381,MobileProgramming,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,,False,3.6,1001 to 5000 Employees,Computer Hardware Development,Information Technology,8
+382,IronList,Data Analyst,Data Analyst,Yes,No,Ahmedabad,23.0225,72.5714,Office/Other,Not specified,,5.17,False,,1 to 50 Employees,,,7
+383,Merilytics,Analyst - Data Science,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,4.57,False,,201 to 500 Employees,Business Consulting,Management & Consulting,5
+384,Thrasio,Data Analyst II,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,3.1,501 to 1000 Employees,Other Retail Shops,Retail & Wholesale,5
+385,CoinDCX,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,3.85,False,4.1,201 to 500 Employees,Investment & Asset Management,Finance,9
+386,BNY Mellon,"Intermediate Representative, Data Management & Quantitative Analysis",Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,3.6,10000+ Employees,Investment & Asset Management,Finance,1
+387,Tridiagonal Solutions,Data Science Intern,Data Scientist,Yes,Yes,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,2.0,,False,3.4,51 to 200 Employees,Information Technology Support Services,Information Technology,9
+388,Iron Mountain,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,6.14,False,3.7,10000+ Employees,Information Technology Support Services,Information Technology,4
+389,TalentSurabhi(TS),Clinical Data Manager,Data Operations,No,No,Not specified,,,Remote,Senior (5+ yrs),0.0,,False,,1 to 50 Employees,HR Consulting,Human Resources & Staffing,1
+390,AllianceBernstein,Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),2.0,,False,3.8,1001 to 5000 Employees,Investment & Asset Management,Finance,12
+391,Magic Infomedia,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,,Unknown,,,0
+392,The Stakeholder Company Pte. Ltd.,Customer Solutions Engineer - Data,Other,No,No,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,1.0,3.94,False,4.0,51 to 200 Employees,,,5
+393,Visa,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.24,False,4.1,10000+ Employees,Information Technology Support Services,Information Technology,10
+394,Globussoft Technologies,Data Science,Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,3.6,False,4.4,201 to 500 Employees,Computer Hardware Development,Information Technology,6
+395,Infosys,Big Data Developer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.44,False,3.8,10000+ Employees,Information Technology Support Services,Information Technology,4
+396,Empower,Sr Analyst Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),2.0,3.94,False,3.9,10000+ Employees,Investment & Asset Management,Finance,9
+397,Google,"Director, Data and Analytics",Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),15.0,,False,4.4,10000+ Employees,Internet & Web Services,Information Technology,4
+398,Zebra Technologies,"Data Scientist, II",Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,7.2,False,4.1,5001 to 10000 Employees,Computer Hardware Development,Information Technology,10
+399,ZS Associates,Advanced Data Science Associate,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,6.25,False,3.7,10000+ Employees,Business Consulting,Management & Consulting,9
+400,Myntra.com,Senior Manager - Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,7.43,False,4.0,1001 to 5000 Employees,Internet & Web Services,Information Technology,1
+401,Thoucentric,NLP Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,8.75,False,4.1,201 to 500 Employees,Business Consulting,Management & Consulting,9
+402,UBS,Reporting & Metrics Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),4.0,8.06,False,3.9,10000+ Employees,Investment & Asset Management,Finance,4
+403,StockX,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.65,False,3.6,1001 to 5000 Employees,Internet & Web Services,Information Technology,7
+404,S&P Global,Carbon Markets Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,5.78,False,4.1,10000+ Employees,Research & Development,Management & Consulting,5
+405,Kmart,Associate Data Engineer,Data Engineer,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,,False,3.4,10000+ Employees,General Merchandise & Superstores,Retail & Wholesale,9
+406,Innovaccer,Apprentice - Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,9.5,False,3.4,1001 to 5000 Employees,Healthcare Services & Hospitals,Healthcare,9
+407,PineBridge Investments,Data Scientist /Quantitative Equity Researcher_2,Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,0.0,9.88,False,3.8,501 to 1000 Employees,Investment & Asset Management,Finance,4
+408,Tata Technologies,ALM Users - Data Mining,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,0.0,7.9,False,3.8,10000+ Employees,Research & Development,Management & Consulting,3
+409,S&P Global,Data Transformation Analyst I,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),3.0,5.78,False,4.1,10000+ Employees,Research & Development,Management & Consulting,2
+410,TVS Motor,Data Engineer II,Data Engineer,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,3.9,1001 to 5000 Employees,Transportation Equipment Manufacturing,Manufacturing,9
+411,Diverse Infotech,Data Science Analytics,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,5.37,False,,1 to 50 Employees,Information Technology Support Services,Information Technology,0
+412,Dentsu Aegis Network,Data management Intern,Data Operations,No,Yes,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,,,False,3.6,5001 to 10000 Employees,Advertising & Public Relations,Media & Communication,0
+413,Phygital Insights,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),6.0,5.8,False,,51 to 200 Employees,,,4
+414,UST,Associate II - Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.25,False,4.0,10000+ Employees,Information Technology Support Services,Information Technology,14
+415,Wesco,India-Bangalore: Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,6.99,False,3.7,10000+ Employees,Wholesale,Retail & Wholesale,9
+416,Microsoft,Data Engineer II,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),4.0,8.28,False,4.2,10000+ Employees,Computer Hardware Development,Information Technology,5
+417,Epsilon,Data Scientist 2,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,9.87,False,4.2,5001 to 10000 Employees,Advertising & Public Relations,Media & Communication,8
+418,Infineon Technologies,Product Management Internship: Data Analysis,Data Analyst,Yes,Yes,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,,,False,4.2,10000+ Employees,Electronics Manufacturing,Manufacturing,5
+419,Tata Consultancy Services,GCP Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,5.16,False,3.8,10000+ Employees,Software Development,Information Technology,2
+420,Agilite Global Solutions Company,Data QA/ETL Tester,Data Engineer,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),5.0,,False,4.7,51 to 200 Employees,Information Technology Support Services,Information Technology,10
+421,TechnoServe Inc.,Data Analyst Associate - PMA,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,5.23,False,4.1,51 to 200 Employees,Grantmaking & Charitable Foundations,Non-profit & NGO,3
+422,Legalwiz,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,0.0,,False,4.2,1 to 50 Employees,Legal,Legal,11
+423,Magna International Inc.,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,8.11,False,3.8,10000+ Employees,Transportation Equipment Manufacturing,Manufacturing,12
+424,RDAlabs,Data Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,,51 to 200 Employees,Information Technology Support Services,Information Technology,3
+425,Motorola Solutions,IT Business Analyst 2024 Internship,Business Analyst,Yes,Yes,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,,,False,4.1,10000+ Employees,Software Development,Information Technology,7
+426,Enel,Data Management Analyst - Night Shift,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,0.0,2.59,False,4.0,10000+ Employees,Energy & Utilities,"Energy, Mining, Utilities",4
+427,BNP Paribas,Associate Level 1 / Associate - Referential Data,Other,No,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,,False,3.8,10000+ Employees,Banking & Lending,Finance,4
+428,Retransform,Data Scientist,Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),4.0,,True,4.1,201 to 500 Employees,Business Consulting,Management & Consulting,7
+429,MRI Software,Data Analyst (Database Management),Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.83,False,3.6,1001 to 5000 Employees,Computer Hardware Development,Information Technology,10
+430,Blue Yonder,"Data Engineer (Python, SQL, Query Optimization, DBMS)",Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,7.42,False,4.1,5001 to 10000 Employees,Enterprise Software & Network Solutions,Information Technology,13
+431,Aptus Data LAbs,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,8.2,False,4.1,51 to 200 Employees,Information Technology Support Services,Information Technology,4
+432,Facile Services,Data Research Trainee,Other,No,Yes,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,,3.28,False,3.9,201 to 500 Employees,,,2
+433,LodgIQ,Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,,1 to 50 Employees,,,7
+434,Oswaalbooks,DATA Interpretation & Logical Reasoning - Proofreader - CAT Level,Other,No,No,Not specified,,,Office/Other,Not specified,,,False,4.4,51 to 200 Employees,,,0
+435,Tax Genie,Data Analyst(BI),BI Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,2.21,False,3.3,51 to 200 Employees,Information Technology Support Services,Information Technology,2
+436,Pratt & Whitney,Data Visualization Developer,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,,False,3.8,10000+ Employees,Aerospace & Defence,Aerospace & Defence,5
+437,Yamaha Motor Solutions India Pvt.Ltd.,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,5.26,False,4.1,1001 to 5000 Employees,Transportation Equipment Manufacturing,Manufacturing,2
+438,Tata Consultancy Services,MS SQL Developer,Other,No,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,3.8,10000+ Employees,Software Development,Information Technology,2
+439,ADCI - Haryana,"Data Associate I (Italian), ML Data Ops",ML/AI Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,3.14,False,3.7,10000+ Employees,Internet & Web Services,Information Technology,3
+440,Rishi FIBC Solutions,Data Analysis,Data Analyst,Yes,No,Vadodara,,,Office/Other,Mid (2-4 yrs),2.0,4.98,False,3.1,501 to 1000 Employees,,,4
+441,Linxon,Data Analyst - HSE,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,3.87,False,4.3,501 to 1000 Employees,,,3
+442,JPMorgan Chase & Co,Client Data Management and Data Quality Remediation - Operations Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,2
+443,DecisionDatabases.com,Data Management Executive,Data Operations,No,No,Not specified,,,Office/Other,Not specified,,,False,4.5,1 to 50 Employees,,,1
+444,The/Nudge,"Data Analyst, MoSJE",Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Senior (5+ yrs),5.0,,False,,1 to 50 Employees,,,9
+445,DataEconomy,Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),6.0,5.72,False,4.7,201 to 500 Employees,Information Technology Support Services,Information Technology,9
+446,United Airlines,Analyst - Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,,True,3.9,10000+ Employees,"Airlines, Airports & Air Transportation",Transportation & Logistics,5
+447,CandidRoot Solutions,Web Data Researcher (0 to 2 Years),Other,No,No,Ahmedabad,23.0225,72.5714,Office/Other,Entry/Fresher,0.0,,False,,1 to 50 Employees,,,1
+448,EIE Instruments,Data Analyst,Data Analyst,Yes,No,Ahmedabad,23.0225,72.5714,Office/Other,Not specified,,2.1,False,3.9,51 to 200 Employees,Machinery Manufacturing,Manufacturing,4
+449,Maruti Suzuki India Ltd,Data Analyst - R&D,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,8.24,False,3.9,10000+ Employees,Transportation Equipment Manufacturing,Manufacturing,12
+450,Tata Consultancy Services,"Big data- Pyspark, Hive",Data Engineer,Yes,No,Chennai,13.0827,80.2707,Office/Other,Senior (5+ yrs),5.0,4.32,False,3.8,10000+ Employees,Software Development,Information Technology,2
+451,Veniso Solutions,Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),2.0,4.24,False,,1 to 50 Employees,,,5
+452,Optimum Data Analytics,Data Scientist,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,6.52,False,,1 to 50 Employees,,,3
+453,NovoTree Minds Consulting,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.12,False,5.0,1 to 50 Employees,HR Consulting,Human Resources & Staffing,5
+454,Tokopedia,Data Scientist - TopAds,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,2.7,False,4.3,5001 to 10000 Employees,Internet & Web Services,Information Technology,7
+455,AXA,Assistant Scientist- Data Engineering,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.98,False,4.0,10000+ Employees,Insurance Carriers,Insurance,8
+456,Tata Elxsi,Data Science Engineers,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.19,False,4.1,10000+ Employees,Information Technology Support Services,Information Technology,7
+457,Barclays,VP Op Risk Rep & Data Analytics,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,4.0,10000+ Employees,Banking & Lending,Finance,8
+458,Zycus,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,4.69,False,3.4,1001 to 5000 Employees,Enterprise Software & Network Solutions,Information Technology,11
+459,Petpooja,Data Scientist,Data Scientist,Yes,No,Ahmedabad,23.0225,72.5714,Office/Other,Entry/Fresher,1.0,2.69,False,4.5,501 to 1000 Employees,Enterprise Software & Network Solutions,Information Technology,6
+460,DAZN,Data Service Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,2.28,False,2.8,1001 to 5000 Employees,Internet & Web Services,Information Technology,11
+461,RARR Technologies Pvt Ltd,Data Governance Admin,Data Operations,No,No,Not specified,,,Remote,Not specified,,26.0,False,4.7,1 to 50 Employees,Software Development,Information Technology,3
+462,PayU,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,6.07,False,3.7,1001 to 5000 Employees,Internet & Web Services,Information Technology,12
+463,Algoscale,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,6.93,False,4.0,51 to 200 Employees,Information Technology Support Services,Information Technology,10
+464,JPMorgan Chase & Co,Data Governance - Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,3
+465,Xitadel,Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,4.84,False,3.9,1 to 50 Employees,,,7
+466,APA Engineering,Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Mid (2-4 yrs),2.0,3.87,False,,1 to 50 Employees,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",0
+467,NISC Export Services,Data Mapping,Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,1.0,,False,3.6,201 to 500 Employees,Computer Hardware Development,Information Technology,1
+468,Harjai Computers,Data Analyst - HCPL3303,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,4.4,501 to 1000 Employees,Enterprise Software & Network Solutions,Information Technology,5
+469,Uplers,Business Data Analyst | QA - WFH,Data Analyst,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,19.14,False,4.2,501 to 1000 Employees,Information Technology Support Services,Information Technology,7
+470,Zehntech,Data Engineer,Data Engineer,Yes,No,Indore,,,Office/Other,Not specified,,3.85,False,3.1,201 to 500 Employees,Software Development,Information Technology,4
+471,Transaction Network Services,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,4.74,False,3.4,501 to 1000 Employees,Information Technology Support Services,Information Technology,8
+472,CloudAge Global Services,Data Scientists/ML Engineers,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),3.0,5.29,False,,51 to 200 Employees,,,5
+473,JPMorgan Chase & Co,Client Reporting – Data Feeds - Operations Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,2
+474,Retisio,Junior Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,3.0,5.67,False,,51 to 200 Employees,,,8
+475,Wesco,India-Bangalore: Analyst - Data Governance,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,8.37,False,3.7,10000+ Employees,Wholesale,Retail & Wholesale,3
+476,Zapcom Group,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,3.8,51 to 200 Employees,Information Technology Support Services,Information Technology,2
+477,Zazz,Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),4.0,15.0,False,,1 to 50 Employees,,,13
+478,Energy Exemplar,Data Engineer,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),4.0,7.98,False,4.4,201 to 500 Employees,Energy & Utilities,"Energy, Mining, Utilities",7
+479,Data PlatformExperts,Azure Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,10.0,False,,,,,6
+480,Acies Global,Data Engineer - SSIS,Data Engineer,Yes,No,Chennai,13.0827,80.2707,Office/Other,Mid (2-4 yrs),2.0,9.5,False,4.6,51 to 200 Employees,Information Technology Support Services,Information Technology,4
+481,Recruise,1700_ Data and Market Research Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.14,False,4.6,51 to 200 Employees,HR Consulting,Human Resources & Staffing,10
+482,Mazenet Solution,Talend Data Integration/ETL Specialist,Data Engineer,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,6.5,False,4.2,51 to 200 Employees,Information Technology Support Services,Information Technology,5
+483,Shortjobs India,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,8.0,False,,,,,7
+484,JP infotech,Big Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),4.0,17.0,False,3.9,1 to 50 Employees,Information Technology Support Services,Information Technology,8
+485,RD Digital Solutions,Senior Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),8.0,35.0,False,4.3,1 to 50 Employees,,,9
+486,Shreejan Associates,Data Creation Specialist,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,4.8,False,4.0,Unknown,,,4
+487,EY,Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),4.0,17.5,False,3.8,Unknown,,,7
+488,Global Employees,Azure Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,12.5,False,,,,,5
+489,Xplor,Power Bi - Data-warehouse Administrator,BI Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,6.12,False,3.4,1001 to 5000 Employees,Software Development,Information Technology,5
+490,Fiddler AI,"SDET - (Data Science, AI/ML background)",Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,3.72,False,,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,4
+491,Anion Healthcare BPO,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,4.2,1 to 50 Employees,Computer Hardware Development,Information Technology,6
+492,"Mohr Partners, Inc.",Research Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Not specified,,,False,3.7,51 to 200 Employees,Real Estate,Real Estate,3
+493,Future Link Consultants,Data Modeler/Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Senior (5+ yrs),5.0,17.5,False,4.5,1 to 50 Employees,,,3
+494,Expressare Technologies Pvt Ltd,Data Quality Analyst,Data Analyst,Yes,No,Thiruvananthapuram,,,Office/Other,Entry/Fresher,1.0,2.0,False,,,,,2
+495,1myPOS Information Technology,SQL Developer,Other,No,No,Not specified,,,Remote,Not specified,,,False,,,,,1
+496,Cheri angel HR Consulting,Junior Data Scientist,Data Scientist,Yes,No,Not specified,,,Remote,Entry/Fresher,2.0,,False,,,,,11
+497,iDataLytics,Internship in Data science,Data Scientist,Yes,Yes,Eranakulam,,,Office/Other,Entry/Fresher,,,False,,,,,5
+498,Wisdom college for creativity & design,Data Science Trainee,Data Scientist,Yes,Yes,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,2.1,False,,,,,6
+499,Forbes Advisor,Data Research Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Not specified,,4.17,False,3.6,201 to 500 Employees,Publishing,Media & Communication,0
+500,Servilint Technologies,Data Scientist,Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),4.0,10.25,False,,,,,7
+501,Razor Group GmbH,Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,5.88,False,3.1,501 to 1000 Employees,Other Retail Shops,Retail & Wholesale,5
+502,"SmarTek21, LLC",Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),4.0,,False,3.6,501 to 1000 Employees,Computer Hardware Development,Information Technology,9
+503,Pinnacle Employment,Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Senior (5+ yrs),5.0,30.0,False,,,,,6
+504,Xperthunt Systems,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,14.35,False,,,,,7
+505,Konexions Back Office Services Pvt Ltd,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,2.7,False,,,,,2
+506,CapB InfoteK,Remote nCode GlyphWorks enginnering Test Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.2,False,1.0,Unknown,Business Consulting,Management & Consulting,0
+507,Ziniosedge,Data Engineer,Data Engineer,Yes,No,Not specified,,,Office/Other,Not specified,,,False,,51 to 200 Employees,,,5
+508,GraspCorn Software Solution Pvt. Ltd.,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,4.8,False,,,,,7
+509,Idexcel,Data Engineer,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Senior (5+ yrs),5.0,8.17,False,4.3,501 to 1000 Employees,Information Technology Support Services,Information Technology,6
+510,Excelr Solutions,Data Analyst Trainer,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,7.5,False,3.8,1 to 50 Employees,,,6
+511,Ebizon,EbizON|| Data Scientist || Dehradun,Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,,False,4.3,51 to 200 Employees,,,7
+512,Exusia,IBM Infosphere Data Quality Lead / Senior Developers,Other,No,No,Not specified,,,Remote,Senior (5+ yrs),4.0,21.81,False,4.0,201 to 500 Employees,Information Technology Support Services,Information Technology,8
+513,Arroyo Consulting,Data Security Specialist,Data Operations,No,No,Not specified,,,Remote,Entry/Fresher,1.0,,True,,,,,2
+514,orchid furnishings llp,Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,1.0,3.6,False,,,,,5
+515,Ericson Insurance TPA Pvt Ltd,Hiring Data Analytical,Other,No,No,Not specified,,,Office/Other,Entry/Fresher,1.0,4.5,False,,,,,0
+516,Oracuz InfoTech Pvt Ltd.,Data Science Intern,Data Scientist,Yes,Yes,Not specified,,,Office/Other,Entry/Fresher,,,False,,,,,0
+517,Alphanet,Data Science Engineer / Sr Data Science Engineer,Data Scientist,Yes,No,Not specified,,,Remote,Senior (5+ yrs),3.0,,False,4.6,201 to 500 Employees,Information Technology Support Services,Information Technology,7
+518,Varite India Pvt Ltd,Data Quality Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,3.65,False,,,,,2
+519,CGI,Big Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.42,False,3.8,10000+ Employees,Business Consulting,Management & Consulting,2
+520,Anika Technologies,Data Analyst with strong SQL,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,4.1,Unknown,,,2
+521,EP Soft Pvt. Ltd.,Data Scientist,Data Scientist,Yes,No,Jaipur,26.9124,75.7873,Office/Other,Mid (2-4 yrs),3.0,5.75,False,,,,,1
+522,Codnext IT Services,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,12.0,False,,,,,9
+523,Virtual Reality System,Data Analytics Intern,Data Analyst,Yes,Yes,Gandhinagar,,,Office/Other,Entry/Fresher,,0.6,False,,,,,9
+524,ONX,ZOHO Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,3.17,False,2.8,Unknown,Real Estate,Real Estate,3
+525,Taiyo.Ai,Data-Mesh Engineer,Other,No,No,Not specified,,,Remote,Entry/Fresher,1.0,6.06,False,,,,,5
+526,Navig8 Group,Data Scientist ( Mumbai),Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),3.0,,False,,201 to 500 Employees,,,7
+527,Universal Electronics Inc.,Software Engineer (Data Science),Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.28,False,3.5,201 to 500 Employees,Electronics Manufacturing,Manufacturing,11
+528,Horizon Corp,Data Engineer,Data Engineer,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,16.5,False,,Unknown,,,5
+529,PepsiCo,Data Science Analyst,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),5.0,9.68,False,4.0,10000+ Employees,Food & Beverage Manufacturing,Manufacturing,12
+530,HiringGo,Azure Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,11.5,False,,,,,2
+531,Robas Research,Market Research Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,0.0,5.1,False,4.1,1 to 50 Employees,Information Technology Support Services,Information Technology,1
+532,Naviga Inc.,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),4.0,,False,3.7,501 to 1000 Employees,Enterprise Software & Network Solutions,Information Technology,7
+533,Authenu,Statistician/Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,,False,,,,,2
+534,Vecmocon Technologies,Data Analytics Intern,Data Analyst,Yes,Yes,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,,2.7,False,,,,,0
+535,Splore,Software Engineer - Data & Python,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.04,False,,1 to 50 Employees,,,9
+536,AVG LOGISTICS LIMITED,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,2.1,False,,,,,1
+537,GRS Fantasy park,Senior Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),3.0,3.9,False,,,,,3
+538,Good Business Lab,Data Associate,Data Operations,No,No,Not specified,,,Office/Other,Not specified,,9.25,False,4.7,51 to 200 Employees,"Civic, Welfare & Social Services",Non-profit & NGO,7
+539,Miles Ahead 91 Consultants,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,17.5,False,,,,,4
+540,Travelopia,Business Analyst,Business Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.49,False,4.1,1001 to 5000 Employees,Travel Agencies,Hotel & Travel Accommodation,0
+541,TransPerfect,Data Contributor - Remote in India,Other,No,No,Not specified,,,Remote,Not specified,,,False,3.1,1001 to 5000 Employees,Business Consulting,Management & Consulting,0
+542,American Express Global Business Travel,Meeting Support- Data Admin & Reconciliation Specialist,Other,No,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,3.9,10000+ Employees,Travel Agencies,Hotel & Travel Accommodation,3
+543,Nielsen,"Big Data Engineers (Airflow, Python, Spark)",Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,4.07,False,3.6,10000+ Employees,Enterprise Software & Network Solutions,Information Technology,10
+544,Xplor,Data Analytics Engineer,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,6.12,False,3.4,1001 to 5000 Employees,Software Development,Information Technology,6
+545,Ccube,Azure Cloud Data Architect,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),7.0,,False,,1 to 50 Employees,,,8
+546,HR CLICK,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,2.1,False,,,,,9
+547,SociallyGood,Customer Data Executive,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,,1 to 50 Employees,,,0
+548,JPMorgan Chase & Co,Client Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),5.0,6.4,False,4.0,10000+ Employees,Banking & Lending,Finance,2
+549,Deliveroo,Data Scientist - Consumer,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,6.45,False,3.6,1001 to 5000 Employees,Internet & Web Services,Information Technology,7
+550,First Advantage,Associate Business Data Analyst – (Metrics & Analytics) - Bangalore,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,2.83,False,3.5,1001 to 5000 Employees,HR Consulting,Human Resources & Staffing,5
+551,Evolvision Technologies,Data Scientist,Data Scientist,Yes,No,Gandhinagar,,,Office/Other,Mid (2-4 yrs),2.0,6.6,False,,,,,1
+552,Freedom Property Investors,Data Engineer - Southeast Asia,Data Engineer,Yes,No,Not specified,,,Remote,Not specified,,,False,,51 to 200 Employees,Real Estate,Real Estate,7
+553,Log9 Materials,Intern-Data Engineer,Data Engineer,Yes,Yes,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,,,False,3.9,51 to 200 Employees,Electronics Manufacturing,Manufacturing,9
+554,Zoof software Solutions,Data Engineer with Alation,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,12.0,False,4.7,51 to 200 Employees,Software Development,Information Technology,1
+555,Standard Chartered,Big Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.12,False,3.9,10000+ Employees,Banking & Lending,Finance,3
+556,SyngyMaxim Solutions Pvt Ltd,Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,1.0,18.0,False,4.7,1 to 50 Employees,,,5
+557,PayU,Business Analyst - Data Science,Business Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,6.15,False,3.7,1001 to 5000 Employees,Internet & Web Services,Information Technology,8
+558,Thermo Fisher Scientific,Clin Data Assoc II,Other,No,No,Not specified,,,Remote,Not specified,,,False,3.6,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,0
+559,SnD Confrere,Jr. Research Analyst (WFH/Remote),Data Analyst,Yes,No,Not specified,,,Remote,Entry/Fresher,,,True,,,,,2
+560,Thinkitive Technologies Pvt Ltd,Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,,False,3.9,201 to 500 Employees,Information Technology Support Services,Information Technology,8
+561,JPMorgan Chase & Co,Data Science Senior Associate,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),6.0,5.79,False,4.0,10000+ Employees,Banking & Lending,Finance,6
+562,Inevolution,Power BI Analyst,BI Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,4.5,False,,,,,5
+563,Multicloud4u Technologies,Data Scientist,Data Scientist,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),2.0,25.0,False,,,,,11
+564,Hub Work,Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Senior (5+ yrs),9.0,22.82,False,,Unknown,,,10
+565,Elrevgen health care pvt Ltd,Data Analyst,Data Analyst,Yes,No,Tiruppur,,,Office/Other,Mid (2-4 yrs),2.0,2.7,False,,,,,3
+566,URBX Knowledge Park LLP,Data Analyst,Data Analyst,Yes,No,Kochi,9.9312,76.2673,Office/Other,Mid (2-4 yrs),2.0,3.0,False,,,,,6
+567,Anblicks,Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),2.0,6.87,False,3.8,501 to 1000 Employees,Information Technology Support Services,Information Technology,15
+568,Genpact,SA-Data Quality Analyst.,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,5.66,False,4.0,10000+ Employees,Information Technology Support Services,Information Technology,5
+569,Shyena Tech Yarns Pvt Ltd,Data Engineer - Trainee,Data Engineer,Yes,Yes,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,,0.6,False,3.8,1 to 50 Employees,,,5
+570,Tata Consultancy Services,Treasure Data Developer,Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,5.12,False,3.8,10000+ Employees,Software Development,Information Technology,0
+571,Hitachi Solutions,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,9.22,False,4.4,1001 to 5000 Employees,Business Consulting,Management & Consulting,10
+572,Aspire Proptech,Business Operations Analyst (CRM and Data Focus),Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,4.51,False,,Unknown,,,8
+573,Alcon,Test Automation Engineer – DH Data analytics,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,4.23,False,3.8,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,2
+574,JVTekPro,Azure Senior Data engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),6.0,35.0,False,,,,,3
+575,TECH NEXT,Azure Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),6.0,11.56,False,,,,,8
+576,NexaQ,Data Analyst with Python,Data Analyst,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,,False,,Unknown,,,4
+577,Forbes Advisor,DIGITAL PUBLIC RELATIONS - DPR DATA INTERN (Mumbai),Other,No,Yes,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,,,False,3.6,201 to 500 Employees,Publishing,Media & Communication,4
+578,Olibr,Data Analyst - ETL,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Senior (5+ yrs),5.0,12.5,False,,,,,9
+579,Auraa Solutions,Senior Data Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Senior (5+ yrs),7.0,19.2,False,,Unknown,,,7
+580,Tata Insights and Quants,Data Scientist,Data Scientist,Yes,No,Jamshedpur,,,Office/Other,Mid (2-4 yrs),2.0,10.0,False,3.8,Unknown,Transportation Equipment Manufacturing,Manufacturing,12
+581,Milestone,Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,2.9,False,3.9,1001 to 5000 Employees,Information Technology Support Services,Information Technology,8
+582,MMStartup,Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,1.5,False,,,,,7
+583,Zobello,Data Analyst AssociateZobello,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,,False,2.0,Unknown,,,4
+584,Prescience,Junior Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,2.0,6.3,False,,51 to 200 Employees,Information Technology Support Services,Information Technology,13
+585,Reserve Bank Information Technology Private Limited (ReBIT),Data Engineer,Data Engineer,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,,False,3.4,51 to 200 Employees,,,11
+586,YMTS India,Data Scientist (ML & DL),Data Scientist,Yes,No,Tirupati,,,Office/Other,Not specified,,2.25,False,4.1,51 to 200 Employees,,,3
+587,Moody's,Financial Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.24,False,3.9,10000+ Employees,Research & Development,Management & Consulting,2
+588,Moody's,Financial Data Associate-MSC,Data Operations,No,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,5.25,False,3.9,10000+ Employees,Research & Development,Management & Consulting,2
+589,XenonStack,Data Analyst,Data Analyst,Yes,No,Mohali,30.7046,76.7179,Office/Other,Entry/Fresher,1.0,5.13,False,3.3,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,12
+590,McBird Technologies Pvt Ltd,Power BI Developer,BI Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),4.0,,False,5.0,51 to 200 Employees,Information Technology Support Services,Information Technology,8
+591,Spice Money,Data Engineer,Data Engineer,Yes,No,Mohali,30.7046,76.7179,Office/Other,Mid (2-4 yrs),2.0,6.87,False,3.9,201 to 500 Employees,Financial Transaction Processing,Finance,7
+592,Live Building Systems,Data Analyst,Data Analyst,Yes,No,Amritsar,,,Office/Other,Entry/Fresher,1.0,4.5,False,,,,,0
+593,Wisdom InfoTech.,Informatica Data Quality Developer,Other,No,No,Not specified,,,Remote,Senior (5+ yrs),5.0,21.0,False,,,,,4
+594,MyYogaTeacher,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,4.75,False,,51 to 200 Employees,Software Development,Information Technology,12
+595,One Sigma Technologies,Data Analyst Fraud,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.78,False,3.7,501 to 1000 Employees,Internet & Web Services,Information Technology,9
+596,Perfex Technologies,Data Base developer,Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,4.49,False,4.4,201 to 500 Employees,,,0
+597,In Time Tec,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.8,False,4.0,501 to 1000 Employees,Computer Hardware Development,Information Technology,7
+598,Wildfox Business Advocacy,Junior Data Analyst,Data Analyst,Yes,No,Calcutta,,,Office/Other,Entry/Fresher,1.0,2.46,False,,,,,10
+599,Lilly,Clinical Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,,False,4.1,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,10
+600,Sitetracker,Data Research Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.48,False,4.1,201 to 500 Employees,Enterprise Software & Network Solutions,Information Technology,2
+601,24/7 DCT,Power BI Developer- Project Based (India),BI Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,,False,,,,,6
+602,Brandmuscle,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.68,False,3.1,501 to 1000 Employees,Enterprise Software & Network Solutions,Information Technology,8
+603,Data Semantics,Data Modeler,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,5.27,False,4.0,51 to 200 Employees,Information Technology Support Services,Information Technology,7
+604,Avaali Solutions,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,7.45,False,4.5,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,13
+605,TARGET,Item Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,8.21,False,4.3,1001 to 5000 Employees,General Merchandise & Superstores,Retail & Wholesale,1
+606,Victoria's Secret,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,2.66,False,3.5,10000+ Employees,"Department, Clothing & Shoe Stores",Retail & Wholesale,10
+607,PayU,Data Platform Engineer,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,17.0,False,3.7,1001 to 5000 Employees,Internet & Web Services,Information Technology,8
+608,EVRY India,Data Quality Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),8.0,5.83,False,3.9,1001 to 5000 Employees,Information Technology Support Services,Information Technology,3
+609,Acumont Solutions Private Limited,Azure data factory developer,Other,No,No,Not specified,,,Remote,Senior (5+ yrs),5.0,12.5,False,4.5,1 to 50 Employees,,,6
+610,Tech mahindra,Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,0.0,5.09,False,3.6,10000+ Employees,Information Technology Support Services,Information Technology,9
+611,Vega Intellisoft,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,6.07,False,4.5,1 to 50 Employees,Business Consulting,Management & Consulting,3
+612,Tata Consultancy Services,Salesforce Data Cloud,Other,No,No,Pune,18.5204,73.8567,Office/Other,Not specified,,,False,3.8,10000+ Employees,Software Development,Information Technology,3
+613,Omnicell,HR Technology & Data Analytics Analyst (Remote),Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,3.2,1001 to 5000 Employees,Healthcare Services & Hospitals,Healthcare,4
+614,SUPERDNA 3D LAB,Data Miner,Other,No,No,Chandigarh,,,Office/Other,Entry/Fresher,1.0,4.45,False,4.0,1 to 50 Employees,Information Technology Support Services,Information Technology,1
+615,Haleon,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.45,False,3.8,10000+ Employees,Health Care Products Manufacturing,Manufacturing,9
+616,H&MV Engineering,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,4.3,201 to 500 Employees,,,7
+617,Crescer AI,Machine Learning Engineer,ML/AI Engineer,Yes,No,Not specified,,,Remote,Entry/Fresher,1.0,12.0,False,,,,,5
+618,Invoidea Technologies,Data Processing Executive,Data Operations,No,No,Not specified,,,Office/Other,Not specified,,,False,4.4,1 to 50 Employees,Information Technology Support Services,Information Technology,2
+619,FiftyFive Technologies,Data Science Engineer,Data Scientist,Yes,No,Jaipur,26.9124,75.7873,Office/Other,Not specified,,7.67,False,,51 to 200 Employees,Information Technology Support Services,Information Technology,6
+620,Clearwater Analytics,Data Flow Engineer,Other,No,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,6.97,False,3.4,1001 to 5000 Employees,Investment & Asset Management,Finance,4
+621,Certara,Data Analyst 1,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,4.08,False,4.0,1001 to 5000 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,2
+622,Knoema,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,4.92,False,3.9,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,1
+623,JPMorgan Chase & Co,Data Scientist Associate Sr,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),8.0,5.3,False,4.0,10000+ Employees,Banking & Lending,Finance,8
+624,Growexx,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Not specified,,,False,4.2,51 to 200 Employees,Information Technology Support Services,Information Technology,3
+625,Blenheim Chalcot India,Data Engineer,Data Engineer,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),4.0,5.84,False,3.7,51 to 200 Employees,Investment & Asset Management,Finance,6
+626,LanceTech Solutions Pvt Ltd,Senior Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,17.5,False,4.9,51 to 200 Employees,Information Technology Support Services,Information Technology,7
+627,Capria Ventures,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.63,False,,1 to 50 Employees,Investment & Asset Management,Finance,6
+628,Artefact,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,4.0,501 to 1000 Employees,Business Consulting,Management & Consulting,8
+629,ATDXT,Oracle Data Administrator,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,,False,,,,,3
+630,Tata Consultancy Services,Data Architect,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,4.24,False,3.8,10000+ Employees,Software Development,Information Technology,4
+631,EMIDS,Big Data Engineer|| RR/27/2024 || 5+ yrs,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,8.49,False,3.6,1001 to 5000 Employees,Information Technology Support Services,Information Technology,7
+632,Cesta Inc,Clinical Data Manager,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,3.51,False,,1 to 50 Employees,,,2
+633,Miba,Master Data Specialist,Data Operations,No,No,Pune,18.5204,73.8567,Office/Other,Senior (5+ yrs),5.0,2.57,False,3.7,5001 to 10000 Employees,Transportation Equipment Manufacturing,Manufacturing,2
+634,Puneri Pattern,Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,,False,,1 to 50 Employees,,,6
+635,Classic Informatics Private Limited,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Senior (5+ yrs),5.0,5.29,False,4.4,51 to 200 Employees,Information Technology Support Services,Information Technology,9
+636,Webandcraft,Data Scientist,Data Scientist,Yes,No,Thrissur,,,Office/Other,Mid (2-4 yrs),3.0,4.82,False,4.1,51 to 200 Employees,Information Technology Support Services,Information Technology,9
+637,Travitons Technologies,Data Analyst Engineer,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,4.38,False,,Unknown,,,9
+638,Coforge Ltd.,DATA ENGINEER,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,5.4,False,3.6,10000+ Employees,Information Technology Support Services,Information Technology,3
+639,Innorenovate,Senior SQL Engineer-Data Science,Data Scientist,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,25.0,False,4.0,1 to 50 Employees,,,1
+640,AutoGrid Systems,Senior Data Scientist - Forecasting (India),Data Scientist,Yes,No,Not specified,,,Remote,Senior (5+ yrs),5.0,,False,4.3,51 to 200 Employees,Computer Hardware Development,Information Technology,7
+641,Pfizer,Statistical Programming Internship,Other,No,Yes,Chennai,13.0827,80.2707,Office/Other,Entry/Fresher,,,False,4.0,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,1
+642,ICON,Data Scientist (Real-World Evidence or RWE or HEOR) - Homebased,Data Scientist,Yes,No,Not specified,,,Remote,Senior (5+ yrs),6.0,,False,3.8,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,2
+643,Rayvat Outsourcing,AI-ML Data Analyst,ML/AI Engineer,Yes,No,Gandhinagar,,,Office/Other,Entry/Fresher,1.0,4.8,False,2.3,51 to 200 Employees,Business Consulting,Management & Consulting,13
+644,Getinz,Data Engineer - GCV - HYD,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,13.5,False,4.5,1 to 50 Employees,,,5
+645,HSO,HSO - GS - SQL & Data Migration,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,3.29,False,4.1,1001 to 5000 Employees,Enterprise Software & Network Solutions,Information Technology,3
+646,Evalueserve,Analyst-Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,7.75,False,3.7,1001 to 5000 Employees,Business Consulting,Management & Consulting,8
+647,Sakhatech Information Systems,Data Engineer - California,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.39,False,4.3,51 to 200 Employees,Information Technology Support Services,Information Technology,4
+648,Tech mahindra,GCP Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,0.0,4.22,False,3.6,10000+ Employees,Information Technology Support Services,Information Technology,3
+649,TMI Group,"Data Scientist (Statistian, Bayesian modelli...",Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,1.0,17.5,False,3.9,Unknown,,,5
+650,HQ Account LLC,Data Engineer,Data Engineer,Yes,No,Kochi,9.9312,76.2673,Office/Other,Mid (2-4 yrs),2.0,3.76,False,4.1,10000+ Employees,Food & Beverage Manufacturing,Manufacturing,6
+651,BOLD LLC,Data Science Architect- I,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Senior (5+ yrs),,4.7,False,,Unknown,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",6
+652,ShowTime Consulting,Data Lead,Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),,8.15,False,,,,,10
+653,ANZ Banking Group,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,7.99,False,4.1,5001 to 10000 Employees,Banking & Lending,Finance,7
+654,Food Memories,"Specialist, Data analytics",Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,,Unknown,,,7
+655,Synopsys,Data Analyst (License Compliance),Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,5.2,False,4.0,10000+ Employees,Computer Hardware Development,Information Technology,3
+656,RP2,Data Science Intern,Data Scientist,Yes,Yes,Kochi,9.9312,76.2673,Office/Other,Entry/Fresher,,,False,,,,,6
+657,MRI Software,Data Engineer Level II,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.01,False,3.6,1001 to 5000 Employees,Computer Hardware Development,Information Technology,7
+658,RamSoft,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,8.58,False,3.4,51 to 200 Employees,Software Development,Information Technology,10
+659,Cashflo,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,2.65,False,,51 to 200 Employees,,,10
+660,Merck KGaA Darmstadt Germany,Head of Data Science & AI,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),15.0,,False,4.0,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,11
+661,Warner Bros. Discovery,Associate Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,5.56,False,3.6,10000+ Employees,Film Production,Media & Communication,9
+662,Sprinklr,Data quality Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,7.79,False,3.4,1001 to 5000 Employees,Enterprise Software & Network Solutions,Information Technology,4
+663,JPMorgan Chase & Co,Reference Data Specialist - Digital Document Services,Data Operations,No,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,2
+664,IPRO INDIA,Data Analyst,Data Analyst,Yes,No,Chandigarh,,,Office/Other,Not specified,,,False,,Unknown,Information Technology Support Services,Information Technology,4
+665,KPMG,Lighthouse Pyspark Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,5.92,False,3.8,10000+ Employees,Business Consulting,Management & Consulting,3
+666,Princeton IT America,Data Visualisation,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),8.0,,False,,,,,7
+667,Sciera,Jr Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Entry/Fresher,,6.71,False,,1 to 50 Employees,Accounting & Tax,Finance,10
+668,Arm,Data Platform Administrator,Other,No,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),6.0,5.55,False,4.4,1001 to 5000 Employees,Computer Hardware Development,Information Technology,8
+669,SIGMOID,Associate Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,8.61,False,4.0,501 to 1000 Employees,Information Technology Support Services,Information Technology,11
+670,S&P Global,LNG Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,5.78,False,4.1,10000+ Employees,Research & Development,Management & Consulting,4
+671,Komodo Health,Research Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,4.77,False,3.5,501 to 1000 Employees,Enterprise Software & Network Solutions,Information Technology,8
+672,Criteo,"Data Analyst, Retail Media, India",Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,9.1,False,4.2,1001 to 5000 Employees,Internet & Web Services,Information Technology,7
+673,UST,Lead I - Data Science,Data Scientist,Yes,No,Kochi,9.9312,76.2673,Office/Other,Senior (5+ yrs),,,False,4.0,10000+ Employees,Information Technology Support Services,Information Technology,15
+674,Helius Technologies,Data Analyst (KYC),Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,4.2,501 to 1000 Employees,Information Technology Support Services,Information Technology,9
+675,Truedge Software Solutions,"Technology head Data science, data analytics background",Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),,,False,4.2,51 to 200 Employees,,,2
+676,Boston Consulting Group,Data Analyst - X Delivery,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,,False,4.0,10000+ Employees,Business Consulting,Management & Consulting,10
+677,SAP,Data Scientist for 3rd Party Data Management,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.34,False,4.4,10000+ Employees,Enterprise Software & Network Solutions,Information Technology,5
+678,Bolla Management India LLP,Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,,False,3.5,Unknown,Convenience & Corner Stores,Retail & Wholesale,8
+679,Scaler Academy,Assistant Manager :: Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,2.63,False,4.0,51 to 200 Employees,Education Support & Training Services,Education,8
+680,BlackRock,"Analyst/Associate, Data Engineering- Gen AI",Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,,False,4.0,10000+ Employees,Investment & Asset Management,Finance,6
+681,Informatica,Member Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,3.9,5001 to 10000 Employees,Enterprise Software & Network Solutions,Information Technology,10
+682,Creditas Solutions,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,7.47,False,3.5,51 to 200 Employees,Research & Development,Management & Consulting,3
+683,AgilizTech Software Services,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.26,False,,1 to 50 Employees,Information Technology Support Services,Information Technology,6
+684,ADCI - Haryana - D50,"Data Associate I (German), ML Data Ops",ML/AI Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,3.14,False,3.7,10000+ Employees,Internet & Web Services,Information Technology,3
+685,Indecomm Global Services,Lead Associate (Data Analysis),Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,2.67,False,4.0,1001 to 5000 Employees,Enterprise Software & Network Solutions,Information Technology,2
+686,Marktine Technology Solutions,Data Enginerr(Python + Sql),Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,16.0,False,4.2,51 to 200 Employees,Information Technology Support Services,Information Technology,4
+687,Moody's,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,4.73,False,3.9,10000+ Employees,Research & Development,Management & Consulting,6
+688,Hilabs,Principal Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,9.8,False,3.6,51 to 200 Employees,Software Development,Information Technology,1
+689,USP (U.S. Pharmacopeial Convention),Associate Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,3.7,1001 to 5000 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,11
+690,Google,"Technical Program Manager, Data Analytics",Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),8.0,,False,4.4,10000+ Employees,Internet & Web Services,Information Technology,5
+691,Merkle,Customer Analytics / Data Science - Lead Analyst - Analytics,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,5.13,False,3.7,10000+ Employees,Advertising & Public Relations,Media & Communication,7
+692,Novartis,Environmental Data & Analytics Expert,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),10.0,,False,3.9,Unknown,,,2
+693,Heptarc Technology Solution,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Not specified,,,False,5.0,Unknown,,,0
+694,Sagacious IP,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,2.77,False,4.3,201 to 500 Employees,Research & Development,Management & Consulting,0
+695,Ignitho,AWS Data Engineer,Data Engineer,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,2.5,False,4.3,51 to 200 Employees,Information Technology Support Services,Information Technology,7
+696,nurture.farm,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,4.95,False,4.8,1 to 50 Employees,Information Technology Support Services,Information Technology,9
+697,Growisto,Data Management & MIS Associate,Data Operations,No,No,Mumbai,19.076,72.8777,Office/Other,Entry/Fresher,1.0,5.22,False,4.3,51 to 200 Employees,Advertising & Public Relations,Media & Communication,2
+698,Wells Fargo,Data Governance Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,,False,3.6,10000+ Employees,Banking & Lending,Finance,0
+699,JPMorgan Chase & Co,Product Owner Data Acquisition Securities - Associate,Other,No,No,Not specified,,,Office/Other,Senior (5+ yrs),5.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,5
+700,Dhwani Rural Information Systems,Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,3.89,False,3.8,51 to 200 Employees,Software Development,Information Technology,5
+701,Rahi Systems,Senior Executive - Data Analytics,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Senior (5+ yrs),3.0,17.5,False,3.8,501 to 1000 Employees,Information Technology Support Services,Information Technology,8
+702,Hexanika,Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,3.67,False,3.5,1 to 50 Employees,,,2
+703,Squalas,Data Warehouse ETL Tester,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),4.0,2.58,False,5.0,1 to 50 Employees,,,4
+704,Techigai,Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,1.0,6.12,False,,201 to 500 Employees,Information Technology Support Services,Information Technology,2
+705,ASI-Apex Sourcing,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,,1 to 50 Employees,,,2
+706,Medtronic,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),4.0,,False,3.9,10000+ Employees,Health Care Products Manufacturing,Manufacturing,4
+707,ADCI - Uttar Pradesh,Data Engineer,Data Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,5.21,False,3.7,10000+ Employees,Internet & Web Services,Information Technology,8
+708,Clairvoyant,Python Data Engineer,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Senior (5+ yrs),5.0,6.84,False,4.0,501 to 1000 Employees,Information Technology Support Services,Information Technology,8
+709,Parexel,Data Management Lead II,Data Operations,No,No,Not specified,,,Remote,Senior (5+ yrs),,,False,3.8,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,1
+710,Trukky Logistics,Data science internship,Data Scientist,Yes,Yes,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,,,False,,1 to 50 Employees,,,0
+711,Optimum Info,Junior Analyst- Financial Data,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,,2.26,False,,,,,2
+712,Elfonze Technologies,"Microsoft Azure including Azure Blob Storage, Azure Data Lake Storage.",Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,3.53,False,4.8,51 to 200 Employees,,,1
+713,altbalaji,Data Analyst,Data Analyst,Yes,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,2.65,False,2.8,51 to 200 Employees,,,4
+714,Biz4Group,AI Data Scientist,Data Scientist,Yes,No,Jaipur,26.9124,75.7873,Office/Other,Mid (2-4 yrs),2.0,5.71,False,4.4,1 to 50 Employees,Information Technology Support Services,Information Technology,7
+715,Angel broking,Data Scientist 2,Data Scientist,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),4.0,,False,4.2,1001 to 5000 Employees,Investment & Asset Management,Finance,9
+716,Indecomm Technology Services,Lead Associate (Data Analysis),Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,2.67,False,4.0,1001 to 5000 Employees,Enterprise Software & Network Solutions,Information Technology,2
+717,Bombay Play,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,2.4,False,4.3,51 to 200 Employees,Video Game Publishing,Media & Communication,7
+718,Aicence,Data Engineer,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,6.89,False,,1 to 50 Employees,,,2
+719,Adobe,BI Consultant,BI Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,,False,4.3,10000+ Employees,Computer Hardware Development,Information Technology,10
+720,Screen Magic Mobile Media Pvt. Ltd.,Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),3.0,4.64,False,3.6,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,5
+721,Zeitview,Data Analyst - Utility Linesman,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,6.63,False,3.2,1 to 50 Employees,Internet & Web Services,Information Technology,1
+722,padmasai finance pvt ltd,Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),5.0,5.4,False,,,,,4
+723,PayU,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.63,False,3.7,1001 to 5000 Employees,Internet & Web Services,Information Technology,11
+724,Ziniosedge,448395/Azure Data Factory,Other,No,No,Not specified,,,Office/Other,Senior (5+ yrs),5.0,,False,,51 to 200 Employees,,,3
+725,Risk Edge Solutions,Junior Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,1.0,4.8,False,,1 to 50 Employees,,,9
+726,Paytm,MS SQL- DBA,Other,No,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,5.14,False,3.6,10000+ Employees,Internet & Web Services,Information Technology,3
+727,Adobe,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Senior (5+ yrs),5.0,4.89,False,4.3,10000+ Employees,Computer Hardware Development,Information Technology,8
+728,Blue Yonder,Business Analytics Analyst I,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.25,False,4.1,5001 to 10000 Employees,Enterprise Software & Network Solutions,Information Technology,0
+729,PiWheel,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,,1 to 50 Employees,,,7
+730,Adobe,Senior Data Architect,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,7.55,False,4.3,10000+ Employees,Computer Hardware Development,Information Technology,0
+731,Crossroad Elf DSS,Data Analytics Developer,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.26,False,4.8,1 to 50 Employees,Information Technology Support Services,Information Technology,6
+732,TechStep,Data Scientist (Machine Learning),Data Scientist,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,,51 to 200 Employees,,,5
+733,GyanTU,Data Analyst,Data Analyst,Yes,No,Not specified,,,Office/Other,Mid (2-4 yrs),2.0,,False,,,,,1
+734,Fusemachines,Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Senior (5+ yrs),5.0,3.64,False,3.4,51 to 200 Employees,Internet & Web Services,Information Technology,9
+735,Infowiz Software Solution,DATA SCIENCE,Data Scientist,Yes,No,Chandigarh,,,Office/Other,Not specified,,2.4,False,,,,,3
+736,Myntra.com,Associate - Business Planning (Business Analyst),Business Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,8.05,False,4.0,1001 to 5000 Employees,Internet & Web Services,Information Technology,4
+737,Aureus Analytics,Data Scientist,Data Scientist,Yes,No,Mumbai,19.076,72.8777,Office/Other,Senior (5+ yrs),5.0,7.24,False,,1 to 50 Employees,Enterprise Software & Network Solutions,Information Technology,3
+738,Fluid.Live Solutions Pvt Ltd,Data Research Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,1.0,11.15,False,,,,,4
+739,Zensar Technologies,"ETL, DATA MIGRATION",Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,,False,4.0,5001 to 10000 Employees,Information Technology Support Services,Information Technology,2
+740,Decision Tree,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,5.39,False,,1 to 50 Employees,,,7
+741,Airbus,Technical Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,4.86,False,4.1,1001 to 5000 Employees,Aerospace & Defence,Aerospace & Defence,1
+742,Deloitte,Consulting-SAMA A&C-Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),5.0,7.48,False,4.1,10000+ Employees,Accounting & Tax,Finance,12
+743,NeGD,Data Analysts - MoRD,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),4.0,5.25,False,3.6,1 to 50 Employees,,,4
+744,Accenture,Data Science-Application Developer,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),10.0,,False,4.0,10000+ Employees,Business Consulting,Management & Consulting,0
+745,RightWave,Data Analyst,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),3.0,4.65,False,4.0,51 to 200 Employees,Advertising & Public Relations,Media & Communication,5
+746,Sailo Technosoft,Data Engineer (Data Management),Data Engineer,Yes,No,Not specified,,,Office/Other,Entry/Fresher,1.0,,False,,,,,0
+747,Wells Fargo,Data Science Consultant,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,,False,3.6,10000+ Employees,Banking & Lending,Finance,10
+748,Recruitment Smart,Data Analyst,Data Analyst,Yes,No,Ahmedabad,23.0225,72.5714,Office/Other,Not specified,,,False,5.0,Unknown,,,10
+749,StatusNeo Technology Consulting,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,5.02,False,4.0,1 to 50 Employees,,,6
+750,Marktine Technology Solutions,Process Developer– Data Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Not specified,,,False,4.2,51 to 200 Employees,Information Technology Support Services,Information Technology,3
+751,Emerson,Supply Chain Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),4.0,4.82,False,3.9,10000+ Employees,Electronics Manufacturing,Manufacturing,8
+752,Lendingkart,Manager - MIS & Data Analysis,Data Analyst,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),3.0,,False,3.9,201 to 500 Employees,Banking & Lending,Finance,9
+753,Klub Works,E-Commerce Data Analyst,Data Analyst,Yes,No,Ahmedabad,23.0225,72.5714,Office/Other,Not specified,,,False,,,,,13
+754,METRIO,Business Analyst,Business Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.94,False,4.0,1001 to 5000 Employees,Stock Exchanges,Finance,4
+755,Accenture,Finance Process & Ops Associate - Finance Data Maintenance,Data Operations,No,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,,False,4.0,10000+ Employees,Business Consulting,Management & Consulting,1
+756,UBS,Data Management Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,0.0,6.82,False,3.9,10000+ Employees,Investment & Asset Management,Finance,1
+757,Dolby,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,4.1,1001 to 5000 Employees,Electronics Manufacturing,Manufacturing,9
+758,Magic Infomedia,Data Mining,Other,No,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,,Unknown,,,1
+759,GUJARAT FLUOROCHEMICALS,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,5.92,False,4.3,1001 to 5000 Employees,Chemical Manufacturing,Manufacturing,9
+760,Elsevier,Senior Data Analyst I,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Senior (5+ yrs),,6.67,False,4.5,5001 to 10000 Employees,Publishing,Media & Communication,7
+761,Resource Solutions,Operational Data Analyst,Data Analyst,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,4.06,False,4.2,501 to 1000 Employees,HR Consulting,Human Resources & Staffing,8
+762,B. M. Infotrade Pvt. Ltd.,Data Analyst Intern,Data Analyst,Yes,Yes,Jaipur,26.9124,75.7873,Office/Other,Entry/Fresher,2.0,1.25,False,,,,,7
+763,Affine,Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,4.81,False,4.8,1 to 50 Employees,Information Technology Support Services,Information Technology,7
+764,MathCo,Senior Associate - Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,8.77,False,3.5,1001 to 5000 Employees,Business Consulting,Management & Consulting,1
+765,Larsen & Toubro,Data Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Entry/Fresher,1.0,6.5,False,3.5,10000+ Employees,Information Technology Support Services,Information Technology,6
+766,NeoStats,Data Modeler,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,,,,,6
+767,NeoStats,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,,False,,,,,8
+768,Lilly,Data Scientist - 1st Party Data,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,8.81,False,4.1,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,10
+769,Cityinfo Services,DATA ANALYST,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,3.22,False,3.9,51 to 200 Employees,Real Estate,Real Estate,3
+770,Navikenz,Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),6.0,,False,,51 to 200 Employees,Business Consulting,Management & Consulting,9
+771,JPMorgan Chase & Co,Client Data Specialist IV,Data Operations,No,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),2.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,2
+772,Yara,Associate Data Engineer R&D (Contract),Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,6.6,False,4.2,10000+ Employees,Chemical Manufacturing,Manufacturing,9
+773,Advent InfoSoft Pvt Ltd,Data Management Executive,Data Operations,No,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,,False,2.6,1 to 50 Employees,Computer Hardware Development,Information Technology,0
+774,SourceMash Technologies,Data Analyst/Power BI,BI Analyst,Yes,No,Mohali,30.7046,76.7179,Office/Other,Mid (2-4 yrs),2.0,4.07,False,3.2,51 to 200 Employees,,,5
+775,Litmus7,Data Engineer,Data Engineer,Yes,No,Kochi,9.9312,76.2673,Office/Other,Not specified,,7.25,False,4.7,501 to 1000 Employees,Information Technology Support Services,Information Technology,4
+776,Confluent,Data Scientist II,Data Scientist,Yes,No,Not specified,,,Office/Other,Senior (5+ yrs),5.0,,False,3.7,1001 to 5000 Employees,Computer Hardware Development,Information Technology,7
+777,Mastercard,Data Engineer II,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,2.04,False,4.3,10000+ Employees,Financial Transaction Processing,Finance,9
+778,E2E Infoware Management Services,Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,5.37,False,,51 to 200 Employees,,Information Technology,5
+779,Addepar,Market Data Analyst (Pune),Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Mid (2-4 yrs),2.0,4.21,False,4.2,501 to 1000 Employees,Enterprise Software & Network Solutions,Information Technology,4
+780,Nuware Systems,Analyst - Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,8.21,False,4.2,51 to 200 Employees,Information Technology Support Services,Information Technology,7
+781,Schbang Digital Solutions,Business Analyst,Business Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,1.0,2.75,False,3.8,1001 to 5000 Employees,Advertising & Public Relations,Media & Communication,2
+782,G2,Data Scientist II,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,7.01,False,4.5,501 to 1000 Employees,Internet & Web Services,Information Technology,10
+783,Creative Synergies Group,Data Analyst-Power BI,BI Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),9.0,7.62,False,3.8,1001 to 5000 Employees,Software Development,Information Technology,7
+784,ICON,Data & Reporting Analyst II,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,9.1,False,3.8,10000+ Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,5
+785,JPMorgan Chase & Co,Data Quality Associate,Other,No,No,Hyderabad,17.385,78.4867,Office/Other,Senior (5+ yrs),6.0,6.4,False,4.0,10000+ Employees,Banking & Lending,Finance,6
+786,NielsenIQ,Data Processing Analyst,Data Analyst,Yes,No,Chennai,13.0827,80.2707,Office/Other,Not specified,,3.6,False,3.9,10000+ Employees,Information Technology Support Services,Information Technology,2
+787,Maruti Suzuki India Ltd,Data Scientist,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),2.0,,False,3.9,10000+ Employees,Transportation Equipment Manufacturing,Manufacturing,9
+788,SE-Mentor Solutions,Data Analyst,Data Analyst,Yes,No,Kochi,9.9312,76.2673,Office/Other,Senior (5+ yrs),5.0,2.64,False,,51 to 200 Employees,,,6
+789,Firebucks,Data Modeler,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,4.43,False,,1 to 50 Employees,Information Technology Support Services,Information Technology,4
+790,Heads Up For Tails,Inventory Manager- Data Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),,6.91,False,4.3,1001 to 5000 Employees,Pet & Pet Supplies Stores,Retail & Wholesale,2
+791,Amnet Digital,Data Scientist,Data Scientist,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),3.0,4.39,False,4.0,51 to 200 Employees,,,8
+792,The Bridgespan Group,Platform & Data Associate,Data Operations,No,No,Mumbai,19.076,72.8777,Office/Other,Mid (2-4 yrs),2.0,14.0,False,4.2,201 to 500 Employees,"Civic, Welfare & Social Services",Non-profit & NGO,2
+793,Deloitte,Enabling Areas - Data Scientist - AM/DM,Data Scientist,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),4.0,,False,4.1,10000+ Employees,Accounting & Tax,Finance,8
+794,Nestle Operational Services Worldwide SA,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),10.0,5.0,False,4.1,10000+ Employees,Food & Beverage Manufacturing,Manufacturing,9
+795,Coforge Ltd.,DATA ANALYST - SAS,Data Analyst,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Mid (2-4 yrs),4.0,7.82,False,3.6,10000+ Employees,Information Technology Support Services,Information Technology,4
+796,Motive,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,6.16,False,4.0,1001 to 5000 Employees,Software Development,Information Technology,8
+797,DataEconomy,AWS Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Not specified,,8.53,False,4.7,201 to 500 Employees,Information Technology Support Services,Information Technology,5
+798,ADCI - Haryana,"Data Associate I (French), ML Data Ops",ML/AI Engineer,Yes,No,Delhi NCR,28.6139,77.209,Office/Other,Not specified,,3.17,False,3.7,10000+ Employees,Internet & Web Services,Information Technology,3
+799,Innovative Incentives,MIS & Data Analysts,Data Analyst,Yes,No,Mohali,30.7046,76.7179,Office/Other,Mid (2-4 yrs),2.0,4.07,False,3.3,51 to 200 Employees,,,3
+800,Cellworks Research India,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,5.1,False,,51 to 200 Employees,Research & Development,Management & Consulting,9
+801,MOLECULAR CONNECTIONS,Clinical SAS Programmers,Data Operations,No,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,,False,3.7,1001 to 5000 Employees,Healthcare Services & Hospitals,Healthcare,4
+802,Moonpreneur,Data Research Associate,Data Operations,No,No,Delhi NCR,28.6139,77.209,Office/Other,Entry/Fresher,1.0,4.06,False,4.6,51 to 200 Employees,,,2
+803,KRSNAA Diagnostics,Data Analyst,Data Analyst,Yes,No,Pune,18.5204,73.8567,Office/Other,Entry/Fresher,1.0,1.82,False,3.3,Unknown,Medical Testing & Clinical Laboratories,Healthcare,0
+804,Quest Global,Data Analyst,Data Analyst,Yes,No,Belgaum,,,Office/Other,Not specified,,4.15,False,3.7,10000+ Employees,Information Technology Support Services,Information Technology,8
+805,Concentrix,Data Miner Global Analytics,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,4.15,False,4.1,10000+ Employees,Information Technology Support Services,Information Technology,8
+806,Ethnotech Academy,MACHINE LEARNING / DATA SCIENCE TRAINER,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,,False,,51 to 200 Employees,,,5
+807,JPMorgan Chase & Co,CIB-Markets Data Management Associate,Data Operations,No,No,Not specified,,,Office/Other,Senior (5+ yrs),7.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,7
+808,NTT Ltd.,Manager - Data Center Operations,Data Operations,No,No,Not specified,,,Office/Other,Senior (5+ yrs),,,False,4.2,10000+ Employees,Information Technology Support Services,Information Technology,2
+809,Exeliq Consulting,Data Scientist,Data Scientist,Yes,No,Not specified,,,Office/Other,Not specified,,,False,,1 to 50 Employees,,,1
+810,PharmaACE,Data Engineer,Data Engineer,Yes,No,Pune,18.5204,73.8567,Office/Other,Not specified,,4.19,False,3.3,201 to 500 Employees,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,4
+811,Marktine Technology Solutions,Data engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,4.2,51 to 200 Employees,Information Technology Support Services,Information Technology,5
+812,MOLECULAR CONNECTIONS,Statistical Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Not specified,,,False,3.7,1001 to 5000 Employees,Healthcare Services & Hospitals,Healthcare,4
+813,Bombay Play,Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,7.68,False,4.3,51 to 200 Employees,Video Game Publishing,Media & Communication,5
+814,Thoucentric,Data Analyst (Advanced SQL Experience),Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,9.22,False,4.1,201 to 500 Employees,Business Consulting,Management & Consulting,7
+815,Prevalent AI,Data Scientist,Data Scientist,Yes,No,Kochi,9.9312,76.2673,Office/Other,Not specified,,6.92,False,4.8,51 to 200 Employees,Enterprise Software & Network Solutions,Information Technology,11
+816,Citta Solutions,Data Engineer,Data Engineer,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),3.0,,False,3.6,1 to 50 Employees,Enterprise Software & Network Solutions,Information Technology,10
+817,OpsFree,Data Science Intern,Data Scientist,Yes,Yes,Ahmedabad,23.0225,72.5714,Office/Other,Entry/Fresher,,0.9,False,,,,,9
+818,Databricks,Big Data Architect,Data Engineer,Yes,No,Not specified,,,Remote,Senior (5+ yrs),9.0,,False,4.4,5001 to 10000 Employees,Computer Hardware Development,Information Technology,7
+819,Global WeConnect Technologies,Snowflake Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,5.92,False,4.8,1 to 50 Employees,Information Technology Support Services,Information Technology,11
+820,Xcel Hires Management Solution,Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),3.0,20.0,False,,51 to 200 Employees,,,8
+821,IBM,Data Scientist: Artificial Intelligence,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Not specified,,7.48,False,4.2,10000+ Employees,Information Technology Support Services,Information Technology,5
+822,Gain.pro,Private Equity Intelligence - Data Management Analyst,Data Analyst,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Entry/Fresher,0.0,3.85,False,4.0,51 to 200 Employees,Internet & Web Services,Information Technology,1
+823,String Bio,DATA SCIENTIST,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,5.8,False,4.3,1 to 50 Employees,,,7
+824,BSRI Solutions,Data Scientist,Data Scientist,Yes,No,Chennai,13.0827,80.2707,Office/Other,Mid (2-4 yrs),4.0,11.0,False,,1 to 50 Employees,"Staffing, Recruitment & Subcontracting",Human Resources & Staffing,7
+825,JPMorgan Chase & Co,Data and Quality Control Processing - Associate,Other,No,No,Not specified,,,Office/Other,Mid (2-4 yrs),3.0,,False,4.0,10000+ Employees,Banking & Lending,Finance,1
+826,eCloudChain,Data Analyst,Data Analyst,Yes,No,Not specified,,,Remote,Mid (2-4 yrs),2.0,,False,,1 to 50 Employees,,,7
+827,Kpro Solutions,Analytics & Data Science,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Senior (5+ yrs),9.0,4.84,False,4.0,1 to 50 Employees,,,7
+828,Athena Global Technologies,Data Engineer,Data Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Mid (2-4 yrs),4.0,6.79,False,,51 to 200 Employees,,,10
+829,Wesco,India-Bangalore: Data Engineer,Data Engineer,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),2.0,6.52,False,3.7,10000+ Employees,Wholesale,Retail & Wholesale,9
+830,Course5,Data Scientist,Data Scientist,Yes,No,Bengaluru,12.9716,77.5946,Office/Other,Mid (2-4 yrs),4.0,4.24,False,4.2,1001 to 5000 Employees,Business Consulting,Management & Consulting,8
+831,Sanfoundry,Machine Learning Engineer - Fresher,ML/AI Engineer,Yes,No,Hyderabad,17.385,78.4867,Office/Other,Entry/Fresher,0.0,,False,,1 to 50 Employees,Colleges & Universities,Education,5

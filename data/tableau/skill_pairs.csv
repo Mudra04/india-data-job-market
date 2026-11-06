@@ -1,0 +1,2901 @@
+group,skill_1,skill_2,jobs_with_both,group_size,pct_of_group_jobs
+All core roles,Communication,Data Visualization,235,717,32.8
+All core roles,Data Visualization,Communication,235,717,32.8
+All core roles,Communication,ETL/Pipelines,111,717,15.5
+All core roles,ETL/Pipelines,Communication,111,717,15.5
+All core roles,Communication,Excel,141,717,19.7
+All core roles,Excel,Communication,141,717,19.7
+All core roles,Communication,Machine Learning,171,717,23.8
+All core roles,Machine Learning,Communication,171,717,23.8
+All core roles,Communication,Power BI,122,717,17.0
+All core roles,Power BI,Communication,122,717,17.0
+All core roles,Communication,Problem Solving,227,717,31.7
+All core roles,Problem Solving,Communication,227,717,31.7
+All core roles,Communication,Python,280,717,39.1
+All core roles,Python,Communication,280,717,39.1
+All core roles,Communication,SQL,285,717,39.7
+All core roles,SQL,Communication,285,717,39.7
+All core roles,Communication,Statistics,233,717,32.5
+All core roles,Statistics,Communication,233,717,32.5
+All core roles,Data Visualization,ETL/Pipelines,73,717,10.2
+All core roles,ETL/Pipelines,Data Visualization,73,717,10.2
+All core roles,Data Visualization,Excel,99,717,13.8
+All core roles,Excel,Data Visualization,99,717,13.8
+All core roles,Data Visualization,Machine Learning,117,717,16.3
+All core roles,Machine Learning,Data Visualization,117,717,16.3
+All core roles,Data Visualization,Power BI,124,717,17.3
+All core roles,Power BI,Data Visualization,124,717,17.3
+All core roles,Data Visualization,Problem Solving,141,717,19.7
+All core roles,Problem Solving,Data Visualization,141,717,19.7
+All core roles,Data Visualization,Python,204,717,28.5
+All core roles,Python,Data Visualization,204,717,28.5
+All core roles,Data Visualization,SQL,214,717,29.8
+All core roles,SQL,Data Visualization,214,717,29.8
+All core roles,Data Visualization,Statistics,181,717,25.2
+All core roles,Statistics,Data Visualization,181,717,25.2
+All core roles,ETL/Pipelines,Excel,31,717,4.3
+All core roles,Excel,ETL/Pipelines,31,717,4.3
+All core roles,ETL/Pipelines,Machine Learning,53,717,7.4
+All core roles,Machine Learning,ETL/Pipelines,53,717,7.4
+All core roles,ETL/Pipelines,Power BI,51,717,7.1
+All core roles,Power BI,ETL/Pipelines,51,717,7.1
+All core roles,ETL/Pipelines,Problem Solving,74,717,10.3
+All core roles,Problem Solving,ETL/Pipelines,74,717,10.3
+All core roles,ETL/Pipelines,Python,114,717,15.9
+All core roles,Python,ETL/Pipelines,114,717,15.9
+All core roles,ETL/Pipelines,SQL,143,717,19.9
+All core roles,SQL,ETL/Pipelines,143,717,19.9
+All core roles,ETL/Pipelines,Statistics,51,717,7.1
+All core roles,Statistics,ETL/Pipelines,51,717,7.1
+All core roles,Excel,Machine Learning,41,717,5.7
+All core roles,Machine Learning,Excel,41,717,5.7
+All core roles,Excel,Power BI,62,717,8.6
+All core roles,Power BI,Excel,62,717,8.6
+All core roles,Excel,Problem Solving,81,717,11.3
+All core roles,Problem Solving,Excel,81,717,11.3
+All core roles,Excel,Python,83,717,11.6
+All core roles,Python,Excel,83,717,11.6
+All core roles,Excel,SQL,115,717,16.0
+All core roles,SQL,Excel,115,717,16.0
+All core roles,Excel,Statistics,84,717,11.7
+All core roles,Statistics,Excel,84,717,11.7
+All core roles,Machine Learning,Power BI,46,717,6.4
+All core roles,Power BI,Machine Learning,46,717,6.4
+All core roles,Machine Learning,Problem Solving,95,717,13.2
+All core roles,Problem Solving,Machine Learning,95,717,13.2
+All core roles,Machine Learning,Python,220,717,30.7
+All core roles,Python,Machine Learning,220,717,30.7
+All core roles,Machine Learning,SQL,155,717,21.6
+All core roles,SQL,Machine Learning,155,717,21.6
+All core roles,Machine Learning,Statistics,187,717,26.1
+All core roles,Statistics,Machine Learning,187,717,26.1
+All core roles,Power BI,Problem Solving,79,717,11.0
+All core roles,Problem Solving,Power BI,79,717,11.0
+All core roles,Power BI,Python,102,717,14.2
+All core roles,Python,Power BI,102,717,14.2
+All core roles,Power BI,SQL,133,717,18.5
+All core roles,SQL,Power BI,133,717,18.5
+All core roles,Power BI,Statistics,79,717,11.0
+All core roles,Statistics,Power BI,79,717,11.0
+All core roles,Problem Solving,Python,177,717,24.7
+All core roles,Python,Problem Solving,177,717,24.7
+All core roles,Problem Solving,SQL,188,717,26.2
+All core roles,SQL,Problem Solving,188,717,26.2
+All core roles,Problem Solving,Statistics,148,717,20.6
+All core roles,Statistics,Problem Solving,148,717,20.6
+All core roles,Python,SQL,305,717,42.5
+All core roles,SQL,Python,305,717,42.5
+All core roles,Python,Statistics,242,717,33.8
+All core roles,Statistics,Python,242,717,33.8
+All core roles,SQL,Statistics,202,717,28.2
+All core roles,Statistics,SQL,202,717,28.2
+All core roles,Data Visualization,Deep Learning,42,717,5.9
+All core roles,Deep Learning,Data Visualization,42,717,5.9
+All core roles,Data Visualization,R,85,717,11.9
+All core roles,R,Data Visualization,85,717,11.9
+All core roles,Deep Learning,Machine Learning,93,717,13.0
+All core roles,Machine Learning,Deep Learning,93,717,13.0
+All core roles,Deep Learning,Python,87,717,12.1
+All core roles,Python,Deep Learning,87,717,12.1
+All core roles,Deep Learning,R,31,717,4.3
+All core roles,R,Deep Learning,31,717,4.3
+All core roles,Deep Learning,Statistics,81,717,11.3
+All core roles,Statistics,Deep Learning,81,717,11.3
+All core roles,Machine Learning,R,86,717,12.0
+All core roles,R,Machine Learning,86,717,12.0
+All core roles,Python,R,129,717,18.0
+All core roles,R,Python,129,717,18.0
+All core roles,R,Statistics,111,717,15.5
+All core roles,Statistics,R,111,717,15.5
+All core roles,Communication,R,94,717,13.1
+All core roles,R,Communication,94,717,13.1
+All core roles,Communication,SAS/SPSS,35,717,4.9
+All core roles,SAS/SPSS,Communication,35,717,4.9
+All core roles,Problem Solving,R,62,717,8.6
+All core roles,R,Problem Solving,62,717,8.6
+All core roles,Problem Solving,SAS/SPSS,29,717,4.0
+All core roles,SAS/SPSS,Problem Solving,29,717,4.0
+All core roles,Python,SAS/SPSS,41,717,5.7
+All core roles,SAS/SPSS,Python,41,717,5.7
+All core roles,R,SAS/SPSS,25,717,3.5
+All core roles,SAS/SPSS,R,25,717,3.5
+All core roles,SAS/SPSS,Statistics,42,717,5.9
+All core roles,Statistics,SAS/SPSS,42,717,5.9
+All core roles,Communication,Data Warehousing/Modeling,124,717,17.3
+All core roles,Data Warehousing/Modeling,Communication,124,717,17.3
+All core roles,Data Visualization,Data Warehousing/Modeling,86,717,12.0
+All core roles,Data Warehousing/Modeling,Data Visualization,86,717,12.0
+All core roles,Data Warehousing/Modeling,Excel,39,717,5.4
+All core roles,Excel,Data Warehousing/Modeling,39,717,5.4
+All core roles,Data Warehousing/Modeling,Problem Solving,88,717,12.3
+All core roles,Problem Solving,Data Warehousing/Modeling,88,717,12.3
+All core roles,Data Warehousing/Modeling,Python,120,717,16.7
+All core roles,Python,Data Warehousing/Modeling,120,717,16.7
+All core roles,Data Warehousing/Modeling,R,25,717,3.5
+All core roles,R,Data Warehousing/Modeling,25,717,3.5
+All core roles,Data Warehousing/Modeling,SQL,142,717,19.8
+All core roles,SQL,Data Warehousing/Modeling,142,717,19.8
+All core roles,Excel,R,32,717,4.5
+All core roles,R,Excel,32,717,4.5
+All core roles,R,SQL,94,717,13.1
+All core roles,SQL,R,94,717,13.1
+All core roles,Communication,Spark/Big Data,125,717,17.4
+All core roles,Spark/Big Data,Communication,125,717,17.4
+All core roles,Communication,Tableau,133,717,18.5
+All core roles,Tableau,Communication,133,717,18.5
+All core roles,Data Visualization,Spark/Big Data,85,717,11.9
+All core roles,Spark/Big Data,Data Visualization,85,717,11.9
+All core roles,Data Visualization,Tableau,130,717,18.1
+All core roles,Tableau,Data Visualization,130,717,18.1
+All core roles,Data Warehousing/Modeling,ETL/Pipelines,92,717,12.8
+All core roles,ETL/Pipelines,Data Warehousing/Modeling,92,717,12.8
+All core roles,Data Warehousing/Modeling,Machine Learning,56,717,7.8
+All core roles,Machine Learning,Data Warehousing/Modeling,56,717,7.8
+All core roles,Data Warehousing/Modeling,Spark/Big Data,73,717,10.2
+All core roles,Spark/Big Data,Data Warehousing/Modeling,73,717,10.2
+All core roles,Data Warehousing/Modeling,Tableau,51,717,7.1
+All core roles,Tableau,Data Warehousing/Modeling,51,717,7.1
+All core roles,ETL/Pipelines,Spark/Big Data,89,717,12.4
+All core roles,Spark/Big Data,ETL/Pipelines,89,717,12.4
+All core roles,ETL/Pipelines,Tableau,40,717,5.6
+All core roles,Tableau,ETL/Pipelines,40,717,5.6
+All core roles,Excel,Spark/Big Data,27,717,3.8
+All core roles,Spark/Big Data,Excel,27,717,3.8
+All core roles,Excel,Tableau,61,717,8.5
+All core roles,Tableau,Excel,61,717,8.5
+All core roles,Machine Learning,Spark/Big Data,104,717,14.5
+All core roles,Spark/Big Data,Machine Learning,104,717,14.5
+All core roles,Machine Learning,Tableau,57,717,7.9
+All core roles,Tableau,Machine Learning,57,717,7.9
+All core roles,Python,Spark/Big Data,164,717,22.9
+All core roles,Spark/Big Data,Python,164,717,22.9
+All core roles,Python,Tableau,128,717,17.9
+All core roles,Tableau,Python,128,717,17.9
+All core roles,SQL,Spark/Big Data,153,717,21.3
+All core roles,Spark/Big Data,SQL,153,717,21.3
+All core roles,SQL,Tableau,134,717,18.7
+All core roles,Tableau,SQL,134,717,18.7
+All core roles,Spark/Big Data,Tableau,48,717,6.7
+All core roles,Tableau,Spark/Big Data,48,717,6.7
+All core roles,Power BI,Tableau,93,717,13.0
+All core roles,Tableau,Power BI,93,717,13.0
+All core roles,Statistics,Tableau,96,717,13.4
+All core roles,Tableau,Statistics,96,717,13.4
+All core roles,Data Visualization,SAS/SPSS,22,717,3.1
+All core roles,SAS/SPSS,Data Visualization,22,717,3.1
+All core roles,Power BI,SAS/SPSS,13,717,1.8
+All core roles,SAS/SPSS,Power BI,13,717,1.8
+All core roles,Problem Solving,Tableau,86,717,12.0
+All core roles,Tableau,Problem Solving,86,717,12.0
+All core roles,SAS/SPSS,Tableau,22,717,3.1
+All core roles,Tableau,SAS/SPSS,22,717,3.1
+All core roles,Data Warehousing/Modeling,Statistics,74,717,10.3
+All core roles,Statistics,Data Warehousing/Modeling,74,717,10.3
+All core roles,Problem Solving,Spark/Big Data,72,717,10.0
+All core roles,Spark/Big Data,Problem Solving,72,717,10.0
+All core roles,Spark/Big Data,Statistics,98,717,13.7
+All core roles,Statistics,Spark/Big Data,98,717,13.7
+All core roles,Data Visualization,NLP/GenAI,21,717,2.9
+All core roles,NLP/GenAI,Data Visualization,21,717,2.9
+All core roles,Deep Learning,ETL/Pipelines,13,717,1.8
+All core roles,ETL/Pipelines,Deep Learning,13,717,1.8
+All core roles,Deep Learning,NLP/GenAI,39,717,5.4
+All core roles,NLP/GenAI,Deep Learning,39,717,5.4
+All core roles,Deep Learning,Spark/Big Data,46,717,6.4
+All core roles,Spark/Big Data,Deep Learning,46,717,6.4
+All core roles,ETL/Pipelines,NLP/GenAI,10,717,1.4
+All core roles,NLP/GenAI,ETL/Pipelines,10,717,1.4
+All core roles,Machine Learning,NLP/GenAI,57,717,7.9
+All core roles,NLP/GenAI,Machine Learning,57,717,7.9
+All core roles,NLP/GenAI,Python,52,717,7.3
+All core roles,Python,NLP/GenAI,52,717,7.3
+All core roles,NLP/GenAI,Spark/Big Data,26,717,3.6
+All core roles,Spark/Big Data,NLP/GenAI,26,717,3.6
+All core roles,Communication,Deep Learning,60,717,8.4
+All core roles,Deep Learning,Communication,60,717,8.4
+All core roles,Communication,Git/GitHub,27,717,3.8
+All core roles,Git/GitHub,Communication,27,717,3.8
+All core roles,Data Visualization,Git/GitHub,24,717,3.3
+All core roles,Git/GitHub,Data Visualization,24,717,3.3
+All core roles,Deep Learning,Git/GitHub,8,717,1.1
+All core roles,Git/GitHub,Deep Learning,8,717,1.1
+All core roles,Git/GitHub,Machine Learning,21,717,2.9
+All core roles,Machine Learning,Git/GitHub,21,717,2.9
+All core roles,Git/GitHub,Python,34,717,4.7
+All core roles,Python,Git/GitHub,34,717,4.7
+All core roles,Git/GitHub,R,8,717,1.1
+All core roles,R,Git/GitHub,8,717,1.1
+All core roles,Git/GitHub,Spark/Big Data,22,717,3.1
+All core roles,Spark/Big Data,Git/GitHub,22,717,3.1
+All core roles,Git/GitHub,Statistics,24,717,3.3
+All core roles,Statistics,Git/GitHub,24,717,3.3
+All core roles,R,Spark/Big Data,41,717,5.7
+All core roles,Spark/Big Data,R,41,717,5.7
+All core roles,Data Visualization,Pandas/NumPy,27,717,3.8
+All core roles,Pandas/NumPy,Data Visualization,27,717,3.8
+All core roles,Pandas/NumPy,Python,41,717,5.7
+All core roles,Python,Pandas/NumPy,41,717,5.7
+All core roles,Pandas/NumPy,R,10,717,1.4
+All core roles,R,Pandas/NumPy,10,717,1.4
+All core roles,Pandas/NumPy,SQL,30,717,4.2
+All core roles,SQL,Pandas/NumPy,30,717,4.2
+All core roles,Pandas/NumPy,Statistics,31,717,4.3
+All core roles,Statistics,Pandas/NumPy,31,717,4.3
+All core roles,Communication,GCP/BigQuery,30,717,4.2
+All core roles,GCP/BigQuery,Communication,30,717,4.2
+All core roles,Communication,Looker/Qlik,22,717,3.1
+All core roles,Looker/Qlik,Communication,22,717,3.1
+All core roles,Data Visualization,GCP/BigQuery,17,717,2.4
+All core roles,GCP/BigQuery,Data Visualization,17,717,2.4
+All core roles,Data Visualization,Looker/Qlik,23,717,3.2
+All core roles,Looker/Qlik,Data Visualization,23,717,3.2
+All core roles,Data Warehousing/Modeling,GCP/BigQuery,26,717,3.6
+All core roles,GCP/BigQuery,Data Warehousing/Modeling,26,717,3.6
+All core roles,Data Warehousing/Modeling,Looker/Qlik,14,717,2.0
+All core roles,Looker/Qlik,Data Warehousing/Modeling,14,717,2.0
+All core roles,Data Warehousing/Modeling,Power BI,57,717,7.9
+All core roles,Power BI,Data Warehousing/Modeling,57,717,7.9
+All core roles,ETL/Pipelines,GCP/BigQuery,23,717,3.2
+All core roles,GCP/BigQuery,ETL/Pipelines,23,717,3.2
+All core roles,ETL/Pipelines,Looker/Qlik,11,717,1.5
+All core roles,Looker/Qlik,ETL/Pipelines,11,717,1.5
+All core roles,GCP/BigQuery,Looker/Qlik,6,717,0.8
+All core roles,Looker/Qlik,GCP/BigQuery,6,717,0.8
+All core roles,GCP/BigQuery,Power BI,11,717,1.5
+All core roles,Power BI,GCP/BigQuery,11,717,1.5
+All core roles,GCP/BigQuery,Problem Solving,19,717,2.6
+All core roles,Problem Solving,GCP/BigQuery,19,717,2.6
+All core roles,GCP/BigQuery,Python,44,717,6.1
+All core roles,Python,GCP/BigQuery,44,717,6.1
+All core roles,GCP/BigQuery,SQL,39,717,5.4
+All core roles,SQL,GCP/BigQuery,39,717,5.4
+All core roles,GCP/BigQuery,Statistics,22,717,3.1
+All core roles,Statistics,GCP/BigQuery,22,717,3.1
+All core roles,GCP/BigQuery,Tableau,13,717,1.8
+All core roles,Tableau,GCP/BigQuery,13,717,1.8
+All core roles,Looker/Qlik,Power BI,17,717,2.4
+All core roles,Power BI,Looker/Qlik,17,717,2.4
+All core roles,Looker/Qlik,Problem Solving,19,717,2.6
+All core roles,Problem Solving,Looker/Qlik,19,717,2.6
+All core roles,Looker/Qlik,Python,24,717,3.3
+All core roles,Python,Looker/Qlik,24,717,3.3
+All core roles,Looker/Qlik,SQL,26,717,3.6
+All core roles,SQL,Looker/Qlik,26,717,3.6
+All core roles,Looker/Qlik,Statistics,17,717,2.4
+All core roles,Statistics,Looker/Qlik,17,717,2.4
+All core roles,Looker/Qlik,Tableau,22,717,3.1
+All core roles,Tableau,Looker/Qlik,22,717,3.1
+All core roles,Data Warehousing/Modeling,Deep Learning,19,717,2.6
+All core roles,Deep Learning,Data Warehousing/Modeling,19,717,2.6
+All core roles,Data Warehousing/Modeling,SAS/SPSS,15,717,2.1
+All core roles,SAS/SPSS,Data Warehousing/Modeling,15,717,2.1
+All core roles,Deep Learning,Excel,5,717,0.7
+All core roles,Excel,Deep Learning,5,717,0.7
+All core roles,Deep Learning,SAS/SPSS,6,717,0.8
+All core roles,SAS/SPSS,Deep Learning,6,717,0.8
+All core roles,Deep Learning,SQL,51,717,7.1
+All core roles,SQL,Deep Learning,51,717,7.1
+All core roles,Excel,SAS/SPSS,24,717,3.3
+All core roles,SAS/SPSS,Excel,24,717,3.3
+All core roles,SAS/SPSS,SQL,37,717,5.2
+All core roles,SQL,SAS/SPSS,37,717,5.2
+All core roles,AWS,Azure,46,717,6.4
+All core roles,Azure,AWS,46,717,6.4
+All core roles,AWS,Data Warehousing/Modeling,43,717,6.0
+All core roles,Data Warehousing/Modeling,AWS,43,717,6.0
+All core roles,AWS,ETL/Pipelines,52,717,7.3
+All core roles,ETL/Pipelines,AWS,52,717,7.3
+All core roles,AWS,GCP/BigQuery,32,717,4.5
+All core roles,GCP/BigQuery,AWS,32,717,4.5
+All core roles,AWS,Problem Solving,41,717,5.7
+All core roles,Problem Solving,AWS,41,717,5.7
+All core roles,AWS,SQL,78,717,10.9
+All core roles,SQL,AWS,78,717,10.9
+All core roles,AWS,Snowflake,18,717,2.5
+All core roles,Snowflake,AWS,18,717,2.5
+All core roles,AWS,Spark/Big Data,60,717,8.4
+All core roles,Spark/Big Data,AWS,60,717,8.4
+All core roles,Azure,Data Warehousing/Modeling,41,717,5.7
+All core roles,Data Warehousing/Modeling,Azure,41,717,5.7
+All core roles,Azure,ETL/Pipelines,49,717,6.8
+All core roles,ETL/Pipelines,Azure,49,717,6.8
+All core roles,Azure,GCP/BigQuery,27,717,3.8
+All core roles,GCP/BigQuery,Azure,27,717,3.8
+All core roles,Azure,Problem Solving,34,717,4.7
+All core roles,Problem Solving,Azure,34,717,4.7
+All core roles,Azure,SQL,75,717,10.5
+All core roles,SQL,Azure,75,717,10.5
+All core roles,Azure,Snowflake,20,717,2.8
+All core roles,Snowflake,Azure,20,717,2.8
+All core roles,Azure,Spark/Big Data,57,717,7.9
+All core roles,Spark/Big Data,Azure,57,717,7.9
+All core roles,Data Warehousing/Modeling,Snowflake,29,717,4.0
+All core roles,Snowflake,Data Warehousing/Modeling,29,717,4.0
+All core roles,ETL/Pipelines,Snowflake,32,717,4.5
+All core roles,Snowflake,ETL/Pipelines,32,717,4.5
+All core roles,GCP/BigQuery,Snowflake,9,717,1.3
+All core roles,Snowflake,GCP/BigQuery,9,717,1.3
+All core roles,GCP/BigQuery,Spark/Big Data,27,717,3.8
+All core roles,Spark/Big Data,GCP/BigQuery,27,717,3.8
+All core roles,Problem Solving,Snowflake,18,717,2.5
+All core roles,Snowflake,Problem Solving,18,717,2.5
+All core roles,SQL,Snowflake,38,717,5.3
+All core roles,Snowflake,SQL,38,717,5.3
+All core roles,Snowflake,Spark/Big Data,22,717,3.1
+All core roles,Spark/Big Data,Snowflake,22,717,3.1
+All core roles,Communication,Pandas/NumPy,28,717,3.9
+All core roles,Pandas/NumPy,Communication,28,717,3.9
+All core roles,Data Warehousing/Modeling,Pandas/NumPy,13,717,1.8
+All core roles,Pandas/NumPy,Data Warehousing/Modeling,13,717,1.8
+All core roles,Machine Learning,Pandas/NumPy,34,717,4.7
+All core roles,Pandas/NumPy,Machine Learning,34,717,4.7
+All core roles,Deep Learning,Pandas/NumPy,22,717,3.1
+All core roles,Pandas/NumPy,Deep Learning,22,717,3.1
+All core roles,ETL/Pipelines,Pandas/NumPy,10,717,1.4
+All core roles,Pandas/NumPy,ETL/Pipelines,10,717,1.4
+All core roles,Pandas/NumPy,Spark/Big Data,18,717,2.5
+All core roles,Spark/Big Data,Pandas/NumPy,18,717,2.5
+All core roles,SAS/SPSS,Spark/Big Data,17,717,2.4
+All core roles,Spark/Big Data,SAS/SPSS,17,717,2.4
+All core roles,AWS,Git/GitHub,11,717,1.5
+All core roles,Git/GitHub,AWS,11,717,1.5
+All core roles,AWS,Machine Learning,53,717,7.4
+All core roles,Machine Learning,AWS,53,717,7.4
+All core roles,AWS,Python,87,717,12.1
+All core roles,Python,AWS,87,717,12.1
+All core roles,AWS,R,20,717,2.8
+All core roles,R,AWS,20,717,2.8
+All core roles,AWS,Statistics,43,717,6.0
+All core roles,Statistics,AWS,43,717,6.0
+All core roles,Git/GitHub,SQL,38,717,5.3
+All core roles,SQL,Git/GitHub,38,717,5.3
+All core roles,Power BI,R,40,717,5.6
+All core roles,R,Power BI,40,717,5.6
+All core roles,R,Tableau,50,717,7.0
+All core roles,Tableau,R,50,717,7.0
+All core roles,Communication,VBA/Macros,21,717,2.9
+All core roles,VBA/Macros,Communication,21,717,2.9
+All core roles,Data Visualization,VBA/Macros,17,717,2.4
+All core roles,VBA/Macros,Data Visualization,17,717,2.4
+All core roles,Excel,VBA/Macros,21,717,2.9
+All core roles,VBA/Macros,Excel,21,717,2.9
+All core roles,Power BI,VBA/Macros,13,717,1.8
+All core roles,VBA/Macros,Power BI,13,717,1.8
+All core roles,Tableau,VBA/Macros,9,717,1.3
+All core roles,VBA/Macros,Tableau,9,717,1.3
+All core roles,Deep Learning,Problem Solving,40,717,5.6
+All core roles,Problem Solving,Deep Learning,40,717,5.6
+All core roles,ETL/Pipelines,R,11,717,1.5
+All core roles,R,ETL/Pipelines,11,717,1.5
+All core roles,ETL/Pipelines,SAS/SPSS,6,717,0.8
+All core roles,SAS/SPSS,ETL/Pipelines,6,717,0.8
+All core roles,AWS,Communication,65,717,9.1
+All core roles,Communication,AWS,65,717,9.1
+All core roles,AWS,Data Visualization,34,717,4.7
+All core roles,Data Visualization,AWS,34,717,4.7
+All core roles,AWS,Deep Learning,24,717,3.3
+All core roles,Deep Learning,AWS,24,717,3.3
+All core roles,AWS,NLP/GenAI,16,717,2.2
+All core roles,NLP/GenAI,AWS,16,717,2.2
+All core roles,AWS,Tableau,20,717,2.8
+All core roles,Tableau,AWS,20,717,2.8
+All core roles,Azure,Communication,52,717,7.3
+All core roles,Communication,Azure,52,717,7.3
+All core roles,Azure,Data Visualization,29,717,4.0
+All core roles,Data Visualization,Azure,29,717,4.0
+All core roles,Azure,Deep Learning,20,717,2.8
+All core roles,Deep Learning,Azure,20,717,2.8
+All core roles,Azure,Machine Learning,35,717,4.9
+All core roles,Machine Learning,Azure,35,717,4.9
+All core roles,Azure,NLP/GenAI,13,717,1.8
+All core roles,NLP/GenAI,Azure,13,717,1.8
+All core roles,Azure,Python,67,717,9.3
+All core roles,Python,Azure,67,717,9.3
+All core roles,Azure,R,15,717,2.1
+All core roles,R,Azure,15,717,2.1
+All core roles,Azure,Statistics,36,717,5.0
+All core roles,Statistics,Azure,36,717,5.0
+All core roles,Azure,Tableau,19,717,2.6
+All core roles,Tableau,Azure,19,717,2.6
+All core roles,Communication,NLP/GenAI,39,717,5.4
+All core roles,NLP/GenAI,Communication,39,717,5.4
+All core roles,Deep Learning,GCP/BigQuery,13,717,1.8
+All core roles,GCP/BigQuery,Deep Learning,13,717,1.8
+All core roles,Deep Learning,Tableau,16,717,2.2
+All core roles,Tableau,Deep Learning,16,717,2.2
+All core roles,GCP/BigQuery,Machine Learning,25,717,3.5
+All core roles,Machine Learning,GCP/BigQuery,25,717,3.5
+All core roles,GCP/BigQuery,NLP/GenAI,8,717,1.1
+All core roles,NLP/GenAI,GCP/BigQuery,8,717,1.1
+All core roles,GCP/BigQuery,R,10,717,1.4
+All core roles,R,GCP/BigQuery,10,717,1.4
+All core roles,NLP/GenAI,R,14,717,2.0
+All core roles,R,NLP/GenAI,14,717,2.0
+All core roles,NLP/GenAI,SQL,32,717,4.5
+All core roles,SQL,NLP/GenAI,32,717,4.5
+All core roles,NLP/GenAI,Statistics,43,717,6.0
+All core roles,Statistics,NLP/GenAI,43,717,6.0
+All core roles,NLP/GenAI,Tableau,13,717,1.8
+All core roles,Tableau,NLP/GenAI,13,717,1.8
+All core roles,Communication,DAX/Power Query,11,717,1.5
+All core roles,DAX/Power Query,Communication,11,717,1.5
+All core roles,Communication,Snowflake,30,717,4.2
+All core roles,Snowflake,Communication,30,717,4.2
+All core roles,DAX/Power Query,Data Visualization,14,717,2.0
+All core roles,Data Visualization,DAX/Power Query,14,717,2.0
+All core roles,DAX/Power Query,ETL/Pipelines,4,717,0.6
+All core roles,ETL/Pipelines,DAX/Power Query,4,717,0.6
+All core roles,DAX/Power Query,Excel,6,717,0.8
+All core roles,Excel,DAX/Power Query,6,717,0.8
+All core roles,DAX/Power Query,Power BI,18,717,2.5
+All core roles,Power BI,DAX/Power Query,18,717,2.5
+All core roles,DAX/Power Query,Problem Solving,9,717,1.3
+All core roles,Problem Solving,DAX/Power Query,9,717,1.3
+All core roles,DAX/Power Query,SQL,17,717,2.4
+All core roles,SQL,DAX/Power Query,17,717,2.4
+All core roles,DAX/Power Query,Snowflake,4,717,0.6
+All core roles,Snowflake,DAX/Power Query,4,717,0.6
+All core roles,DAX/Power Query,Statistics,2,717,0.3
+All core roles,Statistics,DAX/Power Query,2,717,0.3
+All core roles,Data Visualization,Snowflake,12,717,1.7
+All core roles,Snowflake,Data Visualization,12,717,1.7
+All core roles,Excel,Snowflake,7,717,1.0
+All core roles,Snowflake,Excel,7,717,1.0
+All core roles,Power BI,Snowflake,17,717,2.4
+All core roles,Snowflake,Power BI,17,717,2.4
+All core roles,Snowflake,Statistics,9,717,1.3
+All core roles,Statistics,Snowflake,9,717,1.3
+All core roles,Looker/Qlik,Spark/Big Data,11,717,1.5
+All core roles,Spark/Big Data,Looker/Qlik,11,717,1.5
+All core roles,Power BI,Spark/Big Data,41,717,5.7
+All core roles,Spark/Big Data,Power BI,41,717,5.7
+All core roles,Azure,Git/GitHub,12,717,1.7
+All core roles,Git/GitHub,Azure,12,717,1.7
+All core roles,Azure,Pandas/NumPy,6,717,0.8
+All core roles,Pandas/NumPy,Azure,6,717,0.8
+All core roles,ETL/Pipelines,Git/GitHub,23,717,3.2
+All core roles,Git/GitHub,ETL/Pipelines,23,717,3.2
+All core roles,Git/GitHub,Pandas/NumPy,8,717,1.1
+All core roles,Pandas/NumPy,Git/GitHub,8,717,1.1
+All core roles,Git/GitHub,Problem Solving,17,717,2.4
+All core roles,Problem Solving,Git/GitHub,17,717,2.4
+All core roles,Pandas/NumPy,Problem Solving,18,717,2.5
+All core roles,Problem Solving,Pandas/NumPy,18,717,2.5
+All core roles,Excel,Looker/Qlik,12,717,1.7
+All core roles,Looker/Qlik,Excel,12,717,1.7
+All core roles,Excel,GCP/BigQuery,7,717,1.0
+All core roles,GCP/BigQuery,Excel,7,717,1.0
+All core roles,Git/GitHub,NLP/GenAI,5,717,0.7
+All core roles,NLP/GenAI,Git/GitHub,5,717,0.7
+All core roles,Git/GitHub,Tableau,10,717,1.4
+All core roles,Tableau,Git/GitHub,10,717,1.4
+All core roles,NLP/GenAI,Pandas/NumPy,9,717,1.3
+All core roles,Pandas/NumPy,NLP/GenAI,9,717,1.3
+All core roles,Pandas/NumPy,Tableau,12,717,1.7
+All core roles,Tableau,Pandas/NumPy,12,717,1.7
+All core roles,AWS,Excel,7,717,1.0
+All core roles,Excel,AWS,7,717,1.0
+All core roles,Azure,Excel,7,717,1.0
+All core roles,Excel,Azure,7,717,1.0
+All core roles,Azure,Power BI,31,717,4.3
+All core roles,Power BI,Azure,31,717,4.3
+All core roles,Data Warehousing/Modeling,VBA/Macros,5,717,0.7
+All core roles,VBA/Macros,Data Warehousing/Modeling,5,717,0.7
+All core roles,Python,VBA/Macros,11,717,1.5
+All core roles,VBA/Macros,Python,11,717,1.5
+All core roles,SQL,VBA/Macros,18,717,2.5
+All core roles,VBA/Macros,SQL,18,717,2.5
+All core roles,AWS,Power BI,13,717,1.8
+All core roles,Power BI,AWS,13,717,1.8
+All core roles,Data Warehousing/Modeling,Git/GitHub,18,717,2.5
+All core roles,Git/GitHub,Data Warehousing/Modeling,18,717,2.5
+All core roles,Git/GitHub,Snowflake,9,717,1.3
+All core roles,Snowflake,Git/GitHub,9,717,1.3
+All core roles,Python,Snowflake,31,717,4.3
+All core roles,Snowflake,Python,31,717,4.3
+All core roles,GCP/BigQuery,Git/GitHub,6,717,0.8
+All core roles,Git/GitHub,GCP/BigQuery,6,717,0.8
+All core roles,Looker/Qlik,R,10,717,1.4
+All core roles,R,Looker/Qlik,10,717,1.4
+All core roles,Looker/Qlik,Snowflake,4,717,0.6
+All core roles,Snowflake,Looker/Qlik,4,717,0.6
+All core roles,R,Snowflake,2,717,0.3
+All core roles,Snowflake,R,2,717,0.3
+All core roles,Snowflake,Tableau,11,717,1.5
+All core roles,Tableau,Snowflake,11,717,1.5
+All core roles,NLP/GenAI,Problem Solving,23,717,3.2
+All core roles,Problem Solving,NLP/GenAI,23,717,3.2
+All core roles,DAX/Power Query,Data Warehousing/Modeling,12,717,1.7
+All core roles,Data Warehousing/Modeling,DAX/Power Query,12,717,1.7
+All core roles,Machine Learning,SAS/SPSS,20,717,2.8
+All core roles,SAS/SPSS,Machine Learning,20,717,2.8
+All core roles,Git/GitHub,Power BI,10,717,1.4
+All core roles,Power BI,Git/GitHub,10,717,1.4
+All core roles,Problem Solving,VBA/Macros,10,717,1.4
+All core roles,VBA/Macros,Problem Solving,10,717,1.4
+All core roles,Statistics,VBA/Macros,9,717,1.3
+All core roles,VBA/Macros,Statistics,9,717,1.3
+All core roles,Azure,Looker/Qlik,6,717,0.8
+All core roles,Looker/Qlik,Azure,6,717,0.8
+All core roles,Deep Learning,Looker/Qlik,3,717,0.4
+All core roles,Looker/Qlik,Deep Learning,3,717,0.4
+All core roles,Deep Learning,Power BI,9,717,1.3
+All core roles,Power BI,Deep Learning,9,717,1.3
+All core roles,Git/GitHub,Looker/Qlik,4,717,0.6
+All core roles,Looker/Qlik,Git/GitHub,4,717,0.6
+All core roles,Looker/Qlik,Pandas/NumPy,4,717,0.6
+All core roles,Pandas/NumPy,Looker/Qlik,4,717,0.6
+All core roles,Pandas/NumPy,Power BI,7,717,1.0
+All core roles,Power BI,Pandas/NumPy,7,717,1.0
+All core roles,DAX/Power Query,Python,5,717,0.7
+All core roles,Python,DAX/Power Query,5,717,0.7
+All core roles,DAX/Power Query,Tableau,3,717,0.4
+All core roles,Tableau,DAX/Power Query,3,717,0.4
+All core roles,Machine Learning,Snowflake,10,717,1.4
+All core roles,Snowflake,Machine Learning,10,717,1.4
+All core roles,Azure,VBA/Macros,2,717,0.3
+All core roles,VBA/Macros,Azure,2,717,0.3
+All core roles,Data Warehousing/Modeling,NLP/GenAI,13,717,1.8
+All core roles,NLP/GenAI,Data Warehousing/Modeling,13,717,1.8
+All core roles,ETL/Pipelines,VBA/Macros,5,717,0.7
+All core roles,VBA/Macros,ETL/Pipelines,5,717,0.7
+All core roles,Excel,NLP/GenAI,1,717,0.1
+All core roles,NLP/GenAI,Excel,1,717,0.1
+All core roles,Machine Learning,VBA/Macros,4,717,0.6
+All core roles,VBA/Macros,Machine Learning,4,717,0.6
+All core roles,NLP/GenAI,Power BI,7,717,1.0
+All core roles,Power BI,NLP/GenAI,7,717,1.0
+All core roles,NLP/GenAI,Snowflake,3,717,0.4
+All core roles,Snowflake,NLP/GenAI,3,717,0.4
+All core roles,NLP/GenAI,VBA/Macros,1,717,0.1
+All core roles,VBA/Macros,NLP/GenAI,1,717,0.1
+All core roles,R,VBA/Macros,5,717,0.7
+All core roles,VBA/Macros,R,5,717,0.7
+All core roles,Snowflake,VBA/Macros,2,717,0.3
+All core roles,VBA/Macros,Snowflake,2,717,0.3
+All core roles,AWS,Looker/Qlik,6,717,0.8
+All core roles,Looker/Qlik,AWS,6,717,0.8
+All core roles,DAX/Power Query,VBA/Macros,2,717,0.3
+All core roles,VBA/Macros,DAX/Power Query,2,717,0.3
+All core roles,DAX/Power Query,GCP/BigQuery,2,717,0.3
+All core roles,GCP/BigQuery,DAX/Power Query,2,717,0.3
+All core roles,AWS,Pandas/NumPy,9,717,1.3
+All core roles,Pandas/NumPy,AWS,9,717,1.3
+All core roles,GCP/BigQuery,Pandas/NumPy,4,717,0.6
+All core roles,Pandas/NumPy,GCP/BigQuery,4,717,0.6
+All core roles,Excel,Git/GitHub,4,717,0.6
+All core roles,Git/GitHub,Excel,4,717,0.6
+All core roles,AWS,SAS/SPSS,5,717,0.7
+All core roles,SAS/SPSS,AWS,5,717,0.7
+All core roles,AWS,VBA/Macros,3,717,0.4
+All core roles,VBA/Macros,AWS,3,717,0.4
+All core roles,Looker/Qlik,Machine Learning,8,717,1.1
+All core roles,Machine Learning,Looker/Qlik,8,717,1.1
+All core roles,Looker/Qlik,SAS/SPSS,6,717,0.8
+All core roles,SAS/SPSS,Looker/Qlik,6,717,0.8
+All core roles,Looker/Qlik,VBA/Macros,2,717,0.3
+All core roles,VBA/Macros,Looker/Qlik,2,717,0.3
+All core roles,SAS/SPSS,VBA/Macros,3,717,0.4
+All core roles,VBA/Macros,SAS/SPSS,3,717,0.4
+All core roles,Spark/Big Data,VBA/Macros,3,717,0.4
+All core roles,VBA/Macros,Spark/Big Data,3,717,0.4
+All core roles,Looker/Qlik,NLP/GenAI,2,717,0.3
+All core roles,NLP/GenAI,Looker/Qlik,2,717,0.3
+All core roles,Deep Learning,Snowflake,2,717,0.3
+All core roles,Snowflake,Deep Learning,2,717,0.3
+All core roles,Excel,Pandas/NumPy,7,717,1.0
+All core roles,Pandas/NumPy,Excel,7,717,1.0
+All core roles,Pandas/NumPy,SAS/SPSS,3,717,0.4
+All core roles,SAS/SPSS,Pandas/NumPy,3,717,0.4
+All core roles,GCP/BigQuery,SAS/SPSS,4,717,0.6
+All core roles,SAS/SPSS,GCP/BigQuery,4,717,0.6
+All core roles,SAS/SPSS,Snowflake,3,717,0.4
+All core roles,Snowflake,SAS/SPSS,3,717,0.4
+All core roles,Azure,SAS/SPSS,2,717,0.3
+All core roles,SAS/SPSS,Azure,2,717,0.3
+All core roles,NLP/GenAI,SAS/SPSS,3,717,0.4
+All core roles,SAS/SPSS,NLP/GenAI,3,717,0.4
+All core roles,DAX/Power Query,Machine Learning,1,717,0.1
+All core roles,Machine Learning,DAX/Power Query,1,717,0.1
+All core roles,Azure,DAX/Power Query,3,717,0.4
+All core roles,DAX/Power Query,Azure,3,717,0.4
+All core roles,DAX/Power Query,Spark/Big Data,2,717,0.3
+All core roles,Spark/Big Data,DAX/Power Query,2,717,0.3
+All core roles,Git/GitHub,SAS/SPSS,2,717,0.3
+All core roles,SAS/SPSS,Git/GitHub,2,717,0.3
+All core roles,Pandas/NumPy,Snowflake,1,717,0.1
+All core roles,Snowflake,Pandas/NumPy,1,717,0.1
+All core roles,DAX/Power Query,Git/GitHub,2,717,0.3
+All core roles,Git/GitHub,DAX/Power Query,2,717,0.3
+BI Analyst,DAX/Power Query,Data Visualization,7,15,46.7
+BI Analyst,Data Visualization,DAX/Power Query,7,15,46.7
+BI Analyst,DAX/Power Query,Data Warehousing/Modeling,5,15,33.3
+BI Analyst,Data Warehousing/Modeling,DAX/Power Query,5,15,33.3
+BI Analyst,DAX/Power Query,Excel,1,15,6.7
+BI Analyst,Excel,DAX/Power Query,1,15,6.7
+BI Analyst,DAX/Power Query,Power BI,8,15,53.3
+BI Analyst,Power BI,DAX/Power Query,8,15,53.3
+BI Analyst,DAX/Power Query,Problem Solving,4,15,26.7
+BI Analyst,Problem Solving,DAX/Power Query,4,15,26.7
+BI Analyst,DAX/Power Query,SQL,7,15,46.7
+BI Analyst,SQL,DAX/Power Query,7,15,46.7
+BI Analyst,Data Visualization,Data Warehousing/Modeling,5,15,33.3
+BI Analyst,Data Warehousing/Modeling,Data Visualization,5,15,33.3
+BI Analyst,Data Visualization,Excel,2,15,13.3
+BI Analyst,Excel,Data Visualization,2,15,13.3
+BI Analyst,Data Visualization,Power BI,10,15,66.7
+BI Analyst,Power BI,Data Visualization,10,15,66.7
+BI Analyst,Data Visualization,Problem Solving,5,15,33.3
+BI Analyst,Problem Solving,Data Visualization,5,15,33.3
+BI Analyst,Data Visualization,SQL,9,15,60.0
+BI Analyst,SQL,Data Visualization,9,15,60.0
+BI Analyst,Data Warehousing/Modeling,Excel,1,15,6.7
+BI Analyst,Excel,Data Warehousing/Modeling,1,15,6.7
+BI Analyst,Data Warehousing/Modeling,Power BI,6,15,40.0
+BI Analyst,Power BI,Data Warehousing/Modeling,6,15,40.0
+BI Analyst,Data Warehousing/Modeling,Problem Solving,3,15,20.0
+BI Analyst,Problem Solving,Data Warehousing/Modeling,3,15,20.0
+BI Analyst,Data Warehousing/Modeling,SQL,5,15,33.3
+BI Analyst,SQL,Data Warehousing/Modeling,5,15,33.3
+BI Analyst,Excel,Power BI,3,15,20.0
+BI Analyst,Power BI,Excel,3,15,20.0
+BI Analyst,Excel,Problem Solving,2,15,13.3
+BI Analyst,Problem Solving,Excel,2,15,13.3
+BI Analyst,Excel,SQL,2,15,13.3
+BI Analyst,SQL,Excel,2,15,13.3
+BI Analyst,Power BI,Problem Solving,7,15,46.7
+BI Analyst,Problem Solving,Power BI,7,15,46.7
+BI Analyst,Power BI,SQL,11,15,73.3
+BI Analyst,SQL,Power BI,11,15,73.3
+BI Analyst,Problem Solving,SQL,5,15,33.3
+BI Analyst,SQL,Problem Solving,5,15,33.3
+BI Analyst,Communication,DAX/Power Query,4,15,26.7
+BI Analyst,DAX/Power Query,Communication,4,15,26.7
+BI Analyst,Communication,Data Visualization,7,15,46.7
+BI Analyst,Data Visualization,Communication,7,15,46.7
+BI Analyst,Communication,Data Warehousing/Modeling,3,15,20.0
+BI Analyst,Data Warehousing/Modeling,Communication,3,15,20.0
+BI Analyst,Communication,Power BI,8,15,53.3
+BI Analyst,Power BI,Communication,8,15,53.3
+BI Analyst,Communication,Problem Solving,4,15,26.7
+BI Analyst,Problem Solving,Communication,4,15,26.7
+BI Analyst,Communication,SQL,7,15,46.7
+BI Analyst,SQL,Communication,7,15,46.7
+BI Analyst,Communication,Tableau,3,15,20.0
+BI Analyst,Tableau,Communication,3,15,20.0
+BI Analyst,DAX/Power Query,Tableau,1,15,6.7
+BI Analyst,Tableau,DAX/Power Query,1,15,6.7
+BI Analyst,Data Visualization,Tableau,3,15,20.0
+BI Analyst,Tableau,Data Visualization,3,15,20.0
+BI Analyst,Data Warehousing/Modeling,Tableau,1,15,6.7
+BI Analyst,Tableau,Data Warehousing/Modeling,1,15,6.7
+BI Analyst,Power BI,Tableau,4,15,26.7
+BI Analyst,Tableau,Power BI,4,15,26.7
+BI Analyst,Problem Solving,Tableau,3,15,20.0
+BI Analyst,Tableau,Problem Solving,3,15,20.0
+BI Analyst,SQL,Tableau,3,15,20.0
+BI Analyst,Tableau,SQL,3,15,20.0
+BI Analyst,Communication,Machine Learning,2,15,13.3
+BI Analyst,Machine Learning,Communication,2,15,13.3
+BI Analyst,Communication,Spark/Big Data,2,15,13.3
+BI Analyst,Spark/Big Data,Communication,2,15,13.3
+BI Analyst,Communication,Statistics,3,15,20.0
+BI Analyst,Statistics,Communication,3,15,20.0
+BI Analyst,Machine Learning,Spark/Big Data,1,15,6.7
+BI Analyst,Spark/Big Data,Machine Learning,1,15,6.7
+BI Analyst,Machine Learning,Statistics,2,15,13.3
+BI Analyst,Statistics,Machine Learning,2,15,13.3
+BI Analyst,Spark/Big Data,Statistics,1,15,6.7
+BI Analyst,Statistics,Spark/Big Data,1,15,6.7
+BI Analyst,Excel,Statistics,2,15,13.3
+BI Analyst,Statistics,Excel,2,15,13.3
+BI Analyst,Excel,Tableau,2,15,13.3
+BI Analyst,Tableau,Excel,2,15,13.3
+BI Analyst,Power BI,Statistics,3,15,20.0
+BI Analyst,Statistics,Power BI,3,15,20.0
+BI Analyst,Problem Solving,Statistics,1,15,6.7
+BI Analyst,Statistics,Problem Solving,1,15,6.7
+BI Analyst,Statistics,Tableau,2,15,13.3
+BI Analyst,Tableau,Statistics,2,15,13.3
+BI Analyst,Communication,ETL/Pipelines,1,15,6.7
+BI Analyst,ETL/Pipelines,Communication,1,15,6.7
+BI Analyst,ETL/Pipelines,Power BI,1,15,6.7
+BI Analyst,Power BI,ETL/Pipelines,1,15,6.7
+BI Analyst,ETL/Pipelines,Problem Solving,1,15,6.7
+BI Analyst,Problem Solving,ETL/Pipelines,1,15,6.7
+BI Analyst,ETL/Pipelines,SQL,1,15,6.7
+BI Analyst,SQL,ETL/Pipelines,1,15,6.7
+BI Analyst,ETL/Pipelines,Spark/Big Data,1,15,6.7
+BI Analyst,Spark/Big Data,ETL/Pipelines,1,15,6.7
+BI Analyst,Power BI,Spark/Big Data,1,15,6.7
+BI Analyst,Spark/Big Data,Power BI,1,15,6.7
+BI Analyst,Problem Solving,Spark/Big Data,1,15,6.7
+BI Analyst,Spark/Big Data,Problem Solving,1,15,6.7
+BI Analyst,SQL,Spark/Big Data,1,15,6.7
+BI Analyst,Spark/Big Data,SQL,1,15,6.7
+BI Analyst,DAX/Power Query,Python,2,15,13.3
+BI Analyst,Python,DAX/Power Query,2,15,13.3
+BI Analyst,Data Visualization,Python,4,15,26.7
+BI Analyst,Python,Data Visualization,4,15,26.7
+BI Analyst,Power BI,Python,5,15,33.3
+BI Analyst,Python,Power BI,5,15,33.3
+BI Analyst,Problem Solving,Python,2,15,13.3
+BI Analyst,Python,Problem Solving,2,15,13.3
+BI Analyst,Python,SQL,4,15,26.7
+BI Analyst,SQL,Python,4,15,26.7
+BI Analyst,Communication,Python,3,15,20.0
+BI Analyst,Python,Communication,3,15,20.0
+BI Analyst,Communication,R,2,15,13.3
+BI Analyst,R,Communication,2,15,13.3
+BI Analyst,Data Visualization,R,2,15,13.3
+BI Analyst,R,Data Visualization,2,15,13.3
+BI Analyst,Power BI,R,2,15,13.3
+BI Analyst,R,Power BI,2,15,13.3
+BI Analyst,Problem Solving,R,1,15,6.7
+BI Analyst,R,Problem Solving,1,15,6.7
+BI Analyst,Python,R,2,15,13.3
+BI Analyst,R,Python,2,15,13.3
+BI Analyst,Python,Tableau,2,15,13.3
+BI Analyst,Tableau,Python,2,15,13.3
+BI Analyst,R,SQL,2,15,13.3
+BI Analyst,SQL,R,2,15,13.3
+BI Analyst,R,Tableau,2,15,13.3
+BI Analyst,Tableau,R,2,15,13.3
+BI Analyst,DAX/Power Query,Snowflake,1,15,6.7
+BI Analyst,Snowflake,DAX/Power Query,1,15,6.7
+BI Analyst,Data Warehousing/Modeling,Snowflake,1,15,6.7
+BI Analyst,Snowflake,Data Warehousing/Modeling,1,15,6.7
+BI Analyst,Power BI,Snowflake,1,15,6.7
+BI Analyst,Snowflake,Power BI,1,15,6.7
+BI Analyst,SQL,Snowflake,1,15,6.7
+BI Analyst,Snowflake,SQL,1,15,6.7
+BI Analyst,DAX/Power Query,Machine Learning,1,15,6.7
+BI Analyst,Machine Learning,DAX/Power Query,1,15,6.7
+BI Analyst,DAX/Power Query,Statistics,1,15,6.7
+BI Analyst,Statistics,DAX/Power Query,1,15,6.7
+BI Analyst,Data Visualization,Machine Learning,1,15,6.7
+BI Analyst,Machine Learning,Data Visualization,1,15,6.7
+BI Analyst,Data Visualization,Statistics,2,15,13.3
+BI Analyst,Statistics,Data Visualization,2,15,13.3
+BI Analyst,Machine Learning,Power BI,1,15,6.7
+BI Analyst,Power BI,Machine Learning,1,15,6.7
+BI Analyst,Machine Learning,Python,1,15,6.7
+BI Analyst,Python,Machine Learning,1,15,6.7
+BI Analyst,Machine Learning,SQL,1,15,6.7
+BI Analyst,SQL,Machine Learning,1,15,6.7
+BI Analyst,Python,Statistics,2,15,13.3
+BI Analyst,Statistics,Python,2,15,13.3
+BI Analyst,SQL,Statistics,2,15,13.3
+BI Analyst,Statistics,SQL,2,15,13.3
+BI Analyst,Communication,Excel,1,15,6.7
+BI Analyst,Excel,Communication,1,15,6.7
+BI Analyst,Communication,SAS/SPSS,1,15,6.7
+BI Analyst,SAS/SPSS,Communication,1,15,6.7
+BI Analyst,Data Visualization,SAS/SPSS,1,15,6.7
+BI Analyst,SAS/SPSS,Data Visualization,1,15,6.7
+BI Analyst,Excel,Python,1,15,6.7
+BI Analyst,Python,Excel,1,15,6.7
+BI Analyst,Excel,R,1,15,6.7
+BI Analyst,R,Excel,1,15,6.7
+BI Analyst,Excel,SAS/SPSS,1,15,6.7
+BI Analyst,SAS/SPSS,Excel,1,15,6.7
+BI Analyst,Power BI,SAS/SPSS,1,15,6.7
+BI Analyst,SAS/SPSS,Power BI,1,15,6.7
+BI Analyst,Python,SAS/SPSS,1,15,6.7
+BI Analyst,SAS/SPSS,Python,1,15,6.7
+BI Analyst,R,SAS/SPSS,1,15,6.7
+BI Analyst,SAS/SPSS,R,1,15,6.7
+BI Analyst,R,Statistics,1,15,6.7
+BI Analyst,Statistics,R,1,15,6.7
+BI Analyst,SAS/SPSS,SQL,1,15,6.7
+BI Analyst,SQL,SAS/SPSS,1,15,6.7
+BI Analyst,SAS/SPSS,Statistics,1,15,6.7
+BI Analyst,Statistics,SAS/SPSS,1,15,6.7
+BI Analyst,SAS/SPSS,Tableau,1,15,6.7
+BI Analyst,Tableau,SAS/SPSS,1,15,6.7
+BI Analyst,Azure,DAX/Power Query,1,15,6.7
+BI Analyst,DAX/Power Query,Azure,1,15,6.7
+BI Analyst,Azure,Data Visualization,1,15,6.7
+BI Analyst,Data Visualization,Azure,1,15,6.7
+BI Analyst,Azure,Data Warehousing/Modeling,1,15,6.7
+BI Analyst,Data Warehousing/Modeling,Azure,1,15,6.7
+BI Analyst,Azure,Git/GitHub,1,15,6.7
+BI Analyst,Git/GitHub,Azure,1,15,6.7
+BI Analyst,Azure,Power BI,1,15,6.7
+BI Analyst,Power BI,Azure,1,15,6.7
+BI Analyst,Azure,SQL,1,15,6.7
+BI Analyst,SQL,Azure,1,15,6.7
+BI Analyst,DAX/Power Query,Git/GitHub,1,15,6.7
+BI Analyst,Git/GitHub,DAX/Power Query,1,15,6.7
+BI Analyst,Data Visualization,Git/GitHub,1,15,6.7
+BI Analyst,Git/GitHub,Data Visualization,1,15,6.7
+BI Analyst,Data Warehousing/Modeling,Git/GitHub,1,15,6.7
+BI Analyst,Git/GitHub,Data Warehousing/Modeling,1,15,6.7
+BI Analyst,Git/GitHub,Power BI,1,15,6.7
+BI Analyst,Power BI,Git/GitHub,1,15,6.7
+BI Analyst,Git/GitHub,SQL,1,15,6.7
+BI Analyst,SQL,Git/GitHub,1,15,6.7
+Business Analyst,Data Visualization,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,Data Warehousing/Modeling,Data Visualization,1,8,12.5
+Business Analyst,Data Visualization,ETL/Pipelines,1,8,12.5
+Business Analyst,ETL/Pipelines,Data Visualization,1,8,12.5
+Business Analyst,Data Visualization,Looker/Qlik,1,8,12.5
+Business Analyst,Looker/Qlik,Data Visualization,1,8,12.5
+Business Analyst,Data Visualization,Power BI,2,8,25.0
+Business Analyst,Power BI,Data Visualization,2,8,25.0
+Business Analyst,Data Visualization,Python,1,8,12.5
+Business Analyst,Python,Data Visualization,1,8,12.5
+Business Analyst,Data Visualization,R,1,8,12.5
+Business Analyst,R,Data Visualization,1,8,12.5
+Business Analyst,Data Visualization,SQL,3,8,37.5
+Business Analyst,SQL,Data Visualization,3,8,37.5
+Business Analyst,Data Visualization,Statistics,2,8,25.0
+Business Analyst,Statistics,Data Visualization,2,8,25.0
+Business Analyst,Data Visualization,Tableau,2,8,25.0
+Business Analyst,Tableau,Data Visualization,2,8,25.0
+Business Analyst,Data Warehousing/Modeling,ETL/Pipelines,1,8,12.5
+Business Analyst,ETL/Pipelines,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,Data Warehousing/Modeling,Looker/Qlik,1,8,12.5
+Business Analyst,Looker/Qlik,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,Data Warehousing/Modeling,Power BI,1,8,12.5
+Business Analyst,Power BI,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,Data Warehousing/Modeling,Python,1,8,12.5
+Business Analyst,Python,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,Data Warehousing/Modeling,R,1,8,12.5
+Business Analyst,R,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,Data Warehousing/Modeling,SQL,1,8,12.5
+Business Analyst,SQL,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,Data Warehousing/Modeling,Statistics,1,8,12.5
+Business Analyst,Statistics,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,Data Warehousing/Modeling,Tableau,1,8,12.5
+Business Analyst,Tableau,Data Warehousing/Modeling,1,8,12.5
+Business Analyst,ETL/Pipelines,Looker/Qlik,1,8,12.5
+Business Analyst,Looker/Qlik,ETL/Pipelines,1,8,12.5
+Business Analyst,ETL/Pipelines,Power BI,1,8,12.5
+Business Analyst,Power BI,ETL/Pipelines,1,8,12.5
+Business Analyst,ETL/Pipelines,Python,1,8,12.5
+Business Analyst,Python,ETL/Pipelines,1,8,12.5
+Business Analyst,ETL/Pipelines,R,1,8,12.5
+Business Analyst,R,ETL/Pipelines,1,8,12.5
+Business Analyst,ETL/Pipelines,SQL,1,8,12.5
+Business Analyst,SQL,ETL/Pipelines,1,8,12.5
+Business Analyst,ETL/Pipelines,Statistics,1,8,12.5
+Business Analyst,Statistics,ETL/Pipelines,1,8,12.5
+Business Analyst,ETL/Pipelines,Tableau,1,8,12.5
+Business Analyst,Tableau,ETL/Pipelines,1,8,12.5
+Business Analyst,Looker/Qlik,Power BI,1,8,12.5
+Business Analyst,Power BI,Looker/Qlik,1,8,12.5
+Business Analyst,Looker/Qlik,Python,1,8,12.5
+Business Analyst,Python,Looker/Qlik,1,8,12.5
+Business Analyst,Looker/Qlik,R,1,8,12.5
+Business Analyst,R,Looker/Qlik,1,8,12.5
+Business Analyst,Looker/Qlik,SQL,1,8,12.5
+Business Analyst,SQL,Looker/Qlik,1,8,12.5
+Business Analyst,Looker/Qlik,Statistics,1,8,12.5
+Business Analyst,Statistics,Looker/Qlik,1,8,12.5
+Business Analyst,Looker/Qlik,Tableau,1,8,12.5
+Business Analyst,Tableau,Looker/Qlik,1,8,12.5
+Business Analyst,Power BI,Python,1,8,12.5
+Business Analyst,Python,Power BI,1,8,12.5
+Business Analyst,Power BI,R,1,8,12.5
+Business Analyst,R,Power BI,1,8,12.5
+Business Analyst,Power BI,SQL,1,8,12.5
+Business Analyst,SQL,Power BI,1,8,12.5
+Business Analyst,Power BI,Statistics,1,8,12.5
+Business Analyst,Statistics,Power BI,1,8,12.5
+Business Analyst,Power BI,Tableau,1,8,12.5
+Business Analyst,Tableau,Power BI,1,8,12.5
+Business Analyst,Python,R,2,8,25.0
+Business Analyst,R,Python,2,8,25.0
+Business Analyst,Python,SQL,2,8,25.0
+Business Analyst,SQL,Python,2,8,25.0
+Business Analyst,Python,Statistics,2,8,25.0
+Business Analyst,Statistics,Python,2,8,25.0
+Business Analyst,Python,Tableau,1,8,12.5
+Business Analyst,Tableau,Python,1,8,12.5
+Business Analyst,R,SQL,2,8,25.0
+Business Analyst,SQL,R,2,8,25.0
+Business Analyst,R,Statistics,2,8,25.0
+Business Analyst,Statistics,R,2,8,25.0
+Business Analyst,R,Tableau,1,8,12.5
+Business Analyst,Tableau,R,1,8,12.5
+Business Analyst,SQL,Statistics,3,8,37.5
+Business Analyst,Statistics,SQL,3,8,37.5
+Business Analyst,SQL,Tableau,2,8,25.0
+Business Analyst,Tableau,SQL,2,8,25.0
+Business Analyst,Statistics,Tableau,2,8,25.0
+Business Analyst,Tableau,Statistics,2,8,25.0
+Business Analyst,Communication,Data Visualization,4,8,50.0
+Business Analyst,Data Visualization,Communication,4,8,50.0
+Business Analyst,Communication,Excel,2,8,25.0
+Business Analyst,Excel,Communication,2,8,25.0
+Business Analyst,Communication,Machine Learning,2,8,25.0
+Business Analyst,Machine Learning,Communication,2,8,25.0
+Business Analyst,Communication,SQL,3,8,37.5
+Business Analyst,SQL,Communication,3,8,37.5
+Business Analyst,Communication,Statistics,2,8,25.0
+Business Analyst,Statistics,Communication,2,8,25.0
+Business Analyst,Communication,Tableau,1,8,12.5
+Business Analyst,Tableau,Communication,1,8,12.5
+Business Analyst,Data Visualization,Excel,2,8,25.0
+Business Analyst,Excel,Data Visualization,2,8,25.0
+Business Analyst,Data Visualization,Machine Learning,1,8,12.5
+Business Analyst,Machine Learning,Data Visualization,1,8,12.5
+Business Analyst,Excel,Machine Learning,1,8,12.5
+Business Analyst,Machine Learning,Excel,1,8,12.5
+Business Analyst,Excel,SQL,1,8,12.5
+Business Analyst,SQL,Excel,1,8,12.5
+Business Analyst,Excel,Statistics,1,8,12.5
+Business Analyst,Statistics,Excel,1,8,12.5
+Business Analyst,Excel,Tableau,1,8,12.5
+Business Analyst,Tableau,Excel,1,8,12.5
+Business Analyst,Machine Learning,SQL,2,8,25.0
+Business Analyst,SQL,Machine Learning,2,8,25.0
+Business Analyst,Machine Learning,Statistics,2,8,25.0
+Business Analyst,Statistics,Machine Learning,2,8,25.0
+Business Analyst,Machine Learning,Tableau,1,8,12.5
+Business Analyst,Tableau,Machine Learning,1,8,12.5
+Business Analyst,Communication,Problem Solving,2,8,25.0
+Business Analyst,Problem Solving,Communication,2,8,25.0
+Business Analyst,Communication,Python,1,8,12.5
+Business Analyst,Python,Communication,1,8,12.5
+Business Analyst,Communication,R,1,8,12.5
+Business Analyst,R,Communication,1,8,12.5
+Business Analyst,Communication,Spark/Big Data,1,8,12.5
+Business Analyst,Spark/Big Data,Communication,1,8,12.5
+Business Analyst,Machine Learning,Problem Solving,1,8,12.5
+Business Analyst,Problem Solving,Machine Learning,1,8,12.5
+Business Analyst,Machine Learning,Python,1,8,12.5
+Business Analyst,Python,Machine Learning,1,8,12.5
+Business Analyst,Machine Learning,R,1,8,12.5
+Business Analyst,R,Machine Learning,1,8,12.5
+Business Analyst,Machine Learning,Spark/Big Data,1,8,12.5
+Business Analyst,Spark/Big Data,Machine Learning,1,8,12.5
+Business Analyst,Problem Solving,Python,1,8,12.5
+Business Analyst,Python,Problem Solving,1,8,12.5
+Business Analyst,Problem Solving,R,1,8,12.5
+Business Analyst,R,Problem Solving,1,8,12.5
+Business Analyst,Problem Solving,SQL,2,8,25.0
+Business Analyst,SQL,Problem Solving,2,8,25.0
+Business Analyst,Problem Solving,Spark/Big Data,1,8,12.5
+Business Analyst,Spark/Big Data,Problem Solving,1,8,12.5
+Business Analyst,Problem Solving,Statistics,1,8,12.5
+Business Analyst,Statistics,Problem Solving,1,8,12.5
+Business Analyst,Python,Spark/Big Data,1,8,12.5
+Business Analyst,Spark/Big Data,Python,1,8,12.5
+Business Analyst,R,Spark/Big Data,1,8,12.5
+Business Analyst,Spark/Big Data,R,1,8,12.5
+Business Analyst,SQL,Spark/Big Data,1,8,12.5
+Business Analyst,Spark/Big Data,SQL,1,8,12.5
+Business Analyst,Spark/Big Data,Statistics,1,8,12.5
+Business Analyst,Statistics,Spark/Big Data,1,8,12.5
+Business Analyst,Data Visualization,Problem Solving,1,8,12.5
+Business Analyst,Problem Solving,Data Visualization,1,8,12.5
+Business Analyst,Communication,Power BI,1,8,12.5
+Business Analyst,Power BI,Communication,1,8,12.5
+Business Analyst,Excel,Power BI,1,8,12.5
+Business Analyst,Power BI,Excel,1,8,12.5
+Data Analyst,Communication,Data Visualization,130,306,42.5
+Data Analyst,Data Visualization,Communication,130,306,42.5
+Data Analyst,Communication,ETL/Pipelines,38,306,12.4
+Data Analyst,ETL/Pipelines,Communication,38,306,12.4
+Data Analyst,Communication,Excel,110,306,35.9
+Data Analyst,Excel,Communication,110,306,35.9
+Data Analyst,Communication,Machine Learning,27,306,8.8
+Data Analyst,Machine Learning,Communication,27,306,8.8
+Data Analyst,Communication,Power BI,82,306,26.8
+Data Analyst,Power BI,Communication,82,306,26.8
+Data Analyst,Communication,Problem Solving,113,306,36.9
+Data Analyst,Problem Solving,Communication,113,306,36.9
+Data Analyst,Communication,Python,91,306,29.7
+Data Analyst,Python,Communication,91,306,29.7
+Data Analyst,Communication,SQL,124,306,40.5
+Data Analyst,SQL,Communication,124,306,40.5
+Data Analyst,Communication,Statistics,94,306,30.7
+Data Analyst,Statistics,Communication,94,306,30.7
+Data Analyst,Data Visualization,ETL/Pipelines,35,306,11.4
+Data Analyst,ETL/Pipelines,Data Visualization,35,306,11.4
+Data Analyst,Data Visualization,Excel,78,306,25.5
+Data Analyst,Excel,Data Visualization,78,306,25.5
+Data Analyst,Data Visualization,Machine Learning,22,306,7.2
+Data Analyst,Machine Learning,Data Visualization,22,306,7.2
+Data Analyst,Data Visualization,Power BI,78,306,25.5
+Data Analyst,Power BI,Data Visualization,78,306,25.5
+Data Analyst,Data Visualization,Problem Solving,78,306,25.5
+Data Analyst,Problem Solving,Data Visualization,78,306,25.5
+Data Analyst,Data Visualization,Python,87,306,28.4
+Data Analyst,Python,Data Visualization,87,306,28.4
+Data Analyst,Data Visualization,SQL,112,306,36.6
+Data Analyst,SQL,Data Visualization,112,306,36.6
+Data Analyst,Data Visualization,Statistics,76,306,24.8
+Data Analyst,Statistics,Data Visualization,76,306,24.8
+Data Analyst,ETL/Pipelines,Excel,22,306,7.2
+Data Analyst,Excel,ETL/Pipelines,22,306,7.2
+Data Analyst,ETL/Pipelines,Machine Learning,12,306,3.9
+Data Analyst,Machine Learning,ETL/Pipelines,12,306,3.9
+Data Analyst,ETL/Pipelines,Power BI,30,306,9.8
+Data Analyst,Power BI,ETL/Pipelines,30,306,9.8
+Data Analyst,ETL/Pipelines,Problem Solving,28,306,9.2
+Data Analyst,Problem Solving,ETL/Pipelines,28,306,9.2
+Data Analyst,ETL/Pipelines,Python,26,306,8.5
+Data Analyst,Python,ETL/Pipelines,26,306,8.5
+Data Analyst,ETL/Pipelines,SQL,45,306,14.7
+Data Analyst,SQL,ETL/Pipelines,45,306,14.7
+Data Analyst,ETL/Pipelines,Statistics,21,306,6.9
+Data Analyst,Statistics,ETL/Pipelines,21,306,6.9
+Data Analyst,Excel,Machine Learning,16,306,5.2
+Data Analyst,Machine Learning,Excel,16,306,5.2
+Data Analyst,Excel,Power BI,52,306,17.0
+Data Analyst,Power BI,Excel,52,306,17.0
+Data Analyst,Excel,Problem Solving,63,306,20.6
+Data Analyst,Problem Solving,Excel,63,306,20.6
+Data Analyst,Excel,Python,52,306,17.0
+Data Analyst,Python,Excel,52,306,17.0
+Data Analyst,Excel,SQL,83,306,27.1
+Data Analyst,SQL,Excel,83,306,27.1
+Data Analyst,Excel,Statistics,57,306,18.6
+Data Analyst,Statistics,Excel,57,306,18.6
+Data Analyst,Machine Learning,Power BI,17,306,5.6
+Data Analyst,Power BI,Machine Learning,17,306,5.6
+Data Analyst,Machine Learning,Problem Solving,17,306,5.6
+Data Analyst,Problem Solving,Machine Learning,17,306,5.6
+Data Analyst,Machine Learning,Python,29,306,9.5
+Data Analyst,Python,Machine Learning,29,306,9.5
+Data Analyst,Machine Learning,SQL,28,306,9.2
+Data Analyst,SQL,Machine Learning,28,306,9.2
+Data Analyst,Machine Learning,Statistics,25,306,8.2
+Data Analyst,Statistics,Machine Learning,25,306,8.2
+Data Analyst,Power BI,Problem Solving,53,306,17.3
+Data Analyst,Problem Solving,Power BI,53,306,17.3
+Data Analyst,Power BI,Python,58,306,19.0
+Data Analyst,Python,Power BI,58,306,19.0
+Data Analyst,Power BI,SQL,82,306,26.8
+Data Analyst,SQL,Power BI,82,306,26.8
+Data Analyst,Power BI,Statistics,47,306,15.4
+Data Analyst,Statistics,Power BI,47,306,15.4
+Data Analyst,Problem Solving,Python,59,306,19.3
+Data Analyst,Python,Problem Solving,59,306,19.3
+Data Analyst,Problem Solving,SQL,85,306,27.8
+Data Analyst,SQL,Problem Solving,85,306,27.8
+Data Analyst,Problem Solving,Statistics,70,306,22.9
+Data Analyst,Statistics,Problem Solving,70,306,22.9
+Data Analyst,Python,SQL,103,306,33.7
+Data Analyst,SQL,Python,103,306,33.7
+Data Analyst,Python,Statistics,70,306,22.9
+Data Analyst,Statistics,Python,70,306,22.9
+Data Analyst,SQL,Statistics,81,306,26.5
+Data Analyst,Statistics,SQL,81,306,26.5
+Data Analyst,Communication,Data Warehousing/Modeling,51,306,16.7
+Data Analyst,Data Warehousing/Modeling,Communication,51,306,16.7
+Data Analyst,Communication,R,30,306,9.8
+Data Analyst,R,Communication,30,306,9.8
+Data Analyst,Data Visualization,Data Warehousing/Modeling,49,306,16.0
+Data Analyst,Data Warehousing/Modeling,Data Visualization,49,306,16.0
+Data Analyst,Data Visualization,R,31,306,10.1
+Data Analyst,R,Data Visualization,31,306,10.1
+Data Analyst,Data Warehousing/Modeling,Excel,28,306,9.2
+Data Analyst,Excel,Data Warehousing/Modeling,28,306,9.2
+Data Analyst,Data Warehousing/Modeling,Problem Solving,36,306,11.8
+Data Analyst,Problem Solving,Data Warehousing/Modeling,36,306,11.8
+Data Analyst,Data Warehousing/Modeling,Python,33,306,10.8
+Data Analyst,Python,Data Warehousing/Modeling,33,306,10.8
+Data Analyst,Data Warehousing/Modeling,R,9,306,2.9
+Data Analyst,R,Data Warehousing/Modeling,9,306,2.9
+Data Analyst,Data Warehousing/Modeling,SQL,50,306,16.3
+Data Analyst,SQL,Data Warehousing/Modeling,50,306,16.3
+Data Analyst,Excel,R,21,306,6.9
+Data Analyst,R,Excel,21,306,6.9
+Data Analyst,Problem Solving,R,20,306,6.5
+Data Analyst,R,Problem Solving,20,306,6.5
+Data Analyst,Python,R,39,306,12.7
+Data Analyst,R,Python,39,306,12.7
+Data Analyst,R,SQL,34,306,11.1
+Data Analyst,SQL,R,34,306,11.1
+Data Analyst,Communication,Spark/Big Data,24,306,7.8
+Data Analyst,Spark/Big Data,Communication,24,306,7.8
+Data Analyst,Communication,Tableau,77,306,25.2
+Data Analyst,Tableau,Communication,77,306,25.2
+Data Analyst,Data Visualization,Spark/Big Data,24,306,7.8
+Data Analyst,Spark/Big Data,Data Visualization,24,306,7.8
+Data Analyst,Data Visualization,Tableau,73,306,23.9
+Data Analyst,Tableau,Data Visualization,73,306,23.9
+Data Analyst,Data Warehousing/Modeling,ETL/Pipelines,24,306,7.8
+Data Analyst,ETL/Pipelines,Data Warehousing/Modeling,24,306,7.8
+Data Analyst,Data Warehousing/Modeling,Machine Learning,8,306,2.6
+Data Analyst,Machine Learning,Data Warehousing/Modeling,8,306,2.6
+Data Analyst,Data Warehousing/Modeling,Spark/Big Data,13,306,4.2
+Data Analyst,Spark/Big Data,Data Warehousing/Modeling,13,306,4.2
+Data Analyst,Data Warehousing/Modeling,Tableau,29,306,9.5
+Data Analyst,Tableau,Data Warehousing/Modeling,29,306,9.5
+Data Analyst,ETL/Pipelines,Spark/Big Data,12,306,3.9
+Data Analyst,Spark/Big Data,ETL/Pipelines,12,306,3.9
+Data Analyst,ETL/Pipelines,Tableau,23,306,7.5
+Data Analyst,Tableau,ETL/Pipelines,23,306,7.5
+Data Analyst,Excel,Spark/Big Data,16,306,5.2
+Data Analyst,Spark/Big Data,Excel,16,306,5.2
+Data Analyst,Excel,Tableau,44,306,14.4
+Data Analyst,Tableau,Excel,44,306,14.4
+Data Analyst,Machine Learning,Spark/Big Data,10,306,3.3
+Data Analyst,Spark/Big Data,Machine Learning,10,306,3.3
+Data Analyst,Machine Learning,Tableau,14,306,4.6
+Data Analyst,Tableau,Machine Learning,14,306,4.6
+Data Analyst,Python,Spark/Big Data,28,306,9.2
+Data Analyst,Spark/Big Data,Python,28,306,9.2
+Data Analyst,Python,Tableau,67,306,21.9
+Data Analyst,Tableau,Python,67,306,21.9
+Data Analyst,SQL,Spark/Big Data,32,306,10.5
+Data Analyst,Spark/Big Data,SQL,32,306,10.5
+Data Analyst,SQL,Tableau,76,306,24.8
+Data Analyst,Tableau,SQL,76,306,24.8
+Data Analyst,Spark/Big Data,Tableau,20,306,6.5
+Data Analyst,Tableau,Spark/Big Data,20,306,6.5
+Data Analyst,Communication,GCP/BigQuery,7,306,2.3
+Data Analyst,GCP/BigQuery,Communication,7,306,2.3
+Data Analyst,Communication,Looker/Qlik,15,306,4.9
+Data Analyst,Looker/Qlik,Communication,15,306,4.9
+Data Analyst,Data Visualization,GCP/BigQuery,8,306,2.6
+Data Analyst,GCP/BigQuery,Data Visualization,8,306,2.6
+Data Analyst,Data Visualization,Looker/Qlik,15,306,4.9
+Data Analyst,Looker/Qlik,Data Visualization,15,306,4.9
+Data Analyst,Data Warehousing/Modeling,GCP/BigQuery,5,306,1.6
+Data Analyst,GCP/BigQuery,Data Warehousing/Modeling,5,306,1.6
+Data Analyst,Data Warehousing/Modeling,Looker/Qlik,10,306,3.3
+Data Analyst,Looker/Qlik,Data Warehousing/Modeling,10,306,3.3
+Data Analyst,Data Warehousing/Modeling,Power BI,32,306,10.5
+Data Analyst,Power BI,Data Warehousing/Modeling,32,306,10.5
+Data Analyst,Data Warehousing/Modeling,Statistics,30,306,9.8
+Data Analyst,Statistics,Data Warehousing/Modeling,30,306,9.8
+Data Analyst,ETL/Pipelines,GCP/BigQuery,4,306,1.3
+Data Analyst,GCP/BigQuery,ETL/Pipelines,4,306,1.3
+Data Analyst,ETL/Pipelines,Looker/Qlik,7,306,2.3
+Data Analyst,Looker/Qlik,ETL/Pipelines,7,306,2.3
+Data Analyst,GCP/BigQuery,Looker/Qlik,5,306,1.6
+Data Analyst,Looker/Qlik,GCP/BigQuery,5,306,1.6
+Data Analyst,GCP/BigQuery,Power BI,6,306,2.0
+Data Analyst,Power BI,GCP/BigQuery,6,306,2.0
+Data Analyst,GCP/BigQuery,Problem Solving,7,306,2.3
+Data Analyst,Problem Solving,GCP/BigQuery,7,306,2.3
+Data Analyst,GCP/BigQuery,Python,7,306,2.3
+Data Analyst,Python,GCP/BigQuery,7,306,2.3
+Data Analyst,GCP/BigQuery,SQL,9,306,2.9
+Data Analyst,SQL,GCP/BigQuery,9,306,2.9
+Data Analyst,GCP/BigQuery,Statistics,6,306,2.0
+Data Analyst,Statistics,GCP/BigQuery,6,306,2.0
+Data Analyst,GCP/BigQuery,Tableau,6,306,2.0
+Data Analyst,Tableau,GCP/BigQuery,6,306,2.0
+Data Analyst,Looker/Qlik,Power BI,11,306,3.6
+Data Analyst,Power BI,Looker/Qlik,11,306,3.6
+Data Analyst,Looker/Qlik,Problem Solving,12,306,3.9
+Data Analyst,Problem Solving,Looker/Qlik,12,306,3.9
+Data Analyst,Looker/Qlik,Python,14,306,4.6
+Data Analyst,Python,Looker/Qlik,14,306,4.6
+Data Analyst,Looker/Qlik,SQL,16,306,5.2
+Data Analyst,SQL,Looker/Qlik,16,306,5.2
+Data Analyst,Looker/Qlik,Statistics,9,306,2.9
+Data Analyst,Statistics,Looker/Qlik,9,306,2.9
+Data Analyst,Looker/Qlik,Tableau,13,306,4.2
+Data Analyst,Tableau,Looker/Qlik,13,306,4.2
+Data Analyst,Power BI,Tableau,55,306,18.0
+Data Analyst,Tableau,Power BI,55,306,18.0
+Data Analyst,Problem Solving,Tableau,51,306,16.7
+Data Analyst,Tableau,Problem Solving,51,306,16.7
+Data Analyst,Statistics,Tableau,45,306,14.7
+Data Analyst,Tableau,Statistics,45,306,14.7
+Data Analyst,Excel,SAS/SPSS,18,306,5.9
+Data Analyst,SAS/SPSS,Excel,18,306,5.9
+Data Analyst,Python,SAS/SPSS,18,306,5.9
+Data Analyst,SAS/SPSS,Python,18,306,5.9
+Data Analyst,SAS/SPSS,SQL,21,306,6.9
+Data Analyst,SQL,SAS/SPSS,21,306,6.9
+Data Analyst,SAS/SPSS,Spark/Big Data,7,306,2.3
+Data Analyst,Spark/Big Data,SAS/SPSS,7,306,2.3
+Data Analyst,SAS/SPSS,Statistics,20,306,6.5
+Data Analyst,Statistics,SAS/SPSS,20,306,6.5
+Data Analyst,Spark/Big Data,Statistics,19,306,6.2
+Data Analyst,Statistics,Spark/Big Data,19,306,6.2
+Data Analyst,AWS,Git/GitHub,1,306,0.3
+Data Analyst,Git/GitHub,AWS,1,306,0.3
+Data Analyst,AWS,Machine Learning,6,306,2.0
+Data Analyst,Machine Learning,AWS,6,306,2.0
+Data Analyst,AWS,Python,16,306,5.2
+Data Analyst,Python,AWS,16,306,5.2
+Data Analyst,AWS,R,5,306,1.6
+Data Analyst,R,AWS,5,306,1.6
+Data Analyst,AWS,SQL,15,306,4.9
+Data Analyst,SQL,AWS,15,306,4.9
+Data Analyst,AWS,Spark/Big Data,10,306,3.3
+Data Analyst,Spark/Big Data,AWS,10,306,3.3
+Data Analyst,AWS,Statistics,8,306,2.6
+Data Analyst,Statistics,AWS,8,306,2.6
+Data Analyst,Git/GitHub,Machine Learning,2,306,0.7
+Data Analyst,Machine Learning,Git/GitHub,2,306,0.7
+Data Analyst,Git/GitHub,Python,3,306,1.0
+Data Analyst,Python,Git/GitHub,3,306,1.0
+Data Analyst,Git/GitHub,R,2,306,0.7
+Data Analyst,R,Git/GitHub,2,306,0.7
+Data Analyst,Git/GitHub,SQL,5,306,1.6
+Data Analyst,SQL,Git/GitHub,5,306,1.6
+Data Analyst,Git/GitHub,Spark/Big Data,2,306,0.7
+Data Analyst,Spark/Big Data,Git/GitHub,2,306,0.7
+Data Analyst,Git/GitHub,Statistics,4,306,1.3
+Data Analyst,Statistics,Git/GitHub,4,306,1.3
+Data Analyst,Machine Learning,R,9,306,2.9
+Data Analyst,R,Machine Learning,9,306,2.9
+Data Analyst,R,Spark/Big Data,5,306,1.6
+Data Analyst,Spark/Big Data,R,5,306,1.6
+Data Analyst,R,Statistics,31,306,10.1
+Data Analyst,Statistics,R,31,306,10.1
+Data Analyst,Power BI,R,20,306,6.5
+Data Analyst,R,Power BI,20,306,6.5
+Data Analyst,R,Tableau,21,306,6.9
+Data Analyst,Tableau,R,21,306,6.9
+Data Analyst,Communication,VBA/Macros,16,306,5.2
+Data Analyst,VBA/Macros,Communication,16,306,5.2
+Data Analyst,Data Visualization,VBA/Macros,14,306,4.6
+Data Analyst,VBA/Macros,Data Visualization,14,306,4.6
+Data Analyst,Excel,VBA/Macros,18,306,5.9
+Data Analyst,VBA/Macros,Excel,18,306,5.9
+Data Analyst,Power BI,VBA/Macros,10,306,3.3
+Data Analyst,VBA/Macros,Power BI,10,306,3.3
+Data Analyst,Tableau,VBA/Macros,7,306,2.3
+Data Analyst,VBA/Macros,Tableau,7,306,2.3
+Data Analyst,Communication,SAS/SPSS,17,306,5.6
+Data Analyst,SAS/SPSS,Communication,17,306,5.6
+Data Analyst,Data Visualization,SAS/SPSS,13,306,4.2
+Data Analyst,SAS/SPSS,Data Visualization,13,306,4.2
+Data Analyst,Data Warehousing/Modeling,SAS/SPSS,8,306,2.6
+Data Analyst,SAS/SPSS,Data Warehousing/Modeling,8,306,2.6
+Data Analyst,ETL/Pipelines,R,4,306,1.3
+Data Analyst,R,ETL/Pipelines,4,306,1.3
+Data Analyst,ETL/Pipelines,SAS/SPSS,3,306,1.0
+Data Analyst,SAS/SPSS,ETL/Pipelines,3,306,1.0
+Data Analyst,Power BI,SAS/SPSS,8,306,2.6
+Data Analyst,SAS/SPSS,Power BI,8,306,2.6
+Data Analyst,R,SAS/SPSS,10,306,3.3
+Data Analyst,SAS/SPSS,R,10,306,3.3
+Data Analyst,SAS/SPSS,Tableau,12,306,3.9
+Data Analyst,Tableau,SAS/SPSS,12,306,3.9
+Data Analyst,Communication,DAX/Power Query,6,306,2.0
+Data Analyst,DAX/Power Query,Communication,6,306,2.0
+Data Analyst,Communication,Snowflake,4,306,1.3
+Data Analyst,Snowflake,Communication,4,306,1.3
+Data Analyst,DAX/Power Query,Data Visualization,6,306,2.0
+Data Analyst,Data Visualization,DAX/Power Query,6,306,2.0
+Data Analyst,DAX/Power Query,ETL/Pipelines,4,306,1.3
+Data Analyst,ETL/Pipelines,DAX/Power Query,4,306,1.3
+Data Analyst,DAX/Power Query,Excel,5,306,1.6
+Data Analyst,Excel,DAX/Power Query,5,306,1.6
+Data Analyst,DAX/Power Query,Power BI,8,306,2.6
+Data Analyst,Power BI,DAX/Power Query,8,306,2.6
+Data Analyst,DAX/Power Query,Problem Solving,5,306,1.6
+Data Analyst,Problem Solving,DAX/Power Query,5,306,1.6
+Data Analyst,DAX/Power Query,SQL,8,306,2.6
+Data Analyst,SQL,DAX/Power Query,8,306,2.6
+Data Analyst,DAX/Power Query,Snowflake,2,306,0.7
+Data Analyst,Snowflake,DAX/Power Query,2,306,0.7
+Data Analyst,DAX/Power Query,Statistics,1,306,0.3
+Data Analyst,Statistics,DAX/Power Query,1,306,0.3
+Data Analyst,Data Visualization,Snowflake,5,306,1.6
+Data Analyst,Snowflake,Data Visualization,5,306,1.6
+Data Analyst,ETL/Pipelines,Snowflake,5,306,1.6
+Data Analyst,Snowflake,ETL/Pipelines,5,306,1.6
+Data Analyst,Excel,Snowflake,2,306,0.7
+Data Analyst,Snowflake,Excel,2,306,0.7
+Data Analyst,Power BI,Snowflake,6,306,2.0
+Data Analyst,Snowflake,Power BI,6,306,2.0
+Data Analyst,Problem Solving,Snowflake,3,306,1.0
+Data Analyst,Snowflake,Problem Solving,3,306,1.0
+Data Analyst,SQL,Snowflake,7,306,2.3
+Data Analyst,Snowflake,SQL,7,306,2.3
+Data Analyst,Snowflake,Statistics,4,306,1.3
+Data Analyst,Statistics,Snowflake,4,306,1.3
+Data Analyst,Looker/Qlik,Spark/Big Data,7,306,2.3
+Data Analyst,Spark/Big Data,Looker/Qlik,7,306,2.3
+Data Analyst,Power BI,Spark/Big Data,17,306,5.6
+Data Analyst,Spark/Big Data,Power BI,17,306,5.6
+Data Analyst,Problem Solving,Spark/Big Data,18,306,5.9
+Data Analyst,Spark/Big Data,Problem Solving,18,306,5.9
+Data Analyst,Excel,Looker/Qlik,8,306,2.6
+Data Analyst,Looker/Qlik,Excel,8,306,2.6
+Data Analyst,Excel,GCP/BigQuery,6,306,2.0
+Data Analyst,GCP/BigQuery,Excel,6,306,2.0
+Data Analyst,Azure,Communication,8,306,2.6
+Data Analyst,Communication,Azure,8,306,2.6
+Data Analyst,Azure,ETL/Pipelines,4,306,1.3
+Data Analyst,ETL/Pipelines,Azure,4,306,1.3
+Data Analyst,Azure,Excel,2,306,0.7
+Data Analyst,Excel,Azure,2,306,0.7
+Data Analyst,Azure,Power BI,8,306,2.6
+Data Analyst,Power BI,Azure,8,306,2.6
+Data Analyst,Azure,Problem Solving,5,306,1.6
+Data Analyst,Problem Solving,Azure,5,306,1.6
+Data Analyst,Azure,SQL,11,306,3.6
+Data Analyst,SQL,Azure,11,306,3.6
+Data Analyst,Data Warehousing/Modeling,VBA/Macros,4,306,1.3
+Data Analyst,VBA/Macros,Data Warehousing/Modeling,4,306,1.3
+Data Analyst,Python,VBA/Macros,8,306,2.6
+Data Analyst,VBA/Macros,Python,8,306,2.6
+Data Analyst,SQL,VBA/Macros,14,306,4.6
+Data Analyst,VBA/Macros,SQL,14,306,4.6
+Data Analyst,AWS,Communication,10,306,3.3
+Data Analyst,Communication,AWS,10,306,3.3
+Data Analyst,AWS,Data Visualization,14,306,4.6
+Data Analyst,Data Visualization,AWS,14,306,4.6
+Data Analyst,AWS,Data Warehousing/Modeling,6,306,2.0
+Data Analyst,Data Warehousing/Modeling,AWS,6,306,2.0
+Data Analyst,AWS,Power BI,7,306,2.3
+Data Analyst,Power BI,AWS,7,306,2.3
+Data Analyst,AWS,Tableau,10,306,3.3
+Data Analyst,Tableau,AWS,10,306,3.3
+Data Analyst,Communication,Pandas/NumPy,3,306,1.0
+Data Analyst,Pandas/NumPy,Communication,3,306,1.0
+Data Analyst,Data Visualization,Pandas/NumPy,4,306,1.3
+Data Analyst,Pandas/NumPy,Data Visualization,4,306,1.3
+Data Analyst,Pandas/NumPy,Python,5,306,1.6
+Data Analyst,Python,Pandas/NumPy,5,306,1.6
+Data Analyst,Pandas/NumPy,SQL,5,306,1.6
+Data Analyst,SQL,Pandas/NumPy,5,306,1.6
+Data Analyst,Pandas/NumPy,Tableau,2,306,0.7
+Data Analyst,Tableau,Pandas/NumPy,2,306,0.7
+Data Analyst,Data Warehousing/Modeling,Snowflake,3,306,1.0
+Data Analyst,Snowflake,Data Warehousing/Modeling,3,306,1.0
+Data Analyst,GCP/BigQuery,R,3,306,1.0
+Data Analyst,R,GCP/BigQuery,3,306,1.0
+Data Analyst,GCP/BigQuery,Snowflake,2,306,0.7
+Data Analyst,Snowflake,GCP/BigQuery,2,306,0.7
+Data Analyst,Looker/Qlik,R,6,306,2.0
+Data Analyst,R,Looker/Qlik,6,306,2.0
+Data Analyst,Looker/Qlik,Snowflake,2,306,0.7
+Data Analyst,Snowflake,Looker/Qlik,2,306,0.7
+Data Analyst,Python,Snowflake,4,306,1.3
+Data Analyst,Snowflake,Python,4,306,1.3
+Data Analyst,R,Snowflake,1,306,0.3
+Data Analyst,Snowflake,R,1,306,0.3
+Data Analyst,Snowflake,Tableau,4,306,1.3
+Data Analyst,Tableau,Snowflake,4,306,1.3
+Data Analyst,GCP/BigQuery,Machine Learning,1,306,0.3
+Data Analyst,Machine Learning,GCP/BigQuery,1,306,0.3
+Data Analyst,Problem Solving,SAS/SPSS,17,306,5.6
+Data Analyst,SAS/SPSS,Problem Solving,17,306,5.6
+Data Analyst,AWS,Problem Solving,8,306,2.6
+Data Analyst,Problem Solving,AWS,8,306,2.6
+Data Analyst,AWS,Azure,7,306,2.3
+Data Analyst,Azure,AWS,7,306,2.3
+Data Analyst,AWS,Deep Learning,2,306,0.7
+Data Analyst,Deep Learning,AWS,2,306,0.7
+Data Analyst,AWS,ETL/Pipelines,6,306,2.0
+Data Analyst,ETL/Pipelines,AWS,6,306,2.0
+Data Analyst,AWS,NLP/GenAI,1,306,0.3
+Data Analyst,NLP/GenAI,AWS,1,306,0.3
+Data Analyst,Azure,Data Visualization,8,306,2.6
+Data Analyst,Data Visualization,Azure,8,306,2.6
+Data Analyst,Azure,Deep Learning,1,306,0.3
+Data Analyst,Deep Learning,Azure,1,306,0.3
+Data Analyst,Azure,Machine Learning,2,306,0.7
+Data Analyst,Machine Learning,Azure,2,306,0.7
+Data Analyst,Azure,NLP/GenAI,1,306,0.3
+Data Analyst,NLP/GenAI,Azure,1,306,0.3
+Data Analyst,Azure,Python,8,306,2.6
+Data Analyst,Python,Azure,8,306,2.6
+Data Analyst,Azure,Spark/Big Data,6,306,2.0
+Data Analyst,Spark/Big Data,Azure,6,306,2.0
+Data Analyst,Azure,Statistics,5,306,1.6
+Data Analyst,Statistics,Azure,5,306,1.6
+Data Analyst,Communication,Deep Learning,2,306,0.7
+Data Analyst,Deep Learning,Communication,2,306,0.7
+Data Analyst,Communication,NLP/GenAI,2,306,0.7
+Data Analyst,NLP/GenAI,Communication,2,306,0.7
+Data Analyst,Data Visualization,Deep Learning,3,306,1.0
+Data Analyst,Deep Learning,Data Visualization,3,306,1.0
+Data Analyst,Data Visualization,NLP/GenAI,2,306,0.7
+Data Analyst,NLP/GenAI,Data Visualization,2,306,0.7
+Data Analyst,Deep Learning,ETL/Pipelines,3,306,1.0
+Data Analyst,ETL/Pipelines,Deep Learning,3,306,1.0
+Data Analyst,Deep Learning,Machine Learning,4,306,1.3
+Data Analyst,Machine Learning,Deep Learning,4,306,1.3
+Data Analyst,Deep Learning,NLP/GenAI,2,306,0.7
+Data Analyst,NLP/GenAI,Deep Learning,2,306,0.7
+Data Analyst,Deep Learning,Problem Solving,1,306,0.3
+Data Analyst,Problem Solving,Deep Learning,1,306,0.3
+Data Analyst,Deep Learning,Python,4,306,1.3
+Data Analyst,Python,Deep Learning,4,306,1.3
+Data Analyst,Deep Learning,SQL,4,306,1.3
+Data Analyst,SQL,Deep Learning,4,306,1.3
+Data Analyst,Deep Learning,Spark/Big Data,3,306,1.0
+Data Analyst,Spark/Big Data,Deep Learning,3,306,1.0
+Data Analyst,Deep Learning,Statistics,3,306,1.0
+Data Analyst,Statistics,Deep Learning,3,306,1.0
+Data Analyst,ETL/Pipelines,NLP/GenAI,1,306,0.3
+Data Analyst,NLP/GenAI,ETL/Pipelines,1,306,0.3
+Data Analyst,Machine Learning,NLP/GenAI,2,306,0.7
+Data Analyst,NLP/GenAI,Machine Learning,2,306,0.7
+Data Analyst,NLP/GenAI,Problem Solving,1,306,0.3
+Data Analyst,Problem Solving,NLP/GenAI,1,306,0.3
+Data Analyst,NLP/GenAI,Python,2,306,0.7
+Data Analyst,Python,NLP/GenAI,2,306,0.7
+Data Analyst,NLP/GenAI,SQL,2,306,0.7
+Data Analyst,SQL,NLP/GenAI,2,306,0.7
+Data Analyst,NLP/GenAI,Spark/Big Data,1,306,0.3
+Data Analyst,Spark/Big Data,NLP/GenAI,1,306,0.3
+Data Analyst,NLP/GenAI,Statistics,1,306,0.3
+Data Analyst,Statistics,NLP/GenAI,1,306,0.3
+Data Analyst,Machine Learning,SAS/SPSS,6,306,2.0
+Data Analyst,SAS/SPSS,Machine Learning,6,306,2.0
+Data Analyst,Problem Solving,VBA/Macros,7,306,2.3
+Data Analyst,VBA/Macros,Problem Solving,7,306,2.3
+Data Analyst,Statistics,VBA/Macros,7,306,2.3
+Data Analyst,VBA/Macros,Statistics,7,306,2.3
+Data Analyst,Azure,Tableau,6,306,2.0
+Data Analyst,Tableau,Azure,6,306,2.0
+Data Analyst,DAX/Power Query,Data Warehousing/Modeling,6,306,2.0
+Data Analyst,Data Warehousing/Modeling,DAX/Power Query,6,306,2.0
+Data Analyst,DAX/Power Query,Python,2,306,0.7
+Data Analyst,Python,DAX/Power Query,2,306,0.7
+Data Analyst,DAX/Power Query,Tableau,2,306,0.7
+Data Analyst,Tableau,DAX/Power Query,2,306,0.7
+Data Analyst,Azure,Git/GitHub,1,306,0.3
+Data Analyst,Git/GitHub,Azure,1,306,0.3
+Data Analyst,Azure,Snowflake,1,306,0.3
+Data Analyst,Snowflake,Azure,1,306,0.3
+Data Analyst,Communication,Git/GitHub,3,306,1.0
+Data Analyst,Git/GitHub,Communication,3,306,1.0
+Data Analyst,Data Visualization,Git/GitHub,3,306,1.0
+Data Analyst,Git/GitHub,Data Visualization,3,306,1.0
+Data Analyst,ETL/Pipelines,Git/GitHub,3,306,1.0
+Data Analyst,Git/GitHub,ETL/Pipelines,3,306,1.0
+Data Analyst,Git/GitHub,Power BI,1,306,0.3
+Data Analyst,Power BI,Git/GitHub,1,306,0.3
+Data Analyst,Git/GitHub,Snowflake,1,306,0.3
+Data Analyst,Snowflake,Git/GitHub,1,306,0.3
+Data Analyst,Machine Learning,Snowflake,1,306,0.3
+Data Analyst,Snowflake,Machine Learning,1,306,0.3
+Data Analyst,Snowflake,Spark/Big Data,2,306,0.7
+Data Analyst,Spark/Big Data,Snowflake,2,306,0.7
+Data Analyst,AWS,GCP/BigQuery,1,306,0.3
+Data Analyst,GCP/BigQuery,AWS,1,306,0.3
+Data Analyst,AWS,Looker/Qlik,5,306,1.6
+Data Analyst,Looker/Qlik,AWS,5,306,1.6
+Data Analyst,Azure,GCP/BigQuery,1,306,0.3
+Data Analyst,GCP/BigQuery,Azure,1,306,0.3
+Data Analyst,Azure,Looker/Qlik,4,306,1.3
+Data Analyst,Looker/Qlik,Azure,4,306,1.3
+Data Analyst,Azure,R,3,306,1.0
+Data Analyst,R,Azure,3,306,1.0
+Data Analyst,GCP/BigQuery,Spark/Big Data,2,306,0.7
+Data Analyst,Spark/Big Data,GCP/BigQuery,2,306,0.7
+Data Analyst,DAX/Power Query,VBA/Macros,2,306,0.7
+Data Analyst,VBA/Macros,DAX/Power Query,2,306,0.7
+Data Analyst,AWS,Excel,4,306,1.3
+Data Analyst,Excel,AWS,4,306,1.3
+Data Analyst,DAX/Power Query,GCP/BigQuery,2,306,0.7
+Data Analyst,GCP/BigQuery,DAX/Power Query,2,306,0.7
+Data Analyst,AWS,SAS/SPSS,1,306,0.3
+Data Analyst,SAS/SPSS,AWS,1,306,0.3
+Data Analyst,AWS,VBA/Macros,3,306,1.0
+Data Analyst,VBA/Macros,AWS,3,306,1.0
+Data Analyst,Looker/Qlik,Machine Learning,3,306,1.0
+Data Analyst,Machine Learning,Looker/Qlik,3,306,1.0
+Data Analyst,Looker/Qlik,SAS/SPSS,4,306,1.3
+Data Analyst,SAS/SPSS,Looker/Qlik,4,306,1.3
+Data Analyst,Looker/Qlik,VBA/Macros,2,306,0.7
+Data Analyst,VBA/Macros,Looker/Qlik,2,306,0.7
+Data Analyst,Machine Learning,VBA/Macros,1,306,0.3
+Data Analyst,VBA/Macros,Machine Learning,1,306,0.3
+Data Analyst,R,VBA/Macros,3,306,1.0
+Data Analyst,VBA/Macros,R,3,306,1.0
+Data Analyst,SAS/SPSS,VBA/Macros,2,306,0.7
+Data Analyst,VBA/Macros,SAS/SPSS,2,306,0.7
+Data Analyst,Spark/Big Data,VBA/Macros,3,306,1.0
+Data Analyst,VBA/Macros,Spark/Big Data,3,306,1.0
+Data Analyst,Azure,Data Warehousing/Modeling,2,306,0.7
+Data Analyst,Data Warehousing/Modeling,Azure,2,306,0.7
+Data Analyst,Azure,VBA/Macros,1,306,0.3
+Data Analyst,VBA/Macros,Azure,1,306,0.3
+Data Analyst,AWS,Pandas/NumPy,1,306,0.3
+Data Analyst,Pandas/NumPy,AWS,1,306,0.3
+Data Analyst,Data Warehousing/Modeling,Deep Learning,2,306,0.7
+Data Analyst,Deep Learning,Data Warehousing/Modeling,2,306,0.7
+Data Analyst,Data Warehousing/Modeling,Pandas/NumPy,2,306,0.7
+Data Analyst,Pandas/NumPy,Data Warehousing/Modeling,2,306,0.7
+Data Analyst,Deep Learning,Pandas/NumPy,2,306,0.7
+Data Analyst,Pandas/NumPy,Deep Learning,2,306,0.7
+Data Analyst,Deep Learning,Power BI,1,306,0.3
+Data Analyst,Power BI,Deep Learning,1,306,0.3
+Data Analyst,ETL/Pipelines,Pandas/NumPy,1,306,0.3
+Data Analyst,Pandas/NumPy,ETL/Pipelines,1,306,0.3
+Data Analyst,Machine Learning,Pandas/NumPy,3,306,1.0
+Data Analyst,Pandas/NumPy,Machine Learning,3,306,1.0
+Data Analyst,Pandas/NumPy,Power BI,2,306,0.7
+Data Analyst,Power BI,Pandas/NumPy,2,306,0.7
+Data Analyst,Pandas/NumPy,Spark/Big Data,1,306,0.3
+Data Analyst,Spark/Big Data,Pandas/NumPy,1,306,0.3
+Data Analyst,Pandas/NumPy,Statistics,2,306,0.7
+Data Analyst,Statistics,Pandas/NumPy,2,306,0.7
+Data Analyst,GCP/BigQuery,SAS/SPSS,2,306,0.7
+Data Analyst,SAS/SPSS,GCP/BigQuery,2,306,0.7
+Data Analyst,SAS/SPSS,Snowflake,1,306,0.3
+Data Analyst,Snowflake,SAS/SPSS,1,306,0.3
+Data Analyst,Data Warehousing/Modeling,NLP/GenAI,1,306,0.3
+Data Analyst,NLP/GenAI,Data Warehousing/Modeling,1,306,0.3
+Data Analyst,NLP/GenAI,Pandas/NumPy,1,306,0.3
+Data Analyst,Pandas/NumPy,NLP/GenAI,1,306,0.3
+Data Analyst,Data Warehousing/Modeling,Git/GitHub,1,306,0.3
+Data Analyst,Git/GitHub,Data Warehousing/Modeling,1,306,0.3
+Data Analyst,Git/GitHub,Looker/Qlik,1,306,0.3
+Data Analyst,Looker/Qlik,Git/GitHub,1,306,0.3
+Data Analyst,Excel,Pandas/NumPy,1,306,0.3
+Data Analyst,Pandas/NumPy,Excel,1,306,0.3
+Data Analyst,Pandas/NumPy,Problem Solving,1,306,0.3
+Data Analyst,Problem Solving,Pandas/NumPy,1,306,0.3
+Data Analyst,Git/GitHub,SAS/SPSS,1,306,0.3
+Data Analyst,SAS/SPSS,Git/GitHub,1,306,0.3
+Data Analyst,ETL/Pipelines,VBA/Macros,2,306,0.7
+Data Analyst,VBA/Macros,ETL/Pipelines,2,306,0.7
+Data Engineer,AWS,Azure,21,143,14.7
+Data Engineer,Azure,AWS,21,143,14.7
+Data Engineer,AWS,Data Warehousing/Modeling,30,143,21.0
+Data Engineer,Data Warehousing/Modeling,AWS,30,143,21.0
+Data Engineer,AWS,ETL/Pipelines,42,143,29.4
+Data Engineer,ETL/Pipelines,AWS,42,143,29.4
+Data Engineer,AWS,GCP/BigQuery,15,143,10.5
+Data Engineer,GCP/BigQuery,AWS,15,143,10.5
+Data Engineer,AWS,Problem Solving,19,143,13.3
+Data Engineer,Problem Solving,AWS,19,143,13.3
+Data Engineer,AWS,SQL,39,143,27.3
+Data Engineer,SQL,AWS,39,143,27.3
+Data Engineer,AWS,Snowflake,17,143,11.9
+Data Engineer,Snowflake,AWS,17,143,11.9
+Data Engineer,AWS,Spark/Big Data,32,143,22.4
+Data Engineer,Spark/Big Data,AWS,32,143,22.4
+Data Engineer,Azure,Data Warehousing/Modeling,31,143,21.7
+Data Engineer,Data Warehousing/Modeling,Azure,31,143,21.7
+Data Engineer,Azure,ETL/Pipelines,39,143,27.3
+Data Engineer,ETL/Pipelines,Azure,39,143,27.3
+Data Engineer,Azure,GCP/BigQuery,14,143,9.8
+Data Engineer,GCP/BigQuery,Azure,14,143,9.8
+Data Engineer,Azure,Problem Solving,19,143,13.3
+Data Engineer,Problem Solving,Azure,19,143,13.3
+Data Engineer,Azure,SQL,42,143,29.4
+Data Engineer,SQL,Azure,42,143,29.4
+Data Engineer,Azure,Snowflake,18,143,12.6
+Data Engineer,Snowflake,Azure,18,143,12.6
+Data Engineer,Azure,Spark/Big Data,34,143,23.8
+Data Engineer,Spark/Big Data,Azure,34,143,23.8
+Data Engineer,Data Warehousing/Modeling,ETL/Pipelines,61,143,42.7
+Data Engineer,ETL/Pipelines,Data Warehousing/Modeling,61,143,42.7
+Data Engineer,Data Warehousing/Modeling,GCP/BigQuery,17,143,11.9
+Data Engineer,GCP/BigQuery,Data Warehousing/Modeling,17,143,11.9
+Data Engineer,Data Warehousing/Modeling,Problem Solving,32,143,22.4
+Data Engineer,Problem Solving,Data Warehousing/Modeling,32,143,22.4
+Data Engineer,Data Warehousing/Modeling,SQL,62,143,43.4
+Data Engineer,SQL,Data Warehousing/Modeling,62,143,43.4
+Data Engineer,Data Warehousing/Modeling,Snowflake,23,143,16.1
+Data Engineer,Snowflake,Data Warehousing/Modeling,23,143,16.1
+Data Engineer,Data Warehousing/Modeling,Spark/Big Data,42,143,29.4
+Data Engineer,Spark/Big Data,Data Warehousing/Modeling,42,143,29.4
+Data Engineer,ETL/Pipelines,GCP/BigQuery,18,143,12.6
+Data Engineer,GCP/BigQuery,ETL/Pipelines,18,143,12.6
+Data Engineer,ETL/Pipelines,Problem Solving,38,143,26.6
+Data Engineer,Problem Solving,ETL/Pipelines,38,143,26.6
+Data Engineer,ETL/Pipelines,SQL,84,143,58.7
+Data Engineer,SQL,ETL/Pipelines,84,143,58.7
+Data Engineer,ETL/Pipelines,Snowflake,25,143,17.5
+Data Engineer,Snowflake,ETL/Pipelines,25,143,17.5
+Data Engineer,ETL/Pipelines,Spark/Big Data,62,143,43.4
+Data Engineer,Spark/Big Data,ETL/Pipelines,62,143,43.4
+Data Engineer,GCP/BigQuery,Problem Solving,6,143,4.2
+Data Engineer,Problem Solving,GCP/BigQuery,6,143,4.2
+Data Engineer,GCP/BigQuery,SQL,20,143,14.0
+Data Engineer,SQL,GCP/BigQuery,20,143,14.0
+Data Engineer,GCP/BigQuery,Snowflake,7,143,4.9
+Data Engineer,Snowflake,GCP/BigQuery,7,143,4.9
+Data Engineer,GCP/BigQuery,Spark/Big Data,18,143,12.6
+Data Engineer,Spark/Big Data,GCP/BigQuery,18,143,12.6
+Data Engineer,Problem Solving,SQL,41,143,28.7
+Data Engineer,SQL,Problem Solving,41,143,28.7
+Data Engineer,Problem Solving,Snowflake,13,143,9.1
+Data Engineer,Snowflake,Problem Solving,13,143,9.1
+Data Engineer,Problem Solving,Spark/Big Data,23,143,16.1
+Data Engineer,Spark/Big Data,Problem Solving,23,143,16.1
+Data Engineer,SQL,Snowflake,27,143,18.9
+Data Engineer,Snowflake,SQL,27,143,18.9
+Data Engineer,SQL,Spark/Big Data,61,143,42.7
+Data Engineer,Spark/Big Data,SQL,61,143,42.7
+Data Engineer,Snowflake,Spark/Big Data,19,143,13.3
+Data Engineer,Spark/Big Data,Snowflake,19,143,13.3
+Data Engineer,AWS,Communication,29,143,20.3
+Data Engineer,Communication,AWS,29,143,20.3
+Data Engineer,AWS,Excel,2,143,1.4
+Data Engineer,Excel,AWS,2,143,1.4
+Data Engineer,Communication,Data Warehousing/Modeling,42,143,29.4
+Data Engineer,Data Warehousing/Modeling,Communication,42,143,29.4
+Data Engineer,Communication,ETL/Pipelines,57,143,39.9
+Data Engineer,ETL/Pipelines,Communication,57,143,39.9
+Data Engineer,Communication,Excel,6,143,4.2
+Data Engineer,Excel,Communication,6,143,4.2
+Data Engineer,Communication,SQL,59,143,41.3
+Data Engineer,SQL,Communication,59,143,41.3
+Data Engineer,Communication,Snowflake,22,143,15.4
+Data Engineer,Snowflake,Communication,22,143,15.4
+Data Engineer,Data Warehousing/Modeling,Excel,3,143,2.1
+Data Engineer,Excel,Data Warehousing/Modeling,3,143,2.1
+Data Engineer,ETL/Pipelines,Excel,6,143,4.2
+Data Engineer,Excel,ETL/Pipelines,6,143,4.2
+Data Engineer,Excel,SQL,7,143,4.9
+Data Engineer,SQL,Excel,7,143,4.9
+Data Engineer,Excel,Snowflake,2,143,1.4
+Data Engineer,Snowflake,Excel,2,143,1.4
+Data Engineer,Data Warehousing/Modeling,Python,52,143,36.4
+Data Engineer,Python,Data Warehousing/Modeling,52,143,36.4
+Data Engineer,ETL/Pipelines,Python,68,143,47.6
+Data Engineer,Python,ETL/Pipelines,68,143,47.6
+Data Engineer,GCP/BigQuery,Python,20,143,14.0
+Data Engineer,Python,GCP/BigQuery,20,143,14.0
+Data Engineer,Python,SQL,74,143,51.7
+Data Engineer,SQL,Python,74,143,51.7
+Data Engineer,Azure,Communication,25,143,17.5
+Data Engineer,Communication,Azure,25,143,17.5
+Data Engineer,Communication,GCP/BigQuery,11,143,7.7
+Data Engineer,GCP/BigQuery,Communication,11,143,7.7
+Data Engineer,Communication,Problem Solving,38,143,26.6
+Data Engineer,Problem Solving,Communication,38,143,26.6
+Data Engineer,AWS,Git/GitHub,7,143,4.9
+Data Engineer,Git/GitHub,AWS,7,143,4.9
+Data Engineer,AWS,Python,36,143,25.2
+Data Engineer,Python,AWS,36,143,25.2
+Data Engineer,Communication,Git/GitHub,11,143,7.7
+Data Engineer,Git/GitHub,Communication,11,143,7.7
+Data Engineer,Communication,Python,53,143,37.1
+Data Engineer,Python,Communication,53,143,37.1
+Data Engineer,Data Warehousing/Modeling,Git/GitHub,11,143,7.7
+Data Engineer,Git/GitHub,Data Warehousing/Modeling,11,143,7.7
+Data Engineer,ETL/Pipelines,Git/GitHub,14,143,9.8
+Data Engineer,Git/GitHub,ETL/Pipelines,14,143,9.8
+Data Engineer,Git/GitHub,Problem Solving,6,143,4.2
+Data Engineer,Problem Solving,Git/GitHub,6,143,4.2
+Data Engineer,Git/GitHub,Python,16,143,11.2
+Data Engineer,Python,Git/GitHub,16,143,11.2
+Data Engineer,Git/GitHub,SQL,19,143,13.3
+Data Engineer,SQL,Git/GitHub,19,143,13.3
+Data Engineer,Git/GitHub,Snowflake,7,143,4.9
+Data Engineer,Snowflake,Git/GitHub,7,143,4.9
+Data Engineer,Problem Solving,Python,38,143,26.6
+Data Engineer,Python,Problem Solving,38,143,26.6
+Data Engineer,Python,Snowflake,23,143,16.1
+Data Engineer,Snowflake,Python,23,143,16.1
+Data Engineer,Communication,Spark/Big Data,46,143,32.2
+Data Engineer,Spark/Big Data,Communication,46,143,32.2
+Data Engineer,GCP/BigQuery,Git/GitHub,4,143,2.8
+Data Engineer,Git/GitHub,GCP/BigQuery,4,143,2.8
+Data Engineer,AWS,Deep Learning,1,143,0.7
+Data Engineer,Deep Learning,AWS,1,143,0.7
+Data Engineer,AWS,Machine Learning,11,143,7.7
+Data Engineer,Machine Learning,AWS,11,143,7.7
+Data Engineer,Azure,Deep Learning,2,143,1.4
+Data Engineer,Deep Learning,Azure,2,143,1.4
+Data Engineer,Azure,Machine Learning,9,143,6.3
+Data Engineer,Machine Learning,Azure,9,143,6.3
+Data Engineer,Azure,Python,32,143,22.4
+Data Engineer,Python,Azure,32,143,22.4
+Data Engineer,Communication,Deep Learning,1,143,0.7
+Data Engineer,Deep Learning,Communication,1,143,0.7
+Data Engineer,Communication,Machine Learning,17,143,11.9
+Data Engineer,Machine Learning,Communication,17,143,11.9
+Data Engineer,Data Warehousing/Modeling,Deep Learning,2,143,1.4
+Data Engineer,Deep Learning,Data Warehousing/Modeling,2,143,1.4
+Data Engineer,Data Warehousing/Modeling,Machine Learning,19,143,13.3
+Data Engineer,Machine Learning,Data Warehousing/Modeling,19,143,13.3
+Data Engineer,Deep Learning,ETL/Pipelines,2,143,1.4
+Data Engineer,ETL/Pipelines,Deep Learning,2,143,1.4
+Data Engineer,Deep Learning,GCP/BigQuery,2,143,1.4
+Data Engineer,GCP/BigQuery,Deep Learning,2,143,1.4
+Data Engineer,Deep Learning,Machine Learning,2,143,1.4
+Data Engineer,Machine Learning,Deep Learning,2,143,1.4
+Data Engineer,Deep Learning,Python,2,143,1.4
+Data Engineer,Python,Deep Learning,2,143,1.4
+Data Engineer,Deep Learning,SQL,2,143,1.4
+Data Engineer,SQL,Deep Learning,2,143,1.4
+Data Engineer,Deep Learning,Spark/Big Data,2,143,1.4
+Data Engineer,Spark/Big Data,Deep Learning,2,143,1.4
+Data Engineer,ETL/Pipelines,Machine Learning,24,143,16.8
+Data Engineer,Machine Learning,ETL/Pipelines,24,143,16.8
+Data Engineer,GCP/BigQuery,Machine Learning,7,143,4.9
+Data Engineer,Machine Learning,GCP/BigQuery,7,143,4.9
+Data Engineer,Machine Learning,Python,25,143,17.5
+Data Engineer,Python,Machine Learning,25,143,17.5
+Data Engineer,Machine Learning,SQL,24,143,16.8
+Data Engineer,SQL,Machine Learning,24,143,16.8
+Data Engineer,Machine Learning,Spark/Big Data,21,143,14.7
+Data Engineer,Spark/Big Data,Machine Learning,21,143,14.7
+Data Engineer,Python,Spark/Big Data,60,143,42.0
+Data Engineer,Spark/Big Data,Python,60,143,42.0
+Data Engineer,AWS,Data Visualization,4,143,2.8
+Data Engineer,Data Visualization,AWS,4,143,2.8
+Data Engineer,Communication,Data Visualization,15,143,10.5
+Data Engineer,Data Visualization,Communication,15,143,10.5
+Data Engineer,Data Visualization,ETL/Pipelines,19,143,13.3
+Data Engineer,ETL/Pipelines,Data Visualization,19,143,13.3
+Data Engineer,Data Visualization,Problem Solving,10,143,7.0
+Data Engineer,Problem Solving,Data Visualization,10,143,7.0
+Data Engineer,Data Visualization,Python,15,143,10.5
+Data Engineer,Python,Data Visualization,15,143,10.5
+Data Engineer,Data Visualization,SQL,22,143,15.4
+Data Engineer,SQL,Data Visualization,22,143,15.4
+Data Engineer,Data Visualization,Spark/Big Data,15,143,10.5
+Data Engineer,Spark/Big Data,Data Visualization,15,143,10.5
+Data Engineer,Azure,Power BI,15,143,10.5
+Data Engineer,Power BI,Azure,15,143,10.5
+Data Engineer,ETL/Pipelines,Power BI,15,143,10.5
+Data Engineer,Power BI,ETL/Pipelines,15,143,10.5
+Data Engineer,Power BI,Python,13,143,9.1
+Data Engineer,Python,Power BI,13,143,9.1
+Data Engineer,Power BI,SQL,20,143,14.0
+Data Engineer,SQL,Power BI,20,143,14.0
+Data Engineer,Power BI,Spark/Big Data,13,143,9.1
+Data Engineer,Spark/Big Data,Power BI,13,143,9.1
+Data Engineer,Communication,Power BI,11,143,7.7
+Data Engineer,Power BI,Communication,11,143,7.7
+Data Engineer,Data Warehousing/Modeling,Power BI,13,143,9.1
+Data Engineer,Power BI,Data Warehousing/Modeling,13,143,9.1
+Data Engineer,Power BI,Problem Solving,7,143,4.9
+Data Engineer,Problem Solving,Power BI,7,143,4.9
+Data Engineer,Communication,Tableau,10,143,7.0
+Data Engineer,Tableau,Communication,10,143,7.0
+Data Engineer,Data Visualization,Excel,3,143,2.1
+Data Engineer,Excel,Data Visualization,3,143,2.1
+Data Engineer,Data Visualization,Tableau,9,143,6.3
+Data Engineer,Tableau,Data Visualization,9,143,6.3
+Data Engineer,ETL/Pipelines,Tableau,13,143,9.1
+Data Engineer,Tableau,ETL/Pipelines,13,143,9.1
+Data Engineer,Excel,Tableau,1,143,0.7
+Data Engineer,Tableau,Excel,1,143,0.7
+Data Engineer,SQL,Tableau,14,143,9.8
+Data Engineer,Tableau,SQL,14,143,9.8
+Data Engineer,Azure,Git/GitHub,6,143,4.2
+Data Engineer,Git/GitHub,Azure,6,143,4.2
+Data Engineer,Git/GitHub,Spark/Big Data,12,143,8.4
+Data Engineer,Spark/Big Data,Git/GitHub,12,143,8.4
+Data Engineer,AWS,Statistics,2,143,1.4
+Data Engineer,Statistics,AWS,2,143,1.4
+Data Engineer,Azure,Statistics,7,143,4.9
+Data Engineer,Statistics,Azure,7,143,4.9
+Data Engineer,Communication,Statistics,6,143,4.2
+Data Engineer,Statistics,Communication,6,143,4.2
+Data Engineer,Data Warehousing/Modeling,Statistics,8,143,5.6
+Data Engineer,Statistics,Data Warehousing/Modeling,8,143,5.6
+Data Engineer,ETL/Pipelines,Statistics,10,143,7.0
+Data Engineer,Statistics,ETL/Pipelines,10,143,7.0
+Data Engineer,GCP/BigQuery,Statistics,1,143,0.7
+Data Engineer,Statistics,GCP/BigQuery,1,143,0.7
+Data Engineer,Machine Learning,Problem Solving,8,143,5.6
+Data Engineer,Problem Solving,Machine Learning,8,143,5.6
+Data Engineer,Machine Learning,Statistics,6,143,4.2
+Data Engineer,Statistics,Machine Learning,6,143,4.2
+Data Engineer,Problem Solving,Statistics,6,143,4.2
+Data Engineer,Statistics,Problem Solving,6,143,4.2
+Data Engineer,Python,Statistics,7,143,4.9
+Data Engineer,Statistics,Python,7,143,4.9
+Data Engineer,SQL,Statistics,9,143,6.3
+Data Engineer,Statistics,SQL,9,143,6.3
+Data Engineer,Spark/Big Data,Statistics,5,143,3.5
+Data Engineer,Statistics,Spark/Big Data,5,143,3.5
+Data Engineer,Data Visualization,Git/GitHub,4,143,2.8
+Data Engineer,Git/GitHub,Data Visualization,4,143,2.8
+Data Engineer,Git/GitHub,Tableau,3,143,2.1
+Data Engineer,Tableau,Git/GitHub,3,143,2.1
+Data Engineer,Python,Tableau,9,143,6.3
+Data Engineer,Tableau,Python,9,143,6.3
+Data Engineer,Spark/Big Data,Tableau,9,143,6.3
+Data Engineer,Tableau,Spark/Big Data,9,143,6.3
+Data Engineer,Data Visualization,Power BI,9,143,6.3
+Data Engineer,Power BI,Data Visualization,9,143,6.3
+Data Engineer,Data Visualization,R,2,143,1.4
+Data Engineer,R,Data Visualization,2,143,1.4
+Data Engineer,Power BI,R,2,143,1.4
+Data Engineer,R,Power BI,2,143,1.4
+Data Engineer,Python,R,2,143,1.4
+Data Engineer,R,Python,2,143,1.4
+Data Engineer,R,SQL,2,143,1.4
+Data Engineer,SQL,R,2,143,1.4
+Data Engineer,Communication,Pandas/NumPy,3,143,2.1
+Data Engineer,Pandas/NumPy,Communication,3,143,2.1
+Data Engineer,Data Visualization,Data Warehousing/Modeling,12,143,8.4
+Data Engineer,Data Warehousing/Modeling,Data Visualization,12,143,8.4
+Data Engineer,Data Visualization,Pandas/NumPy,3,143,2.1
+Data Engineer,Pandas/NumPy,Data Visualization,3,143,2.1
+Data Engineer,Data Warehousing/Modeling,Pandas/NumPy,3,143,2.1
+Data Engineer,Pandas/NumPy,Data Warehousing/Modeling,3,143,2.1
+Data Engineer,Pandas/NumPy,Problem Solving,3,143,2.1
+Data Engineer,Problem Solving,Pandas/NumPy,3,143,2.1
+Data Engineer,Pandas/NumPy,Python,5,143,3.5
+Data Engineer,Python,Pandas/NumPy,5,143,3.5
+Data Engineer,Azure,Data Visualization,7,143,4.9
+Data Engineer,Data Visualization,Azure,7,143,4.9
+Data Engineer,Azure,Tableau,5,143,3.5
+Data Engineer,Tableau,Azure,5,143,3.5
+Data Engineer,Data Visualization,Snowflake,5,143,3.5
+Data Engineer,Snowflake,Data Visualization,5,143,3.5
+Data Engineer,Data Warehousing/Modeling,Tableau,9,143,6.3
+Data Engineer,Tableau,Data Warehousing/Modeling,9,143,6.3
+Data Engineer,Problem Solving,Tableau,5,143,3.5
+Data Engineer,Tableau,Problem Solving,5,143,3.5
+Data Engineer,Snowflake,Tableau,6,143,4.2
+Data Engineer,Tableau,Snowflake,6,143,4.2
+Data Engineer,ETL/Pipelines,Pandas/NumPy,3,143,2.1
+Data Engineer,Pandas/NumPy,ETL/Pipelines,3,143,2.1
+Data Engineer,Machine Learning,Pandas/NumPy,3,143,2.1
+Data Engineer,Pandas/NumPy,Machine Learning,3,143,2.1
+Data Engineer,Pandas/NumPy,SQL,5,143,3.5
+Data Engineer,SQL,Pandas/NumPy,5,143,3.5
+Data Engineer,AWS,NLP/GenAI,1,143,0.7
+Data Engineer,NLP/GenAI,AWS,1,143,0.7
+Data Engineer,Azure,NLP/GenAI,2,143,1.4
+Data Engineer,NLP/GenAI,Azure,2,143,1.4
+Data Engineer,Communication,NLP/GenAI,3,143,2.1
+Data Engineer,NLP/GenAI,Communication,3,143,2.1
+Data Engineer,Data Warehousing/Modeling,NLP/GenAI,2,143,1.4
+Data Engineer,NLP/GenAI,Data Warehousing/Modeling,2,143,1.4
+Data Engineer,ETL/Pipelines,NLP/GenAI,4,143,2.8
+Data Engineer,NLP/GenAI,ETL/Pipelines,4,143,2.8
+Data Engineer,GCP/BigQuery,NLP/GenAI,1,143,0.7
+Data Engineer,NLP/GenAI,GCP/BigQuery,1,143,0.7
+Data Engineer,Machine Learning,NLP/GenAI,3,143,2.1
+Data Engineer,NLP/GenAI,Machine Learning,3,143,2.1
+Data Engineer,Machine Learning,Snowflake,6,143,4.2
+Data Engineer,Snowflake,Machine Learning,6,143,4.2
+Data Engineer,NLP/GenAI,Problem Solving,1,143,0.7
+Data Engineer,Problem Solving,NLP/GenAI,1,143,0.7
+Data Engineer,NLP/GenAI,Python,4,143,2.8
+Data Engineer,Python,NLP/GenAI,4,143,2.8
+Data Engineer,NLP/GenAI,SQL,3,143,2.1
+Data Engineer,SQL,NLP/GenAI,3,143,2.1
+Data Engineer,NLP/GenAI,Snowflake,1,143,0.7
+Data Engineer,Snowflake,NLP/GenAI,1,143,0.7
+Data Engineer,NLP/GenAI,Spark/Big Data,4,143,2.8
+Data Engineer,Spark/Big Data,NLP/GenAI,4,143,2.8
+Data Engineer,Git/GitHub,Power BI,4,143,2.8
+Data Engineer,Power BI,Git/GitHub,4,143,2.8
+Data Engineer,Power BI,Snowflake,9,143,6.3
+Data Engineer,Snowflake,Power BI,9,143,6.3
+Data Engineer,AWS,Tableau,3,143,2.1
+Data Engineer,Tableau,AWS,3,143,2.1
+Data Engineer,GCP/BigQuery,Tableau,3,143,2.1
+Data Engineer,Tableau,GCP/BigQuery,3,143,2.1
+Data Engineer,Communication,VBA/Macros,2,143,1.4
+Data Engineer,VBA/Macros,Communication,2,143,1.4
+Data Engineer,Data Visualization,VBA/Macros,2,143,1.4
+Data Engineer,VBA/Macros,Data Visualization,2,143,1.4
+Data Engineer,ETL/Pipelines,VBA/Macros,2,143,1.4
+Data Engineer,VBA/Macros,ETL/Pipelines,2,143,1.4
+Data Engineer,Power BI,Tableau,10,143,7.0
+Data Engineer,Tableau,Power BI,10,143,7.0
+Data Engineer,Power BI,VBA/Macros,2,143,1.4
+Data Engineer,VBA/Macros,Power BI,2,143,1.4
+Data Engineer,Problem Solving,VBA/Macros,2,143,1.4
+Data Engineer,VBA/Macros,Problem Solving,2,143,1.4
+Data Engineer,SQL,VBA/Macros,2,143,1.4
+Data Engineer,VBA/Macros,SQL,2,143,1.4
+Data Engineer,Tableau,VBA/Macros,2,143,1.4
+Data Engineer,VBA/Macros,Tableau,2,143,1.4
+Data Engineer,Git/GitHub,Machine Learning,4,143,2.8
+Data Engineer,Machine Learning,Git/GitHub,4,143,2.8
+Data Engineer,Machine Learning,Power BI,7,143,4.9
+Data Engineer,Power BI,Machine Learning,7,143,4.9
+Data Engineer,Machine Learning,Tableau,5,143,3.5
+Data Engineer,Tableau,Machine Learning,5,143,3.5
+Data Engineer,Pandas/NumPy,Power BI,1,143,0.7
+Data Engineer,Power BI,Pandas/NumPy,1,143,0.7
+Data Engineer,Pandas/NumPy,Tableau,1,143,0.7
+Data Engineer,Tableau,Pandas/NumPy,1,143,0.7
+Data Engineer,Data Visualization,Deep Learning,1,143,0.7
+Data Engineer,Deep Learning,Data Visualization,1,143,0.7
+Data Engineer,Data Visualization,GCP/BigQuery,2,143,1.4
+Data Engineer,GCP/BigQuery,Data Visualization,2,143,1.4
+Data Engineer,Data Visualization,Machine Learning,7,143,4.9
+Data Engineer,Machine Learning,Data Visualization,7,143,4.9
+Data Engineer,Deep Learning,Power BI,1,143,0.7
+Data Engineer,Power BI,Deep Learning,1,143,0.7
+Data Engineer,Deep Learning,Snowflake,1,143,0.7
+Data Engineer,Snowflake,Deep Learning,1,143,0.7
+Data Engineer,Deep Learning,Tableau,1,143,0.7
+Data Engineer,Tableau,Deep Learning,1,143,0.7
+Data Engineer,GCP/BigQuery,Power BI,2,143,1.4
+Data Engineer,Power BI,GCP/BigQuery,2,143,1.4
+Data Engineer,Git/GitHub,Statistics,3,143,2.1
+Data Engineer,Statistics,Git/GitHub,3,143,2.1
+Data Engineer,Excel,Machine Learning,3,143,2.1
+Data Engineer,Machine Learning,Excel,3,143,2.1
+Data Engineer,Excel,Problem Solving,3,143,2.1
+Data Engineer,Problem Solving,Excel,3,143,2.1
+Data Engineer,Excel,Python,6,143,4.2
+Data Engineer,Python,Excel,6,143,4.2
+Data Engineer,Excel,Spark/Big Data,5,143,3.5
+Data Engineer,Spark/Big Data,Excel,5,143,3.5
+Data Engineer,Data Visualization,Statistics,3,143,2.1
+Data Engineer,Statistics,Data Visualization,3,143,2.1
+Data Engineer,AWS,Pandas/NumPy,1,143,0.7
+Data Engineer,Pandas/NumPy,AWS,1,143,0.7
+Data Engineer,Git/GitHub,Pandas/NumPy,2,143,1.4
+Data Engineer,Pandas/NumPy,Git/GitHub,2,143,1.4
+Data Engineer,Pandas/NumPy,Spark/Big Data,3,143,2.1
+Data Engineer,Spark/Big Data,Pandas/NumPy,3,143,2.1
+Data Engineer,Azure,Excel,2,143,1.4
+Data Engineer,Excel,Azure,2,143,1.4
+Data Engineer,Excel,Git/GitHub,2,143,1.4
+Data Engineer,Git/GitHub,Excel,2,143,1.4
+Data Engineer,Excel,Power BI,1,143,0.7
+Data Engineer,Power BI,Excel,1,143,0.7
+Data Engineer,Excel,Statistics,2,143,1.4
+Data Engineer,Statistics,Excel,2,143,1.4
+Data Engineer,Power BI,Statistics,4,143,2.8
+Data Engineer,Statistics,Power BI,4,143,2.8
+Data Engineer,Communication,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,Communication,1,143,0.7
+Data Engineer,Data Visualization,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,Data Visualization,1,143,0.7
+Data Engineer,ETL/Pipelines,Looker/Qlik,2,143,1.4
+Data Engineer,Looker/Qlik,ETL/Pipelines,2,143,1.4
+Data Engineer,Looker/Qlik,Problem Solving,1,143,0.7
+Data Engineer,Problem Solving,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,Python,1,143,0.7
+Data Engineer,Python,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,SQL,2,143,1.4
+Data Engineer,SQL,Looker/Qlik,2,143,1.4
+Data Engineer,Data Visualization,NLP/GenAI,1,143,0.7
+Data Engineer,NLP/GenAI,Data Visualization,1,143,0.7
+Data Engineer,Data Warehousing/Modeling,R,1,143,0.7
+Data Engineer,R,Data Warehousing/Modeling,1,143,0.7
+Data Engineer,ETL/Pipelines,R,1,143,0.7
+Data Engineer,R,ETL/Pipelines,1,143,0.7
+Data Engineer,Machine Learning,R,1,143,0.7
+Data Engineer,R,Machine Learning,1,143,0.7
+Data Engineer,NLP/GenAI,Power BI,1,143,0.7
+Data Engineer,Power BI,NLP/GenAI,1,143,0.7
+Data Engineer,NLP/GenAI,R,1,143,0.7
+Data Engineer,R,NLP/GenAI,1,143,0.7
+Data Engineer,NLP/GenAI,Tableau,1,143,0.7
+Data Engineer,Tableau,NLP/GenAI,1,143,0.7
+Data Engineer,R,Spark/Big Data,1,143,0.7
+Data Engineer,Spark/Big Data,R,1,143,0.7
+Data Engineer,R,Tableau,1,143,0.7
+Data Engineer,Tableau,R,1,143,0.7
+Data Engineer,Data Warehousing/Modeling,SAS/SPSS,1,143,0.7
+Data Engineer,SAS/SPSS,Data Warehousing/Modeling,1,143,0.7
+Data Engineer,ETL/Pipelines,SAS/SPSS,1,143,0.7
+Data Engineer,SAS/SPSS,ETL/Pipelines,1,143,0.7
+Data Engineer,GCP/BigQuery,SAS/SPSS,1,143,0.7
+Data Engineer,SAS/SPSS,GCP/BigQuery,1,143,0.7
+Data Engineer,Python,SAS/SPSS,1,143,0.7
+Data Engineer,SAS/SPSS,Python,1,143,0.7
+Data Engineer,SAS/SPSS,SQL,1,143,0.7
+Data Engineer,SQL,SAS/SPSS,1,143,0.7
+Data Engineer,SAS/SPSS,Spark/Big Data,1,143,0.7
+Data Engineer,Spark/Big Data,SAS/SPSS,1,143,0.7
+Data Engineer,Azure,DAX/Power Query,2,143,1.4
+Data Engineer,DAX/Power Query,Azure,2,143,1.4
+Data Engineer,DAX/Power Query,Data Visualization,1,143,0.7
+Data Engineer,Data Visualization,DAX/Power Query,1,143,0.7
+Data Engineer,DAX/Power Query,Data Warehousing/Modeling,1,143,0.7
+Data Engineer,Data Warehousing/Modeling,DAX/Power Query,1,143,0.7
+Data Engineer,DAX/Power Query,Power BI,2,143,1.4
+Data Engineer,Power BI,DAX/Power Query,2,143,1.4
+Data Engineer,DAX/Power Query,SQL,2,143,1.4
+Data Engineer,SQL,DAX/Power Query,2,143,1.4
+Data Engineer,DAX/Power Query,Spark/Big Data,2,143,1.4
+Data Engineer,Spark/Big Data,DAX/Power Query,2,143,1.4
+Data Engineer,Statistics,Tableau,1,143,0.7
+Data Engineer,Tableau,Statistics,1,143,0.7
+Data Engineer,Excel,Pandas/NumPy,1,143,0.7
+Data Engineer,Pandas/NumPy,Excel,1,143,0.7
+Data Engineer,Snowflake,Statistics,1,143,0.7
+Data Engineer,Statistics,Snowflake,1,143,0.7
+Data Engineer,Excel,GCP/BigQuery,1,143,0.7
+Data Engineer,GCP/BigQuery,Excel,1,143,0.7
+Data Engineer,AWS,Power BI,2,143,1.4
+Data Engineer,Power BI,AWS,2,143,1.4
+Data Engineer,AWS,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,AWS,1,143,0.7
+Data Engineer,Azure,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,Azure,1,143,0.7
+Data Engineer,GCP/BigQuery,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,GCP/BigQuery,1,143,0.7
+Data Engineer,Looker/Qlik,Power BI,1,143,0.7
+Data Engineer,Power BI,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,Snowflake,1,143,0.7
+Data Engineer,Snowflake,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,Spark/Big Data,1,143,0.7
+Data Engineer,Spark/Big Data,Looker/Qlik,1,143,0.7
+Data Engineer,Looker/Qlik,Tableau,1,143,0.7
+Data Engineer,Tableau,Looker/Qlik,1,143,0.7
+Data Engineer,Communication,DAX/Power Query,1,143,0.7
+Data Engineer,DAX/Power Query,Communication,1,143,0.7
+Data Engineer,DAX/Power Query,Git/GitHub,1,143,0.7
+Data Engineer,Git/GitHub,DAX/Power Query,1,143,0.7
+Data Engineer,DAX/Power Query,Python,1,143,0.7
+Data Engineer,Python,DAX/Power Query,1,143,0.7
+Data Engineer,DAX/Power Query,Snowflake,1,143,0.7
+Data Engineer,Snowflake,DAX/Power Query,1,143,0.7
+Data Scientist,Data Visualization,Deep Learning,36,234,15.4
+Data Scientist,Deep Learning,Data Visualization,36,234,15.4
+Data Scientist,Data Visualization,Machine Learning,83,234,35.5
+Data Scientist,Machine Learning,Data Visualization,83,234,35.5
+Data Scientist,Data Visualization,Python,95,234,40.6
+Data Scientist,Python,Data Visualization,95,234,40.6
+Data Scientist,Data Visualization,R,49,234,20.9
+Data Scientist,R,Data Visualization,49,234,20.9
+Data Scientist,Data Visualization,Statistics,95,234,40.6
+Data Scientist,Statistics,Data Visualization,95,234,40.6
+Data Scientist,Deep Learning,Machine Learning,82,234,35.0
+Data Scientist,Machine Learning,Deep Learning,82,234,35.0
+Data Scientist,Deep Learning,Python,77,234,32.9
+Data Scientist,Python,Deep Learning,77,234,32.9
+Data Scientist,Deep Learning,R,31,234,13.2
+Data Scientist,R,Deep Learning,31,234,13.2
+Data Scientist,Deep Learning,Statistics,74,234,31.6
+Data Scientist,Statistics,Deep Learning,74,234,31.6
+Data Scientist,Machine Learning,Python,160,234,68.4
+Data Scientist,Python,Machine Learning,160,234,68.4
+Data Scientist,Machine Learning,R,75,234,32.1
+Data Scientist,R,Machine Learning,75,234,32.1
+Data Scientist,Machine Learning,Statistics,147,234,62.8
+Data Scientist,Statistics,Machine Learning,147,234,62.8
+Data Scientist,Python,R,84,234,35.9
+Data Scientist,R,Python,84,234,35.9
+Data Scientist,Python,Statistics,158,234,67.5
+Data Scientist,Statistics,Python,158,234,67.5
+Data Scientist,R,Statistics,77,234,32.9
+Data Scientist,Statistics,R,77,234,32.9
+Data Scientist,Communication,Problem Solving,68,234,29.1
+Data Scientist,Problem Solving,Communication,68,234,29.1
+Data Scientist,Communication,Python,130,234,55.6
+Data Scientist,Python,Communication,130,234,55.6
+Data Scientist,Communication,R,61,234,26.1
+Data Scientist,R,Communication,61,234,26.1
+Data Scientist,Communication,SAS/SPSS,17,234,7.3
+Data Scientist,SAS/SPSS,Communication,17,234,7.3
+Data Scientist,Communication,Statistics,125,234,53.4
+Data Scientist,Statistics,Communication,125,234,53.4
+Data Scientist,Problem Solving,Python,74,234,31.6
+Data Scientist,Python,Problem Solving,74,234,31.6
+Data Scientist,Problem Solving,R,40,234,17.1
+Data Scientist,R,Problem Solving,40,234,17.1
+Data Scientist,Problem Solving,SAS/SPSS,12,234,5.1
+Data Scientist,SAS/SPSS,Problem Solving,12,234,5.1
+Data Scientist,Problem Solving,Statistics,68,234,29.1
+Data Scientist,Statistics,Problem Solving,68,234,29.1
+Data Scientist,Python,SAS/SPSS,21,234,9.0
+Data Scientist,SAS/SPSS,Python,21,234,9.0
+Data Scientist,R,SAS/SPSS,14,234,6.0
+Data Scientist,SAS/SPSS,R,14,234,6.0
+Data Scientist,SAS/SPSS,Statistics,21,234,9.0
+Data Scientist,Statistics,SAS/SPSS,21,234,9.0
+Data Scientist,Data Visualization,Power BI,24,234,10.3
+Data Scientist,Power BI,Data Visualization,24,234,10.3
+Data Scientist,Data Visualization,Tableau,42,234,17.9
+Data Scientist,Tableau,Data Visualization,42,234,17.9
+Data Scientist,Machine Learning,Power BI,20,234,8.5
+Data Scientist,Power BI,Machine Learning,20,234,8.5
+Data Scientist,Machine Learning,Tableau,36,234,15.4
+Data Scientist,Tableau,Machine Learning,36,234,15.4
+Data Scientist,Power BI,Python,24,234,10.3
+Data Scientist,Python,Power BI,24,234,10.3
+Data Scientist,Power BI,Statistics,23,234,9.8
+Data Scientist,Statistics,Power BI,23,234,9.8
+Data Scientist,Power BI,Tableau,22,234,9.4
+Data Scientist,Tableau,Power BI,22,234,9.4
+Data Scientist,Python,Tableau,48,234,20.5
+Data Scientist,Tableau,Python,48,234,20.5
+Data Scientist,Statistics,Tableau,45,234,19.2
+Data Scientist,Tableau,Statistics,45,234,19.2
+Data Scientist,Communication,Data Visualization,77,234,32.9
+Data Scientist,Data Visualization,Communication,77,234,32.9
+Data Scientist,Communication,Power BI,19,234,8.1
+Data Scientist,Power BI,Communication,19,234,8.1
+Data Scientist,Communication,Tableau,41,234,17.5
+Data Scientist,Tableau,Communication,41,234,17.5
+Data Scientist,Data Visualization,Problem Solving,46,234,19.7
+Data Scientist,Problem Solving,Data Visualization,46,234,19.7
+Data Scientist,Data Visualization,SAS/SPSS,8,234,3.4
+Data Scientist,SAS/SPSS,Data Visualization,8,234,3.4
+Data Scientist,Power BI,Problem Solving,11,234,4.7
+Data Scientist,Problem Solving,Power BI,11,234,4.7
+Data Scientist,Power BI,SAS/SPSS,4,234,1.7
+Data Scientist,SAS/SPSS,Power BI,4,234,1.7
+Data Scientist,Problem Solving,Tableau,26,234,11.1
+Data Scientist,Tableau,Problem Solving,26,234,11.1
+Data Scientist,SAS/SPSS,Tableau,9,234,3.8
+Data Scientist,Tableau,SAS/SPSS,9,234,3.8
+Data Scientist,Communication,Data Warehousing/Modeling,27,234,11.5
+Data Scientist,Data Warehousing/Modeling,Communication,27,234,11.5
+Data Scientist,Communication,Excel,18,234,7.7
+Data Scientist,Excel,Communication,18,234,7.7
+Data Scientist,Communication,Machine Learning,117,234,50.0
+Data Scientist,Machine Learning,Communication,117,234,50.0
+Data Scientist,Communication,SQL,91,234,38.9
+Data Scientist,SQL,Communication,91,234,38.9
+Data Scientist,Communication,Spark/Big Data,52,234,22.2
+Data Scientist,Spark/Big Data,Communication,52,234,22.2
+Data Scientist,Data Visualization,Data Warehousing/Modeling,19,234,8.1
+Data Scientist,Data Warehousing/Modeling,Data Visualization,19,234,8.1
+Data Scientist,Data Visualization,Excel,13,234,5.6
+Data Scientist,Excel,Data Visualization,13,234,5.6
+Data Scientist,Data Visualization,SQL,66,234,28.2
+Data Scientist,SQL,Data Visualization,66,234,28.2
+Data Scientist,Data Visualization,Spark/Big Data,46,234,19.7
+Data Scientist,Spark/Big Data,Data Visualization,46,234,19.7
+Data Scientist,Data Warehousing/Modeling,Excel,7,234,3.0
+Data Scientist,Excel,Data Warehousing/Modeling,7,234,3.0
+Data Scientist,Data Warehousing/Modeling,Machine Learning,27,234,11.5
+Data Scientist,Machine Learning,Data Warehousing/Modeling,27,234,11.5
+Data Scientist,Data Warehousing/Modeling,Problem Solving,16,234,6.8
+Data Scientist,Problem Solving,Data Warehousing/Modeling,16,234,6.8
+Data Scientist,Data Warehousing/Modeling,Python,32,234,13.7
+Data Scientist,Python,Data Warehousing/Modeling,32,234,13.7
+Data Scientist,Data Warehousing/Modeling,SQL,24,234,10.3
+Data Scientist,SQL,Data Warehousing/Modeling,24,234,10.3
+Data Scientist,Data Warehousing/Modeling,Spark/Big Data,17,234,7.3
+Data Scientist,Spark/Big Data,Data Warehousing/Modeling,17,234,7.3
+Data Scientist,Data Warehousing/Modeling,Statistics,33,234,14.1
+Data Scientist,Statistics,Data Warehousing/Modeling,33,234,14.1
+Data Scientist,Data Warehousing/Modeling,Tableau,11,234,4.7
+Data Scientist,Tableau,Data Warehousing/Modeling,11,234,4.7
+Data Scientist,Excel,Machine Learning,17,234,7.3
+Data Scientist,Machine Learning,Excel,17,234,7.3
+Data Scientist,Excel,Problem Solving,12,234,5.1
+Data Scientist,Problem Solving,Excel,12,234,5.1
+Data Scientist,Excel,Python,23,234,9.8
+Data Scientist,Python,Excel,23,234,9.8
+Data Scientist,Excel,SQL,21,234,9.0
+Data Scientist,SQL,Excel,21,234,9.0
+Data Scientist,Excel,Spark/Big Data,6,234,2.6
+Data Scientist,Spark/Big Data,Excel,6,234,2.6
+Data Scientist,Excel,Statistics,21,234,9.0
+Data Scientist,Statistics,Excel,21,234,9.0
+Data Scientist,Excel,Tableau,12,234,5.1
+Data Scientist,Tableau,Excel,12,234,5.1
+Data Scientist,Machine Learning,Problem Solving,66,234,28.2
+Data Scientist,Problem Solving,Machine Learning,66,234,28.2
+Data Scientist,Machine Learning,SQL,99,234,42.3
+Data Scientist,SQL,Machine Learning,99,234,42.3
+Data Scientist,Machine Learning,Spark/Big Data,70,234,29.9
+Data Scientist,Spark/Big Data,Machine Learning,70,234,29.9
+Data Scientist,Problem Solving,SQL,54,234,23.1
+Data Scientist,SQL,Problem Solving,54,234,23.1
+Data Scientist,Problem Solving,Spark/Big Data,29,234,12.4
+Data Scientist,Spark/Big Data,Problem Solving,29,234,12.4
+Data Scientist,Python,SQL,120,234,51.3
+Data Scientist,SQL,Python,120,234,51.3
+Data Scientist,Python,Spark/Big Data,74,234,31.6
+Data Scientist,Spark/Big Data,Python,74,234,31.6
+Data Scientist,SQL,Spark/Big Data,58,234,24.8
+Data Scientist,Spark/Big Data,SQL,58,234,24.8
+Data Scientist,SQL,Statistics,106,234,45.3
+Data Scientist,Statistics,SQL,106,234,45.3
+Data Scientist,SQL,Tableau,38,234,16.2
+Data Scientist,Tableau,SQL,38,234,16.2
+Data Scientist,Spark/Big Data,Statistics,71,234,30.3
+Data Scientist,Statistics,Spark/Big Data,71,234,30.3
+Data Scientist,Spark/Big Data,Tableau,19,234,8.1
+Data Scientist,Tableau,Spark/Big Data,19,234,8.1
+Data Scientist,Data Visualization,ETL/Pipelines,17,234,7.3
+Data Scientist,ETL/Pipelines,Data Visualization,17,234,7.3
+Data Scientist,Data Visualization,NLP/GenAI,18,234,7.7
+Data Scientist,NLP/GenAI,Data Visualization,18,234,7.7
+Data Scientist,Deep Learning,ETL/Pipelines,7,234,3.0
+Data Scientist,ETL/Pipelines,Deep Learning,7,234,3.0
+Data Scientist,Deep Learning,NLP/GenAI,36,234,15.4
+Data Scientist,NLP/GenAI,Deep Learning,36,234,15.4
+Data Scientist,Deep Learning,Spark/Big Data,40,234,17.1
+Data Scientist,Spark/Big Data,Deep Learning,40,234,17.1
+Data Scientist,ETL/Pipelines,Machine Learning,15,234,6.4
+Data Scientist,Machine Learning,ETL/Pipelines,15,234,6.4
+Data Scientist,ETL/Pipelines,NLP/GenAI,4,234,1.7
+Data Scientist,NLP/GenAI,ETL/Pipelines,4,234,1.7
+Data Scientist,ETL/Pipelines,Python,18,234,7.7
+Data Scientist,Python,ETL/Pipelines,18,234,7.7
+Data Scientist,ETL/Pipelines,Spark/Big Data,13,234,5.6
+Data Scientist,Spark/Big Data,ETL/Pipelines,13,234,5.6
+Data Scientist,Machine Learning,NLP/GenAI,51,234,21.8
+Data Scientist,NLP/GenAI,Machine Learning,51,234,21.8
+Data Scientist,NLP/GenAI,Python,45,234,19.2
+Data Scientist,Python,NLP/GenAI,45,234,19.2
+Data Scientist,NLP/GenAI,Spark/Big Data,20,234,8.5
+Data Scientist,Spark/Big Data,NLP/GenAI,20,234,8.5
+Data Scientist,Communication,Deep Learning,54,234,23.1
+Data Scientist,Deep Learning,Communication,54,234,23.1
+Data Scientist,Communication,Git/GitHub,13,234,5.6
+Data Scientist,Git/GitHub,Communication,13,234,5.6
+Data Scientist,Data Visualization,Git/GitHub,15,234,6.4
+Data Scientist,Git/GitHub,Data Visualization,15,234,6.4
+Data Scientist,Deep Learning,Git/GitHub,8,234,3.4
+Data Scientist,Git/GitHub,Deep Learning,8,234,3.4
+Data Scientist,Git/GitHub,Machine Learning,14,234,6.0
+Data Scientist,Machine Learning,Git/GitHub,14,234,6.0
+Data Scientist,Git/GitHub,Python,15,234,6.4
+Data Scientist,Python,Git/GitHub,15,234,6.4
+Data Scientist,Git/GitHub,R,6,234,2.6
+Data Scientist,R,Git/GitHub,6,234,2.6
+Data Scientist,Git/GitHub,Spark/Big Data,8,234,3.4
+Data Scientist,Spark/Big Data,Git/GitHub,8,234,3.4
+Data Scientist,Git/GitHub,Statistics,16,234,6.8
+Data Scientist,Statistics,Git/GitHub,16,234,6.8
+Data Scientist,R,Spark/Big Data,34,234,14.5
+Data Scientist,Spark/Big Data,R,34,234,14.5
+Data Scientist,Communication,ETL/Pipelines,15,234,6.4
+Data Scientist,ETL/Pipelines,Communication,15,234,6.4
+Data Scientist,ETL/Pipelines,SQL,12,234,5.1
+Data Scientist,SQL,ETL/Pipelines,12,234,5.1
+Data Scientist,ETL/Pipelines,Statistics,17,234,7.3
+Data Scientist,Statistics,ETL/Pipelines,17,234,7.3
+Data Scientist,Data Visualization,Pandas/NumPy,19,234,8.1
+Data Scientist,Pandas/NumPy,Data Visualization,19,234,8.1
+Data Scientist,Pandas/NumPy,Python,28,234,12.0
+Data Scientist,Python,Pandas/NumPy,28,234,12.0
+Data Scientist,Pandas/NumPy,R,10,234,4.3
+Data Scientist,R,Pandas/NumPy,10,234,4.3
+Data Scientist,Pandas/NumPy,SQL,19,234,8.1
+Data Scientist,SQL,Pandas/NumPy,19,234,8.1
+Data Scientist,Pandas/NumPy,Statistics,26,234,11.1
+Data Scientist,Statistics,Pandas/NumPy,26,234,11.1
+Data Scientist,R,SQL,54,234,23.1
+Data Scientist,SQL,R,54,234,23.1
+Data Scientist,Data Warehousing/Modeling,Deep Learning,13,234,5.6
+Data Scientist,Deep Learning,Data Warehousing/Modeling,13,234,5.6
+Data Scientist,Data Warehousing/Modeling,SAS/SPSS,6,234,2.6
+Data Scientist,SAS/SPSS,Data Warehousing/Modeling,6,234,2.6
+Data Scientist,Deep Learning,Excel,4,234,1.7
+Data Scientist,Excel,Deep Learning,4,234,1.7
+Data Scientist,Deep Learning,SAS/SPSS,6,234,2.6
+Data Scientist,SAS/SPSS,Deep Learning,6,234,2.6
+Data Scientist,Deep Learning,SQL,44,234,18.8
+Data Scientist,SQL,Deep Learning,44,234,18.8
+Data Scientist,Excel,SAS/SPSS,5,234,2.1
+Data Scientist,SAS/SPSS,Excel,5,234,2.1
+Data Scientist,SAS/SPSS,SQL,14,234,6.0
+Data Scientist,SQL,SAS/SPSS,14,234,6.0
+Data Scientist,Communication,Pandas/NumPy,20,234,8.5
+Data Scientist,Pandas/NumPy,Communication,20,234,8.5
+Data Scientist,Data Warehousing/Modeling,Pandas/NumPy,6,234,2.6
+Data Scientist,Pandas/NumPy,Data Warehousing/Modeling,6,234,2.6
+Data Scientist,Machine Learning,Pandas/NumPy,25,234,10.7
+Data Scientist,Pandas/NumPy,Machine Learning,25,234,10.7
+Data Scientist,Deep Learning,Pandas/NumPy,17,234,7.3
+Data Scientist,Pandas/NumPy,Deep Learning,17,234,7.3
+Data Scientist,ETL/Pipelines,Pandas/NumPy,5,234,2.1
+Data Scientist,Pandas/NumPy,ETL/Pipelines,5,234,2.1
+Data Scientist,Pandas/NumPy,Spark/Big Data,13,234,5.6
+Data Scientist,Spark/Big Data,Pandas/NumPy,13,234,5.6
+Data Scientist,Data Warehousing/Modeling,R,14,234,6.0
+Data Scientist,R,Data Warehousing/Modeling,14,234,6.0
+Data Scientist,Excel,R,10,234,4.3
+Data Scientist,R,Excel,10,234,4.3
+Data Scientist,R,Tableau,25,234,10.7
+Data Scientist,Tableau,R,25,234,10.7
+Data Scientist,Deep Learning,Problem Solving,36,234,15.4
+Data Scientist,Problem Solving,Deep Learning,36,234,15.4
+Data Scientist,AWS,Azure,17,234,7.3
+Data Scientist,Azure,AWS,17,234,7.3
+Data Scientist,AWS,Communication,25,234,10.7
+Data Scientist,Communication,AWS,25,234,10.7
+Data Scientist,AWS,Data Visualization,16,234,6.8
+Data Scientist,Data Visualization,AWS,16,234,6.8
+Data Scientist,AWS,Deep Learning,19,234,8.1
+Data Scientist,Deep Learning,AWS,19,234,8.1
+Data Scientist,AWS,GCP/BigQuery,14,234,6.0
+Data Scientist,GCP/BigQuery,AWS,14,234,6.0
+Data Scientist,AWS,Machine Learning,34,234,14.5
+Data Scientist,Machine Learning,AWS,34,234,14.5
+Data Scientist,AWS,NLP/GenAI,13,234,5.6
+Data Scientist,NLP/GenAI,AWS,13,234,5.6
+Data Scientist,AWS,Python,33,234,14.1
+Data Scientist,Python,AWS,33,234,14.1
+Data Scientist,AWS,R,15,234,6.4
+Data Scientist,R,AWS,15,234,6.4
+Data Scientist,AWS,SQL,24,234,10.3
+Data Scientist,SQL,AWS,24,234,10.3
+Data Scientist,AWS,Spark/Big Data,17,234,7.3
+Data Scientist,Spark/Big Data,AWS,17,234,7.3
+Data Scientist,AWS,Statistics,31,234,13.2
+Data Scientist,Statistics,AWS,31,234,13.2
+Data Scientist,AWS,Tableau,7,234,3.0
+Data Scientist,Tableau,AWS,7,234,3.0
+Data Scientist,Azure,Communication,19,234,8.1
+Data Scientist,Communication,Azure,19,234,8.1
+Data Scientist,Azure,Data Visualization,13,234,5.6
+Data Scientist,Data Visualization,Azure,13,234,5.6
+Data Scientist,Azure,Deep Learning,16,234,6.8
+Data Scientist,Deep Learning,Azure,16,234,6.8
+Data Scientist,Azure,GCP/BigQuery,11,234,4.7
+Data Scientist,GCP/BigQuery,Azure,11,234,4.7
+Data Scientist,Azure,Machine Learning,23,234,9.8
+Data Scientist,Machine Learning,Azure,23,234,9.8
+Data Scientist,Azure,NLP/GenAI,9,234,3.8
+Data Scientist,NLP/GenAI,Azure,9,234,3.8
+Data Scientist,Azure,Python,26,234,11.1
+Data Scientist,Python,Azure,26,234,11.1
+Data Scientist,Azure,R,12,234,5.1
+Data Scientist,R,Azure,12,234,5.1
+Data Scientist,Azure,SQL,21,234,9.0
+Data Scientist,SQL,Azure,21,234,9.0
+Data Scientist,Azure,Spark/Big Data,16,234,6.8
+Data Scientist,Spark/Big Data,Azure,16,234,6.8
+Data Scientist,Azure,Statistics,23,234,9.8
+Data Scientist,Statistics,Azure,23,234,9.8
+Data Scientist,Azure,Tableau,8,234,3.4
+Data Scientist,Tableau,Azure,8,234,3.4
+Data Scientist,Communication,GCP/BigQuery,11,234,4.7
+Data Scientist,GCP/BigQuery,Communication,11,234,4.7
+Data Scientist,Communication,NLP/GenAI,34,234,14.5
+Data Scientist,NLP/GenAI,Communication,34,234,14.5
+Data Scientist,Data Visualization,GCP/BigQuery,7,234,3.0
+Data Scientist,GCP/BigQuery,Data Visualization,7,234,3.0
+Data Scientist,Deep Learning,GCP/BigQuery,9,234,3.8
+Data Scientist,GCP/BigQuery,Deep Learning,9,234,3.8
+Data Scientist,Deep Learning,Tableau,14,234,6.0
+Data Scientist,Tableau,Deep Learning,14,234,6.0
+Data Scientist,GCP/BigQuery,Machine Learning,15,234,6.4
+Data Scientist,Machine Learning,GCP/BigQuery,15,234,6.4
+Data Scientist,GCP/BigQuery,NLP/GenAI,6,234,2.6
+Data Scientist,NLP/GenAI,GCP/BigQuery,6,234,2.6
+Data Scientist,GCP/BigQuery,Python,15,234,6.4
+Data Scientist,Python,GCP/BigQuery,15,234,6.4
+Data Scientist,GCP/BigQuery,R,7,234,3.0
+Data Scientist,R,GCP/BigQuery,7,234,3.0
+Data Scientist,GCP/BigQuery,SQL,10,234,4.3
+Data Scientist,SQL,GCP/BigQuery,10,234,4.3
+Data Scientist,GCP/BigQuery,Spark/Big Data,6,234,2.6
+Data Scientist,Spark/Big Data,GCP/BigQuery,6,234,2.6
+Data Scientist,GCP/BigQuery,Statistics,13,234,5.6
+Data Scientist,Statistics,GCP/BigQuery,13,234,5.6
+Data Scientist,GCP/BigQuery,Tableau,4,234,1.7
+Data Scientist,Tableau,GCP/BigQuery,4,234,1.7
+Data Scientist,NLP/GenAI,R,13,234,5.6
+Data Scientist,R,NLP/GenAI,13,234,5.6
+Data Scientist,NLP/GenAI,SQL,27,234,11.5
+Data Scientist,SQL,NLP/GenAI,27,234,11.5
+Data Scientist,NLP/GenAI,Statistics,41,234,17.5
+Data Scientist,Statistics,NLP/GenAI,41,234,17.5
+Data Scientist,NLP/GenAI,Tableau,12,234,5.1
+Data Scientist,Tableau,NLP/GenAI,12,234,5.1
+Data Scientist,Azure,ETL/Pipelines,5,234,2.1
+Data Scientist,ETL/Pipelines,Azure,5,234,2.1
+Data Scientist,Azure,Git/GitHub,4,234,1.7
+Data Scientist,Git/GitHub,Azure,4,234,1.7
+Data Scientist,Azure,Pandas/NumPy,5,234,2.1
+Data Scientist,Pandas/NumPy,Azure,5,234,2.1
+Data Scientist,Azure,Problem Solving,10,234,4.3
+Data Scientist,Problem Solving,Azure,10,234,4.3
+Data Scientist,ETL/Pipelines,Git/GitHub,5,234,2.1
+Data Scientist,Git/GitHub,ETL/Pipelines,5,234,2.1
+Data Scientist,ETL/Pipelines,Problem Solving,7,234,3.0
+Data Scientist,Problem Solving,ETL/Pipelines,7,234,3.0
+Data Scientist,ETL/Pipelines,R,5,234,2.1
+Data Scientist,R,ETL/Pipelines,5,234,2.1
+Data Scientist,Git/GitHub,Pandas/NumPy,6,234,2.6
+Data Scientist,Pandas/NumPy,Git/GitHub,6,234,2.6
+Data Scientist,Git/GitHub,Problem Solving,11,234,4.7
+Data Scientist,Problem Solving,Git/GitHub,11,234,4.7
+Data Scientist,Git/GitHub,SQL,13,234,5.6
+Data Scientist,SQL,Git/GitHub,13,234,5.6
+Data Scientist,Pandas/NumPy,Problem Solving,12,234,5.1
+Data Scientist,Problem Solving,Pandas/NumPy,12,234,5.1
+Data Scientist,Git/GitHub,NLP/GenAI,5,234,2.1
+Data Scientist,NLP/GenAI,Git/GitHub,5,234,2.1
+Data Scientist,Git/GitHub,Tableau,7,234,3.0
+Data Scientist,Tableau,Git/GitHub,7,234,3.0
+Data Scientist,NLP/GenAI,Pandas/NumPy,7,234,3.0
+Data Scientist,Pandas/NumPy,NLP/GenAI,7,234,3.0
+Data Scientist,Pandas/NumPy,Tableau,8,234,3.4
+Data Scientist,Tableau,Pandas/NumPy,8,234,3.4
+Data Scientist,AWS,ETL/Pipelines,3,234,1.3
+Data Scientist,ETL/Pipelines,AWS,3,234,1.3
+Data Scientist,AWS,Git/GitHub,3,234,1.3
+Data Scientist,Git/GitHub,AWS,3,234,1.3
+Data Scientist,AWS,Problem Solving,13,234,5.6
+Data Scientist,Problem Solving,AWS,13,234,5.6
+Data Scientist,Excel,Power BI,4,234,1.7
+Data Scientist,Power BI,Excel,4,234,1.7
+Data Scientist,Power BI,R,15,234,6.4
+Data Scientist,R,Power BI,15,234,6.4
+Data Scientist,Power BI,SQL,18,234,7.7
+Data Scientist,SQL,Power BI,18,234,7.7
+Data Scientist,SAS/SPSS,Spark/Big Data,9,234,3.8
+Data Scientist,Spark/Big Data,SAS/SPSS,9,234,3.8
+Data Scientist,NLP/GenAI,Problem Solving,21,234,9.0
+Data Scientist,Problem Solving,NLP/GenAI,21,234,9.0
+Data Scientist,AWS,Data Warehousing/Modeling,5,234,2.1
+Data Scientist,Data Warehousing/Modeling,AWS,5,234,2.1
+Data Scientist,Azure,Data Warehousing/Modeling,6,234,2.6
+Data Scientist,Data Warehousing/Modeling,Azure,6,234,2.6
+Data Scientist,Data Warehousing/Modeling,GCP/BigQuery,2,234,0.9
+Data Scientist,GCP/BigQuery,Data Warehousing/Modeling,2,234,0.9
+Data Scientist,Data Warehousing/Modeling,Git/GitHub,5,234,2.1
+Data Scientist,Git/GitHub,Data Warehousing/Modeling,5,234,2.1
+Data Scientist,ETL/Pipelines,Excel,3,234,1.3
+Data Scientist,Excel,ETL/Pipelines,3,234,1.3
+Data Scientist,Data Warehousing/Modeling,Power BI,5,234,2.1
+Data Scientist,Power BI,Data Warehousing/Modeling,5,234,2.1
+Data Scientist,Git/GitHub,Power BI,4,234,1.7
+Data Scientist,Power BI,Git/GitHub,4,234,1.7
+Data Scientist,Power BI,Spark/Big Data,10,234,4.3
+Data Scientist,Spark/Big Data,Power BI,10,234,4.3
+Data Scientist,Azure,Looker/Qlik,1,234,0.4
+Data Scientist,Looker/Qlik,Azure,1,234,0.4
+Data Scientist,Azure,Power BI,7,234,3.0
+Data Scientist,Power BI,Azure,7,234,3.0
+Data Scientist,Data Visualization,Looker/Qlik,5,234,2.1
+Data Scientist,Looker/Qlik,Data Visualization,5,234,2.1
+Data Scientist,Data Warehousing/Modeling,Looker/Qlik,3,234,1.3
+Data Scientist,Looker/Qlik,Data Warehousing/Modeling,3,234,1.3
+Data Scientist,Deep Learning,Looker/Qlik,2,234,0.9
+Data Scientist,Looker/Qlik,Deep Learning,2,234,0.9
+Data Scientist,Deep Learning,Power BI,6,234,2.6
+Data Scientist,Power BI,Deep Learning,6,234,2.6
+Data Scientist,Git/GitHub,Looker/Qlik,3,234,1.3
+Data Scientist,Looker/Qlik,Git/GitHub,3,234,1.3
+Data Scientist,Looker/Qlik,Pandas/NumPy,3,234,1.3
+Data Scientist,Pandas/NumPy,Looker/Qlik,3,234,1.3
+Data Scientist,Looker/Qlik,Power BI,3,234,1.3
+Data Scientist,Power BI,Looker/Qlik,3,234,1.3
+Data Scientist,Looker/Qlik,Problem Solving,5,234,2.1
+Data Scientist,Problem Solving,Looker/Qlik,5,234,2.1
+Data Scientist,Looker/Qlik,Python,7,234,3.0
+Data Scientist,Python,Looker/Qlik,7,234,3.0
+Data Scientist,Looker/Qlik,SQL,6,234,2.6
+Data Scientist,SQL,Looker/Qlik,6,234,2.6
+Data Scientist,Looker/Qlik,Spark/Big Data,3,234,1.3
+Data Scientist,Spark/Big Data,Looker/Qlik,3,234,1.3
+Data Scientist,Looker/Qlik,Statistics,6,234,2.6
+Data Scientist,Statistics,Looker/Qlik,6,234,2.6
+Data Scientist,Looker/Qlik,Tableau,6,234,2.6
+Data Scientist,Tableau,Looker/Qlik,6,234,2.6
+Data Scientist,Pandas/NumPy,Power BI,3,234,1.3
+Data Scientist,Power BI,Pandas/NumPy,3,234,1.3
+Data Scientist,AWS,Power BI,4,234,1.7
+Data Scientist,Power BI,AWS,4,234,1.7
+Data Scientist,GCP/BigQuery,Power BI,3,234,1.3
+Data Scientist,Power BI,GCP/BigQuery,3,234,1.3
+Data Scientist,GCP/BigQuery,Problem Solving,5,234,2.1
+Data Scientist,Problem Solving,GCP/BigQuery,5,234,2.1
+Data Scientist,Data Warehousing/Modeling,ETL/Pipelines,5,234,2.1
+Data Scientist,ETL/Pipelines,Data Warehousing/Modeling,5,234,2.1
+Data Scientist,Azure,Excel,3,234,1.3
+Data Scientist,Excel,Azure,3,234,1.3
+Data Scientist,Azure,Snowflake,1,234,0.4
+Data Scientist,Snowflake,Azure,1,234,0.4
+Data Scientist,Azure,VBA/Macros,1,234,0.4
+Data Scientist,VBA/Macros,Azure,1,234,0.4
+Data Scientist,Communication,Snowflake,4,234,1.7
+Data Scientist,Snowflake,Communication,4,234,1.7
+Data Scientist,Communication,VBA/Macros,3,234,1.3
+Data Scientist,VBA/Macros,Communication,3,234,1.3
+Data Scientist,Data Visualization,Snowflake,2,234,0.9
+Data Scientist,Snowflake,Data Visualization,2,234,0.9
+Data Scientist,Data Visualization,VBA/Macros,1,234,0.4
+Data Scientist,VBA/Macros,Data Visualization,1,234,0.4
+Data Scientist,Data Warehousing/Modeling,NLP/GenAI,9,234,3.8
+Data Scientist,NLP/GenAI,Data Warehousing/Modeling,9,234,3.8
+Data Scientist,Data Warehousing/Modeling,Snowflake,2,234,0.9
+Data Scientist,Snowflake,Data Warehousing/Modeling,2,234,0.9
+Data Scientist,Data Warehousing/Modeling,VBA/Macros,1,234,0.4
+Data Scientist,VBA/Macros,Data Warehousing/Modeling,1,234,0.4
+Data Scientist,ETL/Pipelines,Power BI,4,234,1.7
+Data Scientist,Power BI,ETL/Pipelines,4,234,1.7
+Data Scientist,ETL/Pipelines,Snowflake,2,234,0.9
+Data Scientist,Snowflake,ETL/Pipelines,2,234,0.9
+Data Scientist,ETL/Pipelines,VBA/Macros,1,234,0.4
+Data Scientist,VBA/Macros,ETL/Pipelines,1,234,0.4
+Data Scientist,Excel,NLP/GenAI,1,234,0.4
+Data Scientist,NLP/GenAI,Excel,1,234,0.4
+Data Scientist,Excel,Snowflake,3,234,1.3
+Data Scientist,Snowflake,Excel,3,234,1.3
+Data Scientist,Excel,VBA/Macros,3,234,1.3
+Data Scientist,VBA/Macros,Excel,3,234,1.3
+Data Scientist,Machine Learning,Snowflake,3,234,1.3
+Data Scientist,Snowflake,Machine Learning,3,234,1.3
+Data Scientist,Machine Learning,VBA/Macros,3,234,1.3
+Data Scientist,VBA/Macros,Machine Learning,3,234,1.3
+Data Scientist,NLP/GenAI,Power BI,6,234,2.6
+Data Scientist,Power BI,NLP/GenAI,6,234,2.6
+Data Scientist,NLP/GenAI,Snowflake,2,234,0.9
+Data Scientist,Snowflake,NLP/GenAI,2,234,0.9
+Data Scientist,NLP/GenAI,VBA/Macros,1,234,0.4
+Data Scientist,VBA/Macros,NLP/GenAI,1,234,0.4
+Data Scientist,Power BI,Snowflake,1,234,0.4
+Data Scientist,Snowflake,Power BI,1,234,0.4
+Data Scientist,Power BI,VBA/Macros,1,234,0.4
+Data Scientist,VBA/Macros,Power BI,1,234,0.4
+Data Scientist,Python,Snowflake,4,234,1.7
+Data Scientist,Snowflake,Python,4,234,1.7
+Data Scientist,Python,VBA/Macros,3,234,1.3
+Data Scientist,VBA/Macros,Python,3,234,1.3
+Data Scientist,R,Snowflake,1,234,0.4
+Data Scientist,Snowflake,R,1,234,0.4
+Data Scientist,R,VBA/Macros,2,234,0.9
+Data Scientist,VBA/Macros,R,2,234,0.9
+Data Scientist,Snowflake,Statistics,4,234,1.7
+Data Scientist,Statistics,Snowflake,4,234,1.7
+Data Scientist,Snowflake,VBA/Macros,2,234,0.9
+Data Scientist,VBA/Macros,Snowflake,2,234,0.9
+Data Scientist,Statistics,VBA/Macros,2,234,0.9
+Data Scientist,VBA/Macros,Statistics,2,234,0.9
+Data Scientist,AWS,Excel,1,234,0.4
+Data Scientist,Excel,AWS,1,234,0.4
+Data Scientist,GCP/BigQuery,Git/GitHub,2,234,0.9
+Data Scientist,Git/GitHub,GCP/BigQuery,2,234,0.9
+Data Scientist,Excel,Git/GitHub,2,234,0.9
+Data Scientist,Git/GitHub,Excel,2,234,0.9
+Data Scientist,Excel,Looker/Qlik,3,234,1.3
+Data Scientist,Looker/Qlik,Excel,3,234,1.3
+Data Scientist,Machine Learning,SAS/SPSS,14,234,6.0
+Data Scientist,SAS/SPSS,Machine Learning,14,234,6.0
+Data Scientist,AWS,Pandas/NumPy,5,234,2.1
+Data Scientist,Pandas/NumPy,AWS,5,234,2.1
+Data Scientist,AWS,SAS/SPSS,4,234,1.7
+Data Scientist,SAS/SPSS,AWS,4,234,1.7
+Data Scientist,GCP/BigQuery,Pandas/NumPy,2,234,0.9
+Data Scientist,Pandas/NumPy,GCP/BigQuery,2,234,0.9
+Data Scientist,Communication,Looker/Qlik,5,234,2.1
+Data Scientist,Looker/Qlik,Communication,5,234,2.1
+Data Scientist,Looker/Qlik,Machine Learning,4,234,1.7
+Data Scientist,Machine Learning,Looker/Qlik,4,234,1.7
+Data Scientist,Looker/Qlik,NLP/GenAI,2,234,0.9
+Data Scientist,NLP/GenAI,Looker/Qlik,2,234,0.9
+Data Scientist,Looker/Qlik,R,3,234,1.3
+Data Scientist,R,Looker/Qlik,3,234,1.3
+Data Scientist,Excel,Pandas/NumPy,4,234,1.7
+Data Scientist,Pandas/NumPy,Excel,4,234,1.7
+Data Scientist,ETL/Pipelines,Tableau,3,234,1.3
+Data Scientist,Tableau,ETL/Pipelines,3,234,1.3
+Data Scientist,Pandas/NumPy,SAS/SPSS,3,234,1.3
+Data Scientist,SAS/SPSS,Pandas/NumPy,3,234,1.3
+Data Scientist,Azure,SAS/SPSS,2,234,0.9
+Data Scientist,SAS/SPSS,Azure,2,234,0.9
+Data Scientist,NLP/GenAI,SAS/SPSS,3,234,1.3
+Data Scientist,SAS/SPSS,NLP/GenAI,3,234,1.3
+Data Scientist,Problem Solving,Snowflake,2,234,0.9
+Data Scientist,Snowflake,Problem Solving,2,234,0.9
+Data Scientist,Problem Solving,VBA/Macros,1,234,0.4
+Data Scientist,VBA/Macros,Problem Solving,1,234,0.4
+Data Scientist,SAS/SPSS,Snowflake,2,234,0.9
+Data Scientist,Snowflake,SAS/SPSS,2,234,0.9
+Data Scientist,SAS/SPSS,VBA/Macros,1,234,0.4
+Data Scientist,VBA/Macros,SAS/SPSS,1,234,0.4
+Data Scientist,SQL,Snowflake,3,234,1.3
+Data Scientist,Snowflake,SQL,3,234,1.3
+Data Scientist,SQL,VBA/Macros,2,234,0.9
+Data Scientist,VBA/Macros,SQL,2,234,0.9
+Data Scientist,ETL/Pipelines,SAS/SPSS,2,234,0.9
+Data Scientist,SAS/SPSS,ETL/Pipelines,2,234,0.9
+Data Scientist,ETL/Pipelines,Looker/Qlik,1,234,0.4
+Data Scientist,Looker/Qlik,ETL/Pipelines,1,234,0.4
+Data Scientist,Git/GitHub,SAS/SPSS,1,234,0.4
+Data Scientist,SAS/SPSS,Git/GitHub,1,234,0.4
+Data Scientist,Git/GitHub,Snowflake,1,234,0.4
+Data Scientist,Snowflake,Git/GitHub,1,234,0.4
+Data Scientist,Looker/Qlik,SAS/SPSS,2,234,0.9
+Data Scientist,SAS/SPSS,Looker/Qlik,2,234,0.9
+Data Scientist,Looker/Qlik,Snowflake,1,234,0.4
+Data Scientist,Snowflake,Looker/Qlik,1,234,0.4
+Data Scientist,Pandas/NumPy,Snowflake,1,234,0.4
+Data Scientist,Snowflake,Pandas/NumPy,1,234,0.4
+Data Scientist,Snowflake,Tableau,1,234,0.4
+Data Scientist,Tableau,Snowflake,1,234,0.4
+Data Scientist,GCP/BigQuery,SAS/SPSS,1,234,0.4
+Data Scientist,SAS/SPSS,GCP/BigQuery,1,234,0.4
+Data Scientist,AWS,Snowflake,1,234,0.4
+Data Scientist,Snowflake,AWS,1,234,0.4
+Data Scientist,Deep Learning,Snowflake,1,234,0.4
+Data Scientist,Snowflake,Deep Learning,1,234,0.4
+Data Scientist,Snowflake,Spark/Big Data,1,234,0.4
+Data Scientist,Spark/Big Data,Snowflake,1,234,0.4
+ML/AI Engineer,Data Visualization,Python,2,11,18.2
+ML/AI Engineer,Python,Data Visualization,2,11,18.2
+ML/AI Engineer,Data Visualization,SQL,2,11,18.2
+ML/AI Engineer,SQL,Data Visualization,2,11,18.2
+ML/AI Engineer,Python,SQL,2,11,18.2
+ML/AI Engineer,SQL,Python,2,11,18.2
+ML/AI Engineer,Deep Learning,Machine Learning,5,11,45.5
+ML/AI Engineer,Machine Learning,Deep Learning,5,11,45.5
+ML/AI Engineer,Deep Learning,Problem Solving,3,11,27.3
+ML/AI Engineer,Problem Solving,Deep Learning,3,11,27.3
+ML/AI Engineer,Deep Learning,Python,4,11,36.4
+ML/AI Engineer,Python,Deep Learning,4,11,36.4
+ML/AI Engineer,Machine Learning,Problem Solving,3,11,27.3
+ML/AI Engineer,Problem Solving,Machine Learning,3,11,27.3
+ML/AI Engineer,Machine Learning,Python,4,11,36.4
+ML/AI Engineer,Python,Machine Learning,4,11,36.4
+ML/AI Engineer,Problem Solving,Python,3,11,27.3
+ML/AI Engineer,Python,Problem Solving,3,11,27.3
+ML/AI Engineer,AWS,Communication,1,11,9.1
+ML/AI Engineer,Communication,AWS,1,11,9.1
+ML/AI Engineer,AWS,Data Warehousing/Modeling,2,11,18.2
+ML/AI Engineer,Data Warehousing/Modeling,AWS,2,11,18.2
+ML/AI Engineer,AWS,Deep Learning,2,11,18.2
+ML/AI Engineer,Deep Learning,AWS,2,11,18.2
+ML/AI Engineer,AWS,GCP/BigQuery,2,11,18.2
+ML/AI Engineer,GCP/BigQuery,AWS,2,11,18.2
+ML/AI Engineer,AWS,Machine Learning,2,11,18.2
+ML/AI Engineer,Machine Learning,AWS,2,11,18.2
+ML/AI Engineer,AWS,Pandas/NumPy,2,11,18.2
+ML/AI Engineer,Pandas/NumPy,AWS,2,11,18.2
+ML/AI Engineer,AWS,Problem Solving,1,11,9.1
+ML/AI Engineer,Problem Solving,AWS,1,11,9.1
+ML/AI Engineer,AWS,Python,2,11,18.2
+ML/AI Engineer,Python,AWS,2,11,18.2
+ML/AI Engineer,AWS,Statistics,2,11,18.2
+ML/AI Engineer,Statistics,AWS,2,11,18.2
+ML/AI Engineer,Communication,Data Warehousing/Modeling,1,11,9.1
+ML/AI Engineer,Data Warehousing/Modeling,Communication,1,11,9.1
+ML/AI Engineer,Communication,Deep Learning,3,11,27.3
+ML/AI Engineer,Deep Learning,Communication,3,11,27.3
+ML/AI Engineer,Communication,GCP/BigQuery,1,11,9.1
+ML/AI Engineer,GCP/BigQuery,Communication,1,11,9.1
+ML/AI Engineer,Communication,Machine Learning,6,11,54.5
+ML/AI Engineer,Machine Learning,Communication,6,11,54.5
+ML/AI Engineer,Communication,Pandas/NumPy,2,11,18.2
+ML/AI Engineer,Pandas/NumPy,Communication,2,11,18.2
+ML/AI Engineer,Communication,Problem Solving,2,11,18.2
+ML/AI Engineer,Problem Solving,Communication,2,11,18.2
+ML/AI Engineer,Communication,Python,2,11,18.2
+ML/AI Engineer,Python,Communication,2,11,18.2
+ML/AI Engineer,Communication,Statistics,3,11,27.3
+ML/AI Engineer,Statistics,Communication,3,11,27.3
+ML/AI Engineer,Data Warehousing/Modeling,Deep Learning,2,11,18.2
+ML/AI Engineer,Deep Learning,Data Warehousing/Modeling,2,11,18.2
+ML/AI Engineer,Data Warehousing/Modeling,GCP/BigQuery,2,11,18.2
+ML/AI Engineer,GCP/BigQuery,Data Warehousing/Modeling,2,11,18.2
+ML/AI Engineer,Data Warehousing/Modeling,Machine Learning,2,11,18.2
+ML/AI Engineer,Machine Learning,Data Warehousing/Modeling,2,11,18.2
+ML/AI Engineer,Data Warehousing/Modeling,Pandas/NumPy,2,11,18.2
+ML/AI Engineer,Pandas/NumPy,Data Warehousing/Modeling,2,11,18.2
+ML/AI Engineer,Data Warehousing/Modeling,Problem Solving,1,11,9.1
+ML/AI Engineer,Problem Solving,Data Warehousing/Modeling,1,11,9.1
+ML/AI Engineer,Data Warehousing/Modeling,Python,2,11,18.2
+ML/AI Engineer,Python,Data Warehousing/Modeling,2,11,18.2
+ML/AI Engineer,Data Warehousing/Modeling,Statistics,2,11,18.2
+ML/AI Engineer,Statistics,Data Warehousing/Modeling,2,11,18.2
+ML/AI Engineer,Deep Learning,GCP/BigQuery,2,11,18.2
+ML/AI Engineer,GCP/BigQuery,Deep Learning,2,11,18.2
+ML/AI Engineer,Deep Learning,Pandas/NumPy,3,11,27.3
+ML/AI Engineer,Pandas/NumPy,Deep Learning,3,11,27.3
+ML/AI Engineer,Deep Learning,Statistics,4,11,36.4
+ML/AI Engineer,Statistics,Deep Learning,4,11,36.4
+ML/AI Engineer,GCP/BigQuery,Machine Learning,2,11,18.2
+ML/AI Engineer,Machine Learning,GCP/BigQuery,2,11,18.2
+ML/AI Engineer,GCP/BigQuery,Pandas/NumPy,2,11,18.2
+ML/AI Engineer,Pandas/NumPy,GCP/BigQuery,2,11,18.2
+ML/AI Engineer,GCP/BigQuery,Problem Solving,1,11,9.1
+ML/AI Engineer,Problem Solving,GCP/BigQuery,1,11,9.1
+ML/AI Engineer,GCP/BigQuery,Python,2,11,18.2
+ML/AI Engineer,Python,GCP/BigQuery,2,11,18.2
+ML/AI Engineer,GCP/BigQuery,Statistics,2,11,18.2
+ML/AI Engineer,Statistics,GCP/BigQuery,2,11,18.2
+ML/AI Engineer,Machine Learning,Pandas/NumPy,3,11,27.3
+ML/AI Engineer,Pandas/NumPy,Machine Learning,3,11,27.3
+ML/AI Engineer,Machine Learning,Statistics,5,11,45.5
+ML/AI Engineer,Statistics,Machine Learning,5,11,45.5
+ML/AI Engineer,Pandas/NumPy,Problem Solving,2,11,18.2
+ML/AI Engineer,Problem Solving,Pandas/NumPy,2,11,18.2
+ML/AI Engineer,Pandas/NumPy,Python,3,11,27.3
+ML/AI Engineer,Python,Pandas/NumPy,3,11,27.3
+ML/AI Engineer,Pandas/NumPy,Statistics,3,11,27.3
+ML/AI Engineer,Statistics,Pandas/NumPy,3,11,27.3
+ML/AI Engineer,Problem Solving,Statistics,2,11,18.2
+ML/AI Engineer,Statistics,Problem Solving,2,11,18.2
+ML/AI Engineer,Python,Statistics,3,11,27.3
+ML/AI Engineer,Statistics,Python,3,11,27.3
+ML/AI Engineer,AWS,Azure,1,11,9.1
+ML/AI Engineer,Azure,AWS,1,11,9.1
+ML/AI Engineer,AWS,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,AWS,1,11,9.1
+ML/AI Engineer,AWS,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,AWS,1,11,9.1
+ML/AI Engineer,AWS,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,AWS,1,11,9.1
+ML/AI Engineer,Azure,Data Warehousing/Modeling,1,11,9.1
+ML/AI Engineer,Data Warehousing/Modeling,Azure,1,11,9.1
+ML/AI Engineer,Azure,Deep Learning,1,11,9.1
+ML/AI Engineer,Deep Learning,Azure,1,11,9.1
+ML/AI Engineer,Azure,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Azure,1,11,9.1
+ML/AI Engineer,Azure,GCP/BigQuery,1,11,9.1
+ML/AI Engineer,GCP/BigQuery,Azure,1,11,9.1
+ML/AI Engineer,Azure,Machine Learning,1,11,9.1
+ML/AI Engineer,Machine Learning,Azure,1,11,9.1
+ML/AI Engineer,Azure,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,Azure,1,11,9.1
+ML/AI Engineer,Azure,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,Azure,1,11,9.1
+ML/AI Engineer,Azure,Python,1,11,9.1
+ML/AI Engineer,Python,Azure,1,11,9.1
+ML/AI Engineer,Azure,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,Azure,1,11,9.1
+ML/AI Engineer,Azure,Statistics,1,11,9.1
+ML/AI Engineer,Statistics,Azure,1,11,9.1
+ML/AI Engineer,Data Warehousing/Modeling,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Data Warehousing/Modeling,1,11,9.1
+ML/AI Engineer,Data Warehousing/Modeling,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,Data Warehousing/Modeling,1,11,9.1
+ML/AI Engineer,Data Warehousing/Modeling,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,Data Warehousing/Modeling,1,11,9.1
+ML/AI Engineer,Deep Learning,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Deep Learning,1,11,9.1
+ML/AI Engineer,Deep Learning,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,Deep Learning,1,11,9.1
+ML/AI Engineer,Deep Learning,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,Deep Learning,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,GCP/BigQuery,1,11,9.1
+ML/AI Engineer,GCP/BigQuery,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Machine Learning,2,11,18.2
+ML/AI Engineer,Machine Learning,ETL/Pipelines,2,11,18.2
+ML/AI Engineer,ETL/Pipelines,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Python,1,11,9.1
+ML/AI Engineer,Python,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Statistics,2,11,18.2
+ML/AI Engineer,Statistics,ETL/Pipelines,2,11,18.2
+ML/AI Engineer,GCP/BigQuery,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,GCP/BigQuery,1,11,9.1
+ML/AI Engineer,GCP/BigQuery,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,GCP/BigQuery,1,11,9.1
+ML/AI Engineer,Machine Learning,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,Machine Learning,1,11,9.1
+ML/AI Engineer,Machine Learning,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,Machine Learning,1,11,9.1
+ML/AI Engineer,NLP/GenAI,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,Python,1,11,9.1
+ML/AI Engineer,Python,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,NLP/GenAI,1,11,9.1
+ML/AI Engineer,NLP/GenAI,Statistics,1,11,9.1
+ML/AI Engineer,Statistics,NLP/GenAI,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Python,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Spark/Big Data,Python,1,11,9.1
+ML/AI Engineer,Spark/Big Data,Statistics,1,11,9.1
+ML/AI Engineer,Statistics,Spark/Big Data,1,11,9.1
+ML/AI Engineer,Communication,Excel,4,11,36.4
+ML/AI Engineer,Excel,Communication,4,11,36.4
+ML/AI Engineer,Excel,Machine Learning,4,11,36.4
+ML/AI Engineer,Machine Learning,Excel,4,11,36.4
+ML/AI Engineer,Communication,Data Visualization,2,11,18.2
+ML/AI Engineer,Data Visualization,Communication,2,11,18.2
+ML/AI Engineer,Data Visualization,Deep Learning,2,11,18.2
+ML/AI Engineer,Deep Learning,Data Visualization,2,11,18.2
+ML/AI Engineer,Data Visualization,Machine Learning,3,11,27.3
+ML/AI Engineer,Machine Learning,Data Visualization,3,11,27.3
+ML/AI Engineer,Data Visualization,Statistics,3,11,27.3
+ML/AI Engineer,Statistics,Data Visualization,3,11,27.3
+ML/AI Engineer,Communication,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Communication,1,11,9.1
+ML/AI Engineer,Communication,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Communication,1,11,9.1
+ML/AI Engineer,Communication,SQL,1,11,9.1
+ML/AI Engineer,SQL,Communication,1,11,9.1
+ML/AI Engineer,Communication,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Communication,1,11,9.1
+ML/AI Engineer,Data Visualization,Excel,1,11,9.1
+ML/AI Engineer,Excel,Data Visualization,1,11,9.1
+ML/AI Engineer,Data Visualization,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Data Visualization,1,11,9.1
+ML/AI Engineer,Data Visualization,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,Data Visualization,1,11,9.1
+ML/AI Engineer,Data Visualization,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Data Visualization,1,11,9.1
+ML/AI Engineer,Data Visualization,Problem Solving,1,11,9.1
+ML/AI Engineer,Problem Solving,Data Visualization,1,11,9.1
+ML/AI Engineer,Data Visualization,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Data Visualization,1,11,9.1
+ML/AI Engineer,Deep Learning,Excel,1,11,9.1
+ML/AI Engineer,Excel,Deep Learning,1,11,9.1
+ML/AI Engineer,Deep Learning,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Deep Learning,1,11,9.1
+ML/AI Engineer,Deep Learning,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Deep Learning,1,11,9.1
+ML/AI Engineer,Deep Learning,SQL,1,11,9.1
+ML/AI Engineer,SQL,Deep Learning,1,11,9.1
+ML/AI Engineer,Deep Learning,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Deep Learning,1,11,9.1
+ML/AI Engineer,Excel,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Excel,1,11,9.1
+ML/AI Engineer,Excel,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,Excel,1,11,9.1
+ML/AI Engineer,Excel,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Excel,1,11,9.1
+ML/AI Engineer,Excel,Problem Solving,1,11,9.1
+ML/AI Engineer,Problem Solving,Excel,1,11,9.1
+ML/AI Engineer,Excel,Python,1,11,9.1
+ML/AI Engineer,Python,Excel,1,11,9.1
+ML/AI Engineer,Excel,SQL,1,11,9.1
+ML/AI Engineer,SQL,Excel,1,11,9.1
+ML/AI Engineer,Excel,Statistics,1,11,9.1
+ML/AI Engineer,Statistics,Excel,1,11,9.1
+ML/AI Engineer,Excel,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Excel,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Machine Learning,1,11,9.1
+ML/AI Engineer,Machine Learning,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Problem Solving,1,11,9.1
+ML/AI Engineer,Problem Solving,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Python,1,11,9.1
+ML/AI Engineer,Python,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,SQL,1,11,9.1
+ML/AI Engineer,SQL,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Statistics,1,11,9.1
+ML/AI Engineer,Statistics,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Looker/Qlik,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Looker/Qlik,1,11,9.1
+ML/AI Engineer,Machine Learning,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Machine Learning,1,11,9.1
+ML/AI Engineer,Machine Learning,SQL,1,11,9.1
+ML/AI Engineer,SQL,Machine Learning,1,11,9.1
+ML/AI Engineer,Machine Learning,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Machine Learning,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,SQL,1,11,9.1
+ML/AI Engineer,SQL,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Pandas/NumPy,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Pandas/NumPy,1,11,9.1
+ML/AI Engineer,Power BI,Problem Solving,1,11,9.1
+ML/AI Engineer,Problem Solving,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Python,1,11,9.1
+ML/AI Engineer,Python,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,SQL,1,11,9.1
+ML/AI Engineer,SQL,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Statistics,1,11,9.1
+ML/AI Engineer,Statistics,Power BI,1,11,9.1
+ML/AI Engineer,Power BI,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Power BI,1,11,9.1
+ML/AI Engineer,Problem Solving,SQL,1,11,9.1
+ML/AI Engineer,SQL,Problem Solving,1,11,9.1
+ML/AI Engineer,Problem Solving,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Problem Solving,1,11,9.1
+ML/AI Engineer,Python,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Python,1,11,9.1
+ML/AI Engineer,SQL,Statistics,1,11,9.1
+ML/AI Engineer,Statistics,SQL,1,11,9.1
+ML/AI Engineer,SQL,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,SQL,1,11,9.1
+ML/AI Engineer,Statistics,Tableau,1,11,9.1
+ML/AI Engineer,Tableau,Statistics,1,11,9.1
+ML/AI Engineer,Data Visualization,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Data Visualization,1,11,9.1
+ML/AI Engineer,Data Visualization,Git/GitHub,1,11,9.1
+ML/AI Engineer,Git/GitHub,Data Visualization,1,11,9.1
+ML/AI Engineer,ETL/Pipelines,Git/GitHub,1,11,9.1
+ML/AI Engineer,Git/GitHub,ETL/Pipelines,1,11,9.1
+ML/AI Engineer,Git/GitHub,Machine Learning,1,11,9.1
+ML/AI Engineer,Machine Learning,Git/GitHub,1,11,9.1
+ML/AI Engineer,Git/GitHub,Statistics,1,11,9.1
+ML/AI Engineer,Statistics,Git/GitHub,1,11,9.1
