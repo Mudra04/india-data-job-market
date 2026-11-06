@@ -4,7 +4,7 @@
 
 An end-to-end analytics project: Python data cleaning, skill extraction from job descriptions, SQL analysis in SQLite, and a 4-page interactive Tableau dashboard.
 
-**Live dashboard:** [View on Tableau Public]([PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE](https://public.tableau.com/app/profile/mudra.berde/vizzes))
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/mudra.berde/vizzes)
 **Case study:** [docs/CASE_STUDY.md](docs/CASE_STUDY.md)
 
 ## Dashboard preview
